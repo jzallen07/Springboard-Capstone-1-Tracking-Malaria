@@ -1,0 +1,5369 @@
+country_name,country_code,year,incidence
+Afghanistan,AFG,1962,640
+Afghanistan,AFG,1963,923
+Afghanistan,AFG,1964,2658
+Afghanistan,AFG,1965,2112
+Afghanistan,AFG,1966,2551
+Afghanistan,AFG,1967,3919
+Afghanistan,AFG,1968,8412
+Afghanistan,AFG,1969,12078
+Afghanistan,AFG,1970,36996
+Afghanistan,AFG,1971,77715
+Afghanistan,AFG,1972,82360
+Afghanistan,AFG,1973,62618
+Afghanistan,AFG,1974,60546
+Afghanistan,AFG,1975,80557
+Afghanistan,AFG,1976,127042
+Afghanistan,AFG,1977,59987
+Afghanistan,AFG,1978,44311
+Afghanistan,AFG,1979,34444
+Afghanistan,AFG,1980,47285
+Afghanistan,AFG,1981,67668
+Afghanistan,AFG,1982,110309
+Afghanistan,AFG,1983,118684
+Afghanistan,AFG,1984,155720
+Afghanistan,AFG,1985,277815
+Afghanistan,AFG,1986,377808
+Afghanistan,AFG,1987,428128
+Afghanistan,AFG,1988,378896
+Afghanistan,AFG,1989,257282
+Afghanistan,AFG,1990,317479
+Afghanistan,AFG,1991,297605
+Afghanistan,AFG,1992,na
+Afghanistan,AFG,1993,na
+Afghanistan,AFG,1994,na
+Afghanistan,AFG,1995,na
+Afghanistan,AFG,1996,303955
+Afghanistan,AFG,1997,na
+Afghanistan,AFG,2000,107.1
+Afghanistan,AFG,2005,46.5
+Afghanistan,AFG,2010,23.9
+Afghanistan,AFG,2015,23.6
+Albania,ALB,1962,na
+Albania,ALB,1963,na
+Albania,ALB,1964,na
+Albania,ALB,1965,18
+Albania,ALB,1966,14
+Albania,ALB,1967,1
+Albania,ALB,1968,0
+Albania,ALB,1969,0
+Albania,ALB,1970,0
+Albania,ALB,1971,2
+Albania,ALB,1972,1
+Albania,ALB,1973,0
+Albania,ALB,1974,0
+Albania,ALB,1975,0
+Albania,ALB,1976,1
+Albania,ALB,1977,4
+Albania,ALB,1978,0
+Albania,ALB,1979,na
+Albania,ALB,1980,0
+Albania,ALB,1981,0
+Albania,ALB,1982,na
+Albania,ALB,1983,na
+Albania,ALB,1984,na
+Albania,ALB,1985,na
+Albania,ALB,1986,na
+Albania,ALB,1987,na
+Albania,ALB,1988,na
+Albania,ALB,1989,na
+Albania,ALB,1990,na
+Albania,ALB,1991,na
+Albania,ALB,1992,na
+Albania,ALB,1993,na
+Albania,ALB,1994,na
+Albania,ALB,1995,na
+Albania,ALB,1996,na
+Albania,ALB,1997,na
+Algeria,DZA,1962,na
+Algeria,DZA,1963,na
+Algeria,DZA,1964,2445
+Algeria,DZA,1965,5179
+Algeria,DZA,1966,4951
+Algeria,DZA,1967,na
+Algeria,DZA,1968,12530
+Algeria,DZA,1969,8602
+Algeria,DZA,1970,4002
+Algeria,DZA,1971,1541
+Algeria,DZA,1972,1940
+Algeria,DZA,1973,3248
+Algeria,DZA,1974,1095
+Algeria,DZA,1975,170
+Algeria,DZA,1976,90
+Algeria,DZA,1977,58
+Algeria,DZA,1978,30
+Algeria,DZA,1979,73
+Algeria,DZA,1980,36
+Algeria,DZA,1981,67
+Algeria,DZA,1982,71
+Algeria,DZA,1983,42
+Algeria,DZA,1984,32
+Algeria,DZA,1985,44
+Algeria,DZA,1986,32
+Algeria,DZA,1987,64
+Algeria,DZA,1988,188
+Algeria,DZA,1989,129
+Algeria,DZA,1990,152
+Algeria,DZA,1991,229
+Algeria,DZA,1992,106
+Algeria,DZA,1993,84
+Algeria,DZA,1994,206
+Algeria,DZA,1995,107
+Algeria,DZA,1996,221
+Algeria,DZA,1997,197
+Algeria,DZA,2000,0.037746263
+Algeria,DZA,2005,0.00202141
+Algeria,DZA,2010,0.001273162
+Algeria,DZA,2015,0.001903542
+Angola,AGO,1962,142489
+Angola,AGO,1963,162934
+Angola,AGO,1964,132682
+Angola,AGO,1965,160561
+Angola,AGO,1966,179666
+Angola,AGO,1967,188122
+Angola,AGO,1968,186567
+Angola,AGO,1969,197061
+Angola,AGO,1970,162091
+Angola,AGO,1971,154169
+Angola,AGO,1972,166783
+Angola,AGO,1973,na
+Angola,AGO,1974,166897
+Angola,AGO,1975,na
+Angola,AGO,1976,103402
+Angola,AGO,1977,301405
+Angola,AGO,1978,610555
+Angola,AGO,1979,522358
+Angola,AGO,1980,797688
+Angola,AGO,1981,na
+Angola,AGO,1982,1209000
+Angola,AGO,1983,835000
+Angola,AGO,1984,811000
+Angola,AGO,1985,840000
+Angola,AGO,1986,926000
+Angola,AGO,1987,1021000
+Angola,AGO,1988,1155000
+Angola,AGO,1989,935000
+Angola,AGO,1990,243673
+Angola,AGO,1991,1143701
+Angola,AGO,1992,782988
+Angola,AGO,1993,722981
+Angola,AGO,1994,667376
+Angola,AGO,1995,156603
+Angola,AGO,1996,na
+Angola,AGO,1997,na
+Angola,AGO,2000,315.6
+Angola,AGO,2005,299.5
+Angola,AGO,2010,114.2
+Angola,AGO,2015,124
+Antigua and Barb,ATG,1962,0
+Antigua and Barb,ATG,1963,0
+Antigua and Barb,ATG,1964,0
+Antigua and Barb,ATG,1965,0
+Antigua and Barb,ATG,1966,na
+Antigua and Barb,ATG,1967,na
+Antigua and Barb,ATG,1968,na
+Antigua and Barb,ATG,1969,na
+Antigua and Barb,ATG,1970,na
+Antigua and Barb,ATG,1971,na
+Antigua and Barb,ATG,1972,0
+Antigua and Barb,ATG,1973,na
+Antigua and Barb,ATG,1974,0
+Antigua and Barb,ATG,1975,1
+Antigua and Barb,ATG,1976,0
+Antigua and Barb,ATG,1977,1
+Antigua and Barb,ATG,1978,0
+Antigua and Barb,ATG,1979,0
+Antigua and Barb,ATG,1980,na
+Antigua and Barb,ATG,1981,na
+Antigua and Barb,ATG,1982,na
+Antigua and Barb,ATG,1983,na
+Antigua and Barb,ATG,1984,na
+Antigua and Barb,ATG,1985,na
+Antigua and Barb,ATG,1986,na
+Antigua and Barb,ATG,1987,na
+Antigua and Barb,ATG,1988,na
+Antigua and Barb,ATG,1989,na
+Antigua and Barb,ATG,1990,na
+Antigua and Barb,ATG,1991,na
+Antigua and Barb,ATG,1992,na
+Antigua and Barb,ATG,1993,na
+Antigua and Barb,ATG,1994,na
+Antigua and Barb,ATG,1995,na
+Antigua and Barb,ATG,1996,na
+Antigua and Barb,ATG,1997,na
+Argentina,ARG,1962,4708
+Argentina,ARG,1963,845
+Argentina,ARG,1964,554
+Argentina,ARG,1965,387
+Argentina,ARG,1966,413
+Argentina,ARG,1967,1624
+Argentina,ARG,1968,580
+Argentina,ARG,1969,247
+Argentina,ARG,1970,86
+Argentina,ARG,1971,518
+Argentina,ARG,1972,358
+Argentina,ARG,1973,814
+Argentina,ARG,1974,171
+Argentina,ARG,1975,100
+Argentina,ARG,1976,70
+Argentina,ARG,1977,463
+Argentina,ARG,1978,325
+Argentina,ARG,1979,936
+Argentina,ARG,1980,341
+Argentina,ARG,1981,323
+Argentina,ARG,1982,567
+Argentina,ARG,1983,535
+Argentina,ARG,1984,437
+Argentina,ARG,1985,774
+Argentina,ARG,1986,2000
+Argentina,ARG,1987,1521
+Argentina,ARG,1988,666
+Argentina,ARG,1989,1620
+Argentina,ARG,1990,1660
+Argentina,ARG,1991,803
+Argentina,ARG,1992,643
+Argentina,ARG,1993,758
+Argentina,ARG,1994,948
+Argentina,ARG,1995,1065
+Argentina,ARG,1996,2048
+Argentina,ARG,1997,592
+Argentina,ARG,2000,2.5
+Argentina,ARG,2005,2
+Argentina,ARG,2010,0.1
+Argentina,ARG,2015,0
+Armenia,ARM,1962,na
+Armenia,ARM,1963,na
+Armenia,ARM,1964,na
+Armenia,ARM,1965,na
+Armenia,ARM,1966,na
+Armenia,ARM,1967,na
+Armenia,ARM,1968,na
+Armenia,ARM,1969,na
+Armenia,ARM,1970,na
+Armenia,ARM,1971,na
+Armenia,ARM,1972,na
+Armenia,ARM,1973,na
+Armenia,ARM,1974,na
+Armenia,ARM,1975,na
+Armenia,ARM,1976,na
+Armenia,ARM,1977,na
+Armenia,ARM,1978,na
+Armenia,ARM,1979,na
+Armenia,ARM,1980,na
+Armenia,ARM,1981,na
+Armenia,ARM,1982,7
+Armenia,ARM,1983,16
+Armenia,ARM,1984,6
+Armenia,ARM,1985,6
+Armenia,ARM,1986,9
+Armenia,ARM,1987,7
+Armenia,ARM,1988,8
+Armenia,ARM,1989,3
+Armenia,ARM,1990,0
+Armenia,ARM,1991,0
+Armenia,ARM,1992,0
+Armenia,ARM,1993,0
+Armenia,ARM,1994,196
+Armenia,ARM,1995,502
+Armenia,ARM,1996,347
+Armenia,ARM,1997,841
+Azerbaijan,AZE,2000,17.9
+Azerbaijan,AZE,2005,2.7
+Azerbaijan,AZE,2010,0.5
+Azerbaijan,AZE,2015,0
+Bahamas,BHS,1962,4
+Bahamas,BHS,1963,2
+Bahamas,BHS,1964,4
+Bahamas,BHS,1965,1
+Bahamas,BHS,1966,0
+Bahamas,BHS,1967,0
+Bahamas,BHS,1968,0
+Bahamas,BHS,1969,0
+Bahamas,BHS,1970,0
+Bahamas,BHS,1971,0
+Bahamas,BHS,1972,0
+Bahamas,BHS,1973,0
+Bahamas,BHS,1974,1
+Bahamas,BHS,1975,0
+Bahamas,BHS,1976,1
+Bahamas,BHS,1977,na
+Bahamas,BHS,1978,2
+Bahamas,BHS,1979,14
+Bahamas,BHS,1980,3
+Bahamas,BHS,1981,3
+Bahamas,BHS,1982,na
+Bahamas,BHS,1983,na
+Bahamas,BHS,1984,na
+Bahamas,BHS,1985,na
+Bahamas,BHS,1986,na
+Bahamas,BHS,1987,na
+Bahamas,BHS,1988,na
+Bahamas,BHS,1989,na
+Bahamas,BHS,1990,na
+Bahamas,BHS,1991,na
+Bahamas,BHS,1992,na
+Bahamas,BHS,1993,na
+Bahamas,BHS,1994,na
+Bahamas,BHS,1995,na
+Bahamas,BHS,1996,na
+Bahamas,BHS,1997,na
+Bahrain,BHR,1962,15
+Bahrain,BHR,1963,5
+Bahrain,BHR,1964,4
+Bahrain,BHR,1965,17
+Bahrain,BHR,1966,27
+Bahrain,BHR,1967,22
+Bahrain,BHR,1968,6
+Bahrain,BHR,1969,3
+Bahrain,BHR,1970,38
+Bahrain,BHR,1971,19
+Bahrain,BHR,1972,12
+Bahrain,BHR,1973,77
+Bahrain,BHR,1974,64
+Bahrain,BHR,1975,178
+Bahrain,BHR,1976,573
+Bahrain,BHR,1977,592
+Bahrain,BHR,1978,460
+Bahrain,BHR,1979,273
+Bahrain,BHR,1980,256
+Bahrain,BHR,1981,274
+Bahrain,BHR,1982,na
+Bahrain,BHR,1983,na
+Bahrain,BHR,1984,na
+Bahrain,BHR,1985,na
+Bahrain,BHR,1986,na
+Bahrain,BHR,1987,na
+Bahrain,BHR,1988,na
+Bahrain,BHR,1989,na
+Bahrain,BHR,1990,na
+Bahrain,BHR,1991,na
+Bahrain,BHR,1992,na
+Bahrain,BHR,1993,na
+Bahrain,BHR,1994,na
+Bahrain,BHR,1995,na
+Bahrain,BHR,1996,na
+Bahrain,BHR,1997,na
+Bangladesh,BGD,1962,na
+Bangladesh,BGD,1963,na
+Bangladesh,BGD,1964,740
+Bangladesh,BGD,1965,na
+Bangladesh,BGD,1966,4668
+Bangladesh,BGD,1967,4267
+Bangladesh,BGD,1968,5556
+Bangladesh,BGD,1969,7351
+Bangladesh,BGD,1970,8173
+Bangladesh,BGD,1971,2939
+Bangladesh,BGD,1972,18469
+Bangladesh,BGD,1973,14007
+Bangladesh,BGD,1974,16846
+Bangladesh,BGD,1975,31247
+Bangladesh,BGD,1976,48844
+Bangladesh,BGD,1977,28855
+Bangladesh,BGD,1978,33326
+Bangladesh,BGD,1979,49776
+Bangladesh,BGD,1980,67727
+Bangladesh,BGD,1981,45902
+Bangladesh,BGD,1982,38204
+Bangladesh,BGD,1983,40303
+Bangladesh,BGD,1984,31787
+Bangladesh,BGD,1985,30250
+Bangladesh,BGD,1986,41408
+Bangladesh,BGD,1987,35848
+Bangladesh,BGD,1988,32643
+Bangladesh,BGD,1989,48264
+Bangladesh,BGD,1990,53875
+Bangladesh,BGD,1991,63575
+Bangladesh,BGD,1992,115660
+Bangladesh,BGD,1993,125361
+Bangladesh,BGD,1994,166564
+Bangladesh,BGD,1995,152729
+Bangladesh,BGD,1996,100783
+Bangladesh,BGD,1997,68594
+Bangladesh,BGD,2000,12.5
+Bangladesh,BGD,2005,12.6
+Bangladesh,BGD,2010,8.6
+Bangladesh,BGD,2015,0.8
+Barbados,BRB,1962,na
+Barbados,BRB,1963,0
+Barbados,BRB,1964,na
+Barbados,BRB,1965,na
+Barbados,BRB,1966,na
+Barbados,BRB,1967,na
+Barbados,BRB,1968,0
+Barbados,BRB,1969,na
+Barbados,BRB,1970,0
+Barbados,BRB,1971,0
+Barbados,BRB,1972,0
+Barbados,BRB,1973,0
+Barbados,BRB,1974,0
+Barbados,BRB,1975,0
+Barbados,BRB,1976,7
+Barbados,BRB,1977,1
+Barbados,BRB,1978,2
+Barbados,BRB,1979,2
+Barbados,BRB,1980,1
+Barbados,BRB,1981,1
+Barbados,BRB,1982,na
+Barbados,BRB,1983,na
+Barbados,BRB,1984,na
+Barbados,BRB,1985,na
+Barbados,BRB,1986,na
+Barbados,BRB,1987,na
+Barbados,BRB,1988,na
+Barbados,BRB,1989,na
+Barbados,BRB,1990,na
+Barbados,BRB,1991,na
+Barbados,BRB,1992,na
+Barbados,BRB,1993,na
+Barbados,BRB,1994,na
+Barbados,BRB,1995,na
+Barbados,BRB,1996,na
+Barbados,BRB,1997,na
+Belize,BLZ,1962,20
+Belize,BLZ,1963,17
+Belize,BLZ,1964,35
+Belize,BLZ,1965,206
+Belize,BLZ,1966,552
+Belize,BLZ,1967,374
+Belize,BLZ,1968,39
+Belize,BLZ,1969,28
+Belize,BLZ,1970,33
+Belize,BLZ,1971,33
+Belize,BLZ,1972,86
+Belize,BLZ,1973,99
+Belize,BLZ,1974,96
+Belize,BLZ,1975,90
+Belize,BLZ,1976,199
+Belize,BLZ,1977,894
+Belize,BLZ,1978,1218
+Belize,BLZ,1979,1391
+Belize,BLZ,1980,1529
+Belize,BLZ,1981,2041
+Belize,BLZ,1982,3868
+Belize,BLZ,1983,4595
+Belize,BLZ,1984,4117
+Belize,BLZ,1985,2800
+Belize,BLZ,1986,2779
+Belize,BLZ,1987,3258
+Belize,BLZ,1988,2725
+Belize,BLZ,1989,3285
+Belize,BLZ,1990,3033
+Belize,BLZ,1991,3317
+Belize,BLZ,1992,5341
+Belize,BLZ,1993,8586
+Belize,BLZ,1994,9957
+Belize,BLZ,1995,9413
+Belize,BLZ,1996,6605
+Belize,BLZ,1997,4014
+Belize,BLZ,2000,20.5
+Belize,BLZ,2005,18.7
+Belize,BLZ,2010,1.6
+Belize,BLZ,2015,0.1
+Benin,BEN,1962,69882
+Benin,BEN,1963,56528
+Benin,BEN,1964,77763
+Benin,BEN,1965,94257
+Benin,BEN,1966,107643
+Benin,BEN,1967,99297
+Benin,BEN,1968,106027
+Benin,BEN,1969,106187
+Benin,BEN,1970,107374
+Benin,BEN,1971,114920
+Benin,BEN,1972,na
+Benin,BEN,1973,125445
+Benin,BEN,1974,91726
+Benin,BEN,1975,103639
+Benin,BEN,1976,140157
+Benin,BEN,1977,127819
+Benin,BEN,1978,133148
+Benin,BEN,1979,122405
+Benin,BEN,1980,131909
+Benin,BEN,1981,142872
+Benin,BEN,1982,96906
+Benin,BEN,1983,na
+Benin,BEN,1984,160249
+Benin,BEN,1985,195659
+Benin,BEN,1986,151105
+Benin,BEN,1987,446820
+Benin,BEN,1988,196669
+Benin,BEN,1989,190429
+Benin,BEN,1990,92870
+Benin,BEN,1991,118796
+Benin,BEN,1992,290868
+Benin,BEN,1993,403327
+Benin,BEN,1994,546827
+Benin,BEN,1995,579300
+Benin,BEN,1996,623396
+Benin,BEN,1997,670857
+Benin,BEN,2000,388.8
+Benin,BEN,2005,420.6
+Benin,BEN,2010,331.6
+Benin,BEN,2015,293.7
+Bermuda,BMU,1962,0
+Bermuda,BMU,1963,0
+Bermuda,BMU,1964,0
+Bermuda,BMU,1965,0
+Bermuda,BMU,1966,0
+Bermuda,BMU,1967,1
+Bermuda,BMU,1968,0
+Bermuda,BMU,1969,na
+Bermuda,BMU,1970,0
+Bermuda,BMU,1971,0
+Bermuda,BMU,1972,0
+Bermuda,BMU,1973,1
+Bermuda,BMU,1974,1
+Bermuda,BMU,1975,0
+Bermuda,BMU,1976,na
+Bermuda,BMU,1977,na
+Bermuda,BMU,1978,0
+Bermuda,BMU,1979,0
+Bermuda,BMU,1980,na
+Bermuda,BMU,1981,na
+Bermuda,BMU,1982,na
+Bermuda,BMU,1983,na
+Bermuda,BMU,1984,na
+Bermuda,BMU,1985,na
+Bermuda,BMU,1986,na
+Bermuda,BMU,1987,na
+Bermuda,BMU,1988,na
+Bermuda,BMU,1989,na
+Bermuda,BMU,1990,na
+Bermuda,BMU,1991,na
+Bermuda,BMU,1992,na
+Bermuda,BMU,1993,na
+Bermuda,BMU,1994,na
+Bermuda,BMU,1995,na
+Bermuda,BMU,1996,na
+Bermuda,BMU,1997,na
+Bhutan,BTN,1962,na
+Bhutan,BTN,1963,na
+Bhutan,BTN,1964,na
+Bhutan,BTN,1965,na
+Bhutan,BTN,1966,na
+Bhutan,BTN,1967,na
+Bhutan,BTN,1968,na
+Bhutan,BTN,1969,na
+Bhutan,BTN,1970,na
+Bhutan,BTN,1971,na
+Bhutan,BTN,1972,na
+Bhutan,BTN,1973,na
+Bhutan,BTN,1974,na
+Bhutan,BTN,1975,na
+Bhutan,BTN,1976,8035
+Bhutan,BTN,1977,3328
+Bhutan,BTN,1978,3483
+Bhutan,BTN,1979,5375
+Bhutan,BTN,1980,na
+Bhutan,BTN,1981,na
+Bhutan,BTN,1982,5583
+Bhutan,BTN,1983,5213
+Bhutan,BTN,1984,18368
+Bhutan,BTN,1985,15999
+Bhutan,BTN,1986,19916
+Bhutan,BTN,1987,13134
+Bhutan,BTN,1988,11134
+Bhutan,BTN,1989,19162
+Bhutan,BTN,1990,9497
+Bhutan,BTN,1991,22126
+Bhutan,BTN,1992,28900
+Bhutan,BTN,1993,28116
+Bhutan,BTN,1994,38901
+Bhutan,BTN,1995,23195
+Bhutan,BTN,1996,15696
+Bhutan,BTN,1997,9029
+Bhutan,BTN,2000,26.4
+Bhutan,BTN,2005,7
+Bhutan,BTN,2010,1.5
+Bhutan,BTN,2015,0.1
+Bolivia,BOL,1962,2010
+Bolivia,BOL,1963,2345
+Bolivia,BOL,1964,3454
+Bolivia,BOL,1965,941
+Bolivia,BOL,1966,1373
+Bolivia,BOL,1967,1442
+Bolivia,BOL,1968,1998
+Bolivia,BOL,1969,4371
+Bolivia,BOL,1970,6791
+Bolivia,BOL,1971,8045
+Bolivia,BOL,1972,4256
+Bolivia,BOL,1973,7650
+Bolivia,BOL,1974,4936
+Bolivia,BOL,1975,6616
+Bolivia,BOL,1976,6714
+Bolivia,BOL,1977,10106
+Bolivia,BOL,1978,10897
+Bolivia,BOL,1979,14712
+Bolivia,BOL,1980,16619
+Bolivia,BOL,1981,9774
+Bolivia,BOL,1982,6699
+Bolivia,BOL,1983,14441
+Bolivia,BOL,1984,16338
+Bolivia,BOL,1985,14354
+Bolivia,BOL,1986,20993
+Bolivia,BOL,1987,24891
+Bolivia,BOL,1988,22258
+Bolivia,BOL,1989,25367
+Bolivia,BOL,1990,19680
+Bolivia,BOL,1991,19031
+Bolivia,BOL,1992,24486
+Bolivia,BOL,1993,27475
+Bolivia,BOL,1994,34749
+Bolivia,BOL,1995,46911
+Bolivia,BOL,1996,64012
+Bolivia,BOL,1997,51478
+Bolivia,BOL,2000,24.3
+Bolivia,BOL,2005,13.6
+Bolivia,BOL,2010,8.4
+Bolivia,BOL,2015,3.9
+Botswana,BWA,1962,224
+Botswana,BWA,1963,137
+Botswana,BWA,1964,470
+Botswana,BWA,1965,76
+Botswana,BWA,1966,53
+Botswana,BWA,1967,571
+Botswana,BWA,1968,814
+Botswana,BWA,1969,1046
+Botswana,BWA,1970,na
+Botswana,BWA,1971,1079
+Botswana,BWA,1972,na
+Botswana,BWA,1973,1613
+Botswana,BWA,1974,7558
+Botswana,BWA,1975,6902
+Botswana,BWA,1976,7895
+Botswana,BWA,1977,2559
+Botswana,BWA,1978,1904
+Botswana,BWA,1979,5954
+Botswana,BWA,1980,2773
+Botswana,BWA,1981,na
+Botswana,BWA,1982,715
+Botswana,BWA,1983,na
+Botswana,BWA,1984,na
+Botswana,BWA,1985,1941
+Botswana,BWA,1986,3082
+Botswana,BWA,1987,1261
+Botswana,BWA,1988,38270
+Botswana,BWA,1989,18350
+Botswana,BWA,1990,10750
+Botswana,BWA,1991,14364
+Botswana,BWA,1992,4995
+Botswana,BWA,1993,55331
+Botswana,BWA,1994,29591
+Botswana,BWA,1995,17599
+Botswana,BWA,1996,na
+Botswana,BWA,1997,na
+Botswana,BWA,2000,44
+Botswana,BWA,2005,3.5
+Botswana,BWA,2010,4.7
+Botswana,BWA,2015,0.9
+Brazil,BRA,1962,72060
+Brazil,BRA,1963,111417
+Brazil,BRA,1964,111278
+Brazil,BRA,1965,110306
+Brazil,BRA,1966,108630
+Brazil,BRA,1967,102842
+Brazil,BRA,1968,81324
+Brazil,BRA,1969,56951
+Brazil,BRA,1970,54644
+Brazil,BRA,1971,80294
+Brazil,BRA,1972,85325
+Brazil,BRA,1973,79161
+Brazil,BRA,1974,66481
+Brazil,BRA,1975,88630
+Brazil,BRA,1976,89959
+Brazil,BRA,1977,104436
+Brazil,BRA,1978,121577
+Brazil,BRA,1979,147630
+Brazil,BRA,1980,176237
+Brazil,BRA,1981,205544
+Brazil,BRA,1982,221939
+Brazil,BRA,1983,297687
+Brazil,BRA,1984,378257
+Brazil,BRA,1985,401904
+Brazil,BRA,1986,443627
+Brazil,BRA,1987,508864
+Brazil,BRA,1988,559535
+Brazil,BRA,1989,577520
+Brazil,BRA,1990,560396
+Brazil,BRA,1991,614431
+Brazil,BRA,1992,609860
+Brazil,BRA,1993,466190
+Brazil,BRA,1994,564406
+Brazil,BRA,1995,565727
+Brazil,BRA,1996,455194
+Brazil,BRA,1997,392976
+Brazil,BRA,2000,62.6
+Brazil,BRA,2005,38.7
+Brazil,BRA,2010,19.4
+Brazil,BRA,2015,7.9
+Brunei,BRN,1962,na
+Brunei,BRN,1963,4
+Brunei,BRN,1964,2
+Brunei,BRN,1965,96
+Brunei,BRN,1966,23
+Brunei,BRN,1967,23
+Brunei,BRN,1968,9
+Brunei,BRN,1969,4
+Brunei,BRN,1970,11
+Brunei,BRN,1971,15
+Brunei,BRN,1972,15
+Brunei,BRN,1973,13
+Brunei,BRN,1974,12
+Brunei,BRN,1975,17
+Brunei,BRN,1976,10
+Brunei,BRN,1977,10
+Brunei,BRN,1978,11
+Brunei,BRN,1979,18
+Brunei,BRN,1980,19
+Brunei,BRN,1981,12
+Brunei,BRN,1982,na
+Brunei,BRN,1983,na
+Brunei,BRN,1984,na
+Brunei,BRN,1985,na
+Brunei,BRN,1986,na
+Brunei,BRN,1987,na
+Brunei,BRN,1988,na
+Brunei,BRN,1989,na
+Brunei,BRN,1990,na
+Brunei,BRN,1991,na
+Brunei,BRN,1992,na
+Brunei,BRN,1993,na
+Brunei,BRN,1994,na
+Brunei,BRN,1995,na
+Brunei,BRN,1996,na
+Brunei,BRN,1997,na
+Burkina Faso,BFA,1962,0
+Burkina Faso,BFA,1963,0
+Burkina Faso,BFA,1964,0
+Burkina Faso,BFA,1965,0
+Burkina Faso,BFA,1966,0
+Burkina Faso,BFA,1967,0
+Burkina Faso,BFA,1968,0
+Burkina Faso,BFA,1969,0
+Burkina Faso,BFA,1970,0
+Burkina Faso,BFA,1971,0
+Burkina Faso,BFA,1972,0
+Burkina Faso,BFA,1973,0
+Burkina Faso,BFA,1974,0
+Burkina Faso,BFA,1975,0
+Burkina Faso,BFA,1976,0
+Burkina Faso,BFA,1977,0
+Burkina Faso,BFA,1978,0
+Burkina Faso,BFA,1979,0
+Burkina Faso,BFA,1980,0
+Burkina Faso,BFA,1981,0
+Burkina Faso,BFA,1982,305986
+Burkina Faso,BFA,1983,na
+Burkina Faso,BFA,1984,na
+Burkina Faso,BFA,1985,519782
+Burkina Faso,BFA,1986,576958
+Burkina Faso,BFA,1987,560472
+Burkina Faso,BFA,1988,583937
+Burkina Faso,BFA,1989,594601
+Burkina Faso,BFA,1990,496513
+Burkina Faso,BFA,1991,448917
+Burkina Faso,BFA,1992,420186
+Burkina Faso,BFA,1993,502275
+Burkina Faso,BFA,1994,472355
+Burkina Faso,BFA,1995,501020
+Burkina Faso,BFA,1996,na
+Burkina Faso,BFA,1997,na
+Burkina Faso,BFA,2000,621.6
+Burkina Faso,BFA,2005,549.8
+Burkina Faso,BFA,2010,601.4
+Burkina Faso,BFA,2015,389.2
+Burundi,BDI,1962,na
+Burundi,BDI,1963,na
+Burundi,BDI,1964,95118
+Burundi,BDI,1965,na
+Burundi,BDI,1966,106387
+Burundi,BDI,1967,97520
+Burundi,BDI,1968,82547
+Burundi,BDI,1969,108136
+Burundi,BDI,1970,na
+Burundi,BDI,1971,103107
+Burundi,BDI,1972,92303
+Burundi,BDI,1973,na
+Burundi,BDI,1974,na
+Burundi,BDI,1975,na
+Burundi,BDI,1976,na
+Burundi,BDI,1977,na
+Burundi,BDI,1978,68615
+Burundi,BDI,1979,94049
+Burundi,BDI,1980,79181
+Burundi,BDI,1981,na
+Burundi,BDI,1982,159080
+Burundi,BDI,1983,na
+Burundi,BDI,1984,na
+Burundi,BDI,1985,na
+Burundi,BDI,1986,na
+Burundi,BDI,1987,na
+Burundi,BDI,1988,na
+Burundi,BDI,1989,na
+Burundi,BDI,1990,511611
+Burundi,BDI,1991,568938
+Burundi,BDI,1992,773539
+Burundi,BDI,1993,828429
+Burundi,BDI,1994,831481
+Burundi,BDI,1995,932794
+Burundi,BDI,1996,na
+Burundi,BDI,1997,na
+Burundi,BDI,2000,418.8
+Burundi,BDI,2005,273.3
+Burundi,BDI,2010,198.2
+Burundi,BDI,2015,126.3
+Cambodia,KHM,1962,2475
+Cambodia,KHM,1963,2213
+Cambodia,KHM,1964,2606
+Cambodia,KHM,1965,19661
+Cambodia,KHM,1966,2583
+Cambodia,KHM,1967,3275
+Cambodia,KHM,1968,38333
+Cambodia,KHM,1969,20895
+Cambodia,KHM,1970,3660
+Cambodia,KHM,1971,9049
+Cambodia,KHM,1972,19323
+Cambodia,KHM,1973,16481
+Cambodia,KHM,1974,18715
+Cambodia,KHM,1975,na
+Cambodia,KHM,1976,na
+Cambodia,KHM,1977,na
+Cambodia,KHM,1978,na
+Cambodia,KHM,1979,na
+Cambodia,KHM,1980,na
+Cambodia,KHM,1981,na
+Cambodia,KHM,1982,39978
+Cambodia,KHM,1983,41590
+Cambodia,KHM,1984,49585
+Cambodia,KHM,1985,111272
+Cambodia,KHM,1986,167245
+Cambodia,KHM,1987,63100
+Cambodia,KHM,1988,70091
+Cambodia,KHM,1989,119475
+Cambodia,KHM,1990,123796
+Cambodia,KHM,1991,115701
+Cambodia,KHM,1992,91000
+Cambodia,KHM,1993,99189
+Cambodia,KHM,1994,85012
+Cambodia,KHM,1995,78374
+Cambodia,KHM,1996,73160
+Cambodia,KHM,1997,114793
+Cambodia,KHM,2000,207
+Cambodia,KHM,2005,48.7
+Cambodia,KHM,2010,20.5
+Cambodia,KHM,2015,13
+Cameroon,CMR,1962,179417
+Cameroon,CMR,1963,643869
+Cameroon,CMR,1964,445505
+Cameroon,CMR,1965,214341
+Cameroon,CMR,1966,254889
+Cameroon,CMR,1967,965603
+Cameroon,CMR,1968,768035
+Cameroon,CMR,1969,366349
+Cameroon,CMR,1970,221988
+Cameroon,CMR,1971,464133
+Cameroon,CMR,1972,82927
+Cameroon,CMR,1973,153143
+Cameroon,CMR,1974,95502
+Cameroon,CMR,1975,48014
+Cameroon,CMR,1976,na
+Cameroon,CMR,1977,na
+Cameroon,CMR,1978,31584
+Cameroon,CMR,1979,na
+Cameroon,CMR,1980,na
+Cameroon,CMR,1981,na
+Cameroon,CMR,1982,407326
+Cameroon,CMR,1983,503227
+Cameroon,CMR,1984,916840
+Cameroon,CMR,1985,908789
+Cameroon,CMR,1986,827518
+Cameroon,CMR,1987,914265
+Cameroon,CMR,1988,825231
+Cameroon,CMR,1989,607324
+Cameroon,CMR,1990,869048
+Cameroon,CMR,1991,787796
+Cameroon,CMR,1992,664413
+Cameroon,CMR,1993,478693
+Cameroon,CMR,1994,189066
+Cameroon,CMR,1995,784321
+Cameroon,CMR,1996,931311
+Cameroon,CMR,1997,645309
+Cameroon,CMR,2000,461.1
+Cameroon,CMR,2005,515.7
+Cameroon,CMR,2010,321.8
+Cameroon,CMR,2015,264.2
+Cape Verde,CPV,1962,555
+Cape Verde,CPV,1963,150
+Cape Verde,CPV,1964,43
+Cape Verde,CPV,1965,34
+Cape Verde,CPV,1966,69
+Cape Verde,CPV,1967,21
+Cape Verde,CPV,1968,na
+Cape Verde,CPV,1969,na
+Cape Verde,CPV,1970,na
+Cape Verde,CPV,1971,11
+Cape Verde,CPV,1972,16
+Cape Verde,CPV,1973,193
+Cape Verde,CPV,1974,104
+Cape Verde,CPV,1975,112
+Cape Verde,CPV,1976,23
+Cape Verde,CPV,1977,139
+Cape Verde,CPV,1978,844
+Cape Verde,CPV,1979,621
+Cape Verde,CPV,1980,213
+Cape Verde,CPV,1981,na
+Cape Verde,CPV,1982,47
+Cape Verde,CPV,1983,9
+Cape Verde,CPV,1984,10
+Cape Verde,CPV,1985,12
+Cape Verde,CPV,1986,75
+Cape Verde,CPV,1987,434
+Cape Verde,CPV,1988,814
+Cape Verde,CPV,1989,183
+Cape Verde,CPV,1990,69
+Cape Verde,CPV,1991,80
+Cape Verde,CPV,1992,38
+Cape Verde,CPV,1993,44
+Cape Verde,CPV,1994,21
+Cape Verde,CPV,1995,127
+Cape Verde,CPV,1996,77
+Cape Verde,CPV,1997,20
+Cape Verde,CPV,2000,8.6
+Cape Verde,CPV,2005,3.6
+Cape Verde,CPV,2010,2.2
+Cape Verde,CPV,2015,0.2
+Central Africa Republic,CAF,1962,55872
+Central Africa Republic,CAF,1963,62519
+Central Africa Republic,CAF,1964,23805
+Central Africa Republic,CAF,1965,19954
+Central Africa Republic,CAF,1966,56134
+Central Africa Republic,CAF,1967,41819
+Central Africa Republic,CAF,1968,177670
+Central Africa Republic,CAF,1969,120206
+Central Africa Republic,CAF,1970,74953
+Central Africa Republic,CAF,1971,na
+Central Africa Republic,CAF,1972,77459
+Central Africa Republic,CAF,1973,90067
+Central Africa Republic,CAF,1974,102108
+Central Africa Republic,CAF,1975,55913
+Central Africa Republic,CAF,1976,134175
+Central Africa Republic,CAF,1977,137989
+Central Africa Republic,CAF,1978,165589
+Central Africa Republic,CAF,1979,167346
+Central Africa Republic,CAF,1980,na
+Central Africa Republic,CAF,1981,na
+Central Africa Republic,CAF,1982,107034
+Central Africa Republic,CAF,1983,79657
+Central Africa Republic,CAF,1984,35127
+Central Africa Republic,CAF,1985,909911
+Central Africa Republic,CAF,1986,117618
+Central Africa Republic,CAF,1987,174418
+Central Africa Republic,CAF,1988,106277
+Central Africa Republic,CAF,1989,na
+Central Africa Republic,CAF,1990,174436
+Central Africa Republic,CAF,1991,125038
+Central Africa Republic,CAF,1992,89930
+Central Africa Republic,CAF,1993,82072
+Central Africa Republic,CAF,1994,82057
+Central Africa Republic,CAF,1995,na
+Central Africa Republic,CAF,1996,na
+Central Africa Republic,CAF,1997,na
+Central African Republic,CAF,2000,437.6
+Central African Republic,CAF,2005,467.7
+Central African Republic,CAF,2010,365
+Central African Republic,CAF,2015,289.5
+Chad,TCD,1962,280
+Chad,TCD,1963,79213
+Chad,TCD,1964,82376
+Chad,TCD,1965,107335
+Chad,TCD,1966,101042
+Chad,TCD,1967,87858
+Chad,TCD,1968,99006
+Chad,TCD,1969,125498
+Chad,TCD,1970,127487
+Chad,TCD,1971,148740
+Chad,TCD,1972,142496
+Chad,TCD,1973,121776
+Chad,TCD,1974,132815
+Chad,TCD,1975,167275
+Chad,TCD,1976,204093
+Chad,TCD,1977,186682
+Chad,TCD,1978,94545
+Chad,TCD,1979,na
+Chad,TCD,1980,na
+Chad,TCD,1981,na
+Chad,TCD,1982,10391
+Chad,TCD,1983,24707
+Chad,TCD,1984,53085
+Chad,TCD,1985,51210
+Chad,TCD,1986,40917
+Chad,TCD,1987,158727
+Chad,TCD,1988,185784
+Chad,TCD,1989,201160
+Chad,TCD,1990,212554
+Chad,TCD,1991,246410
+Chad,TCD,1992,229444
+Chad,TCD,1993,234869
+Chad,TCD,1994,278225
+Chad,TCD,1995,293564
+Chad,TCD,1996,278040
+Chad,TCD,1997,343186
+Chad,TCD,2000,241.5
+Chad,TCD,2005,259.8
+Chad,TCD,2010,193.9
+Chad,TCD,2015,163.2
+Chile,CHL,1962,1
+Chile,CHL,1963,0
+Chile,CHL,1964,na
+Chile,CHL,1965,na
+Chile,CHL,1966,na
+Chile,CHL,1967,na
+Chile,CHL,1968,na
+Chile,CHL,1969,na
+Chile,CHL,1970,na
+Chile,CHL,1971,na
+Chile,CHL,1972,na
+Chile,CHL,1973,na
+Chile,CHL,1974,na
+Chile,CHL,1975,0
+Chile,CHL,1976,1
+Chile,CHL,1977,0
+Chile,CHL,1978,0
+Chile,CHL,1979,0
+Chile,CHL,1980,0
+Chile,CHL,1981,na
+Chile,CHL,1982,na
+Chile,CHL,1983,na
+Chile,CHL,1984,na
+Chile,CHL,1985,na
+Chile,CHL,1986,na
+Chile,CHL,1987,na
+Chile,CHL,1988,na
+Chile,CHL,1989,na
+Chile,CHL,1990,na
+Chile,CHL,1991,na
+Chile,CHL,1992,na
+Chile,CHL,1993,na
+Chile,CHL,1994,na
+Chile,CHL,1995,na
+Chile,CHL,1996,na
+Chile,CHL,1997,na
+China,CHN,1962,na
+China,CHN,1963,na
+China,CHN,1964,na
+China,CHN,1965,na
+China,CHN,1966,na
+China,CHN,1967,na
+China,CHN,1968,na
+China,CHN,1969,na
+China,CHN,1970,na
+China,CHN,1971,na
+China,CHN,1972,na
+China,CHN,1973,na
+China,CHN,1974,na
+China,CHN,1975,na
+China,CHN,1976,na
+China,CHN,1977,4193763
+China,CHN,1978,3096240
+China,CHN,1979,2384543
+China,CHN,1980,3300349
+China,CHN,1981,3059653
+China,CHN,1982,2041359
+China,CHN,1983,265190
+China,CHN,1984,255482
+China,CHN,1985,201129
+China,CHN,1986,363651
+China,CHN,1987,106665
+China,CHN,1988,93170
+China,CHN,1989,88569
+China,CHN,1990,86628
+China,CHN,1991,83001
+China,CHN,1992,73955
+China,CHN,1993,68594
+China,CHN,1994,68612
+China,CHN,1995,47188
+China,CHN,1996,33382
+China,CHN,1997,26816
+China,CHN,2000,0.1
+China,CHN,2005,0.1
+China,CHN,2010,0.020827205
+China,CHN,2015,0.000158545
+Colombia,COL,1962,17497
+Colombia,COL,1963,17898
+Colombia,COL,1964,14729
+Colombia,COL,1965,18888
+Colombia,COL,1966,22148
+Colombia,COL,1967,26530
+Colombia,COL,1968,25527
+Colombia,COL,1969,34230
+Colombia,COL,1970,32272
+Colombia,COL,1971,22402
+Colombia,COL,1972,30997
+Colombia,COL,1973,56494
+Colombia,COL,1974,22406
+Colombia,COL,1975,32690
+Colombia,COL,1976,39022
+Colombia,COL,1977,63888
+Colombia,COL,1978,53412
+Colombia,COL,1979,60957
+Colombia,COL,1980,57346
+Colombia,COL,1981,60972
+Colombia,COL,1982,78601
+Colombia,COL,1983,105360
+Colombia,COL,1984,55268
+Colombia,COL,1985,55791
+Colombia,COL,1986,89251
+Colombia,COL,1987,90014
+Colombia,COL,1988,100850
+Colombia,COL,1989,100286
+Colombia,COL,1990,99489
+Colombia,COL,1991,184156
+Colombia,COL,1992,184023
+Colombia,COL,1993,129377
+Colombia,COL,1994,127218
+Colombia,COL,1995,187082
+Colombia,COL,1996,135923
+Colombia,COL,1997,180898
+Colombia,COL,2000,59
+Colombia,COL,2005,32.2
+Colombia,COL,2010,29.8
+Colombia,COL,2015,12.3
+Comoros,COM,1962,na
+Comoros,COM,1963,7715
+Comoros,COM,1964,4635
+Comoros,COM,1965,na
+Comoros,COM,1966,na
+Comoros,COM,1967,5016
+Comoros,COM,1968,na
+Comoros,COM,1969,na
+Comoros,COM,1970,8166
+Comoros,COM,1971,5039
+Comoros,COM,1972,na
+Comoros,COM,1973,na
+Comoros,COM,1974,3363
+Comoros,COM,1975,na
+Comoros,COM,1976,30352
+Comoros,COM,1977,na
+Comoros,COM,1978,na
+Comoros,COM,1979,na
+Comoros,COM,1980,na
+Comoros,COM,1981,na
+Comoros,COM,1982,na
+Comoros,COM,1983,na
+Comoros,COM,1984,na
+Comoros,COM,1985,na
+Comoros,COM,1986,na
+Comoros,COM,1987,na
+Comoros,COM,1988,na
+Comoros,COM,1989,na
+Comoros,COM,1990,na
+Comoros,COM,1991,na
+Comoros,COM,1992,na
+Comoros,COM,1993,na
+Comoros,COM,1994,na
+Comoros,COM,1995,na
+Comoros,COM,1996,na
+Comoros,COM,1997,na
+Comoros,COM,2000,280.8
+Comoros,COM,2005,251.2
+Comoros,COM,2010,274.6
+Comoros,COM,2015,5
+Congo,COG,1962,56294
+Congo,COG,1963,43880
+Congo,COG,1964,81313
+Congo,COG,1965,104746
+Congo,COG,1966,124203
+Congo,COG,1967,142848
+Congo,COG,1968,151550
+Congo,COG,1969,161673
+Congo,COG,1970,149981
+Congo,COG,1971,178600
+Congo,COG,1972,149418
+Congo,COG,1973,159784
+Congo,COG,1974,119070
+Congo,COG,1975,175653
+Congo,COG,1976,169153
+Congo,COG,1977,na
+Congo,COG,1978,164046
+Congo,COG,1979,147521
+Congo,COG,1980,na
+Congo,COG,1981,na
+Congo,COG,1982,46199
+Congo,COG,1983,51406
+Congo,COG,1984,67228
+Congo,COG,1985,372951
+Congo,COG,1986,62729
+Congo,COG,1987,13098
+Congo,COG,1988,21914
+Congo,COG,1989,29851
+Congo,COG,1990,32428
+Congo,COG,1991,32391
+Congo,COG,1992,21121
+Congo,COG,1993,15504
+Congo,COG,1994,35957
+Congo,COG,1995,28008
+Congo,COG,1996,14000
+Congo,COG,1997,9491
+Congo,COG,2000,363.6
+Congo,COG,2005,350.5
+Congo,COG,2010,217
+Congo,COG,2015,173.3
+Costa Rica,CRI,1962,1583
+Costa Rica,CRI,1963,1228
+Costa Rica,CRI,1964,1212
+Costa Rica,CRI,1965,2563
+Costa Rica,CRI,1966,3047
+Costa Rica,CRI,1967,4444
+Costa Rica,CRI,1968,1191
+Costa Rica,CRI,1969,688
+Costa Rica,CRI,1970,351
+Costa Rica,CRI,1971,257
+Costa Rica,CRI,1972,159
+Costa Rica,CRI,1973,161
+Costa Rica,CRI,1974,152
+Costa Rica,CRI,1975,290
+Costa Rica,CRI,1976,473
+Costa Rica,CRI,1977,217
+Costa Rica,CRI,1978,313
+Costa Rica,CRI,1979,307
+Costa Rica,CRI,1980,376
+Costa Rica,CRI,1981,168
+Costa Rica,CRI,1982,110
+Costa Rica,CRI,1983,245
+Costa Rica,CRI,1984,569
+Costa Rica,CRI,1985,734
+Costa Rica,CRI,1986,790
+Costa Rica,CRI,1987,883
+Costa Rica,CRI,1988,1016
+Costa Rica,CRI,1989,699
+Costa Rica,CRI,1990,1151
+Costa Rica,CRI,1991,3273
+Costa Rica,CRI,1992,6951
+Costa Rica,CRI,1993,5033
+Costa Rica,CRI,1994,4445
+Costa Rica,CRI,1995,4515
+Costa Rica,CRI,1996,5480
+Costa Rica,CRI,1997,4712
+Costa Rica,CRI,2000,2.9
+Costa Rica,CRI,2005,5.1
+Costa Rica,CRI,2010,0.1
+Costa Rica,CRI,2015,0
+Cote d'ivoire,CIV,1962,151088
+Cote d'ivoire,CIV,1963,50940
+Cote d'ivoire,CIV,1964,na
+Cote d'ivoire,CIV,1965,375636
+Cote d'ivoire,CIV,1966,na
+Cote d'ivoire,CIV,1967,525467
+Cote d'ivoire,CIV,1968,na
+Cote d'ivoire,CIV,1969,na
+Cote d'ivoire,CIV,1970,na
+Cote d'ivoire,CIV,1971,181608
+Cote d'ivoire,CIV,1972,na
+Cote d'ivoire,CIV,1973,43430
+Cote d'ivoire,CIV,1974,na
+Cote d'ivoire,CIV,1975,na
+Cote d'ivoire,CIV,1976,na
+Cote d'ivoire,CIV,1977,na
+Cote d'ivoire,CIV,1978,124899
+Cote d'ivoire,CIV,1979,349046
+Cote d'ivoire,CIV,1980,na
+Cote d'ivoire,CIV,1981,na
+Cote d'ivoire,CIV,1982,na
+Cote d'ivoire,CIV,1983,527223
+Cote d'ivoire,CIV,1984,611418
+Cote d'ivoire,CIV,1985,673419
+Cote d'ivoire,CIV,1986,554639
+Cote d'ivoire,CIV,1987,520417
+Cote d'ivoire,CIV,1988,636111
+Cote d'ivoire,CIV,1989,641618
+Cote d'ivoire,CIV,1990,511916
+Cote d'ivoire,CIV,1991,466895
+Cote d'ivoire,CIV,1992,553875
+Cote d'ivoire,CIV,1993,421043
+Cote d'ivoire,CIV,1994,na
+Cote d'ivoire,CIV,1995,755812
+Cote d'ivoire,CIV,1996,1109011
+Cote d'ivoire,CIV,1997,983089
+Cote d'Ivoire,CIV,2000,525.4
+Cote d'Ivoire,CIV,2005,530.9
+Cote d'Ivoire,CIV,2010,446.2
+Cote d'Ivoire,CIV,2015,348.8
+Cuba,CUB,1962,3515
+Cuba,CUB,1963,833
+Cuba,CUB,1964,624
+Cuba,CUB,1965,131
+Cuba,CUB,1966,36
+Cuba,CUB,1967,46
+Cuba,CUB,1968,4
+Cuba,CUB,1969,3
+Cuba,CUB,1970,1
+Cuba,CUB,1971,7
+Cuba,CUB,1972,34
+Cuba,CUB,1973,8
+Cuba,CUB,1974,38
+Cuba,CUB,1975,87
+Cuba,CUB,1976,162
+Cuba,CUB,1977,168
+Cuba,CUB,1978,158
+Cuba,CUB,1979,295
+Cuba,CUB,1980,307
+Cuba,CUB,1981,573
+Cuba,CUB,1982,na
+Cuba,CUB,1983,na
+Cuba,CUB,1984,na
+Cuba,CUB,1985,na
+Cuba,CUB,1986,na
+Cuba,CUB,1987,na
+Cuba,CUB,1988,na
+Cuba,CUB,1989,na
+Cuba,CUB,1990,na
+Cuba,CUB,1991,na
+Cuba,CUB,1992,na
+Cuba,CUB,1993,na
+Cuba,CUB,1994,na
+Cuba,CUB,1995,na
+Cuba,CUB,1996,na
+Cuba,CUB,1997,na
+Democratic Republic of Congo,COD,2000,508.5
+Democratic Republic of Congo,COD,2005,524.9
+Democratic Republic of Congo,COD,2010,427.2
+Democratic Republic of Congo,COD,2015,246
+Djibouti,DJI,1962,387
+Djibouti,DJI,1963,387
+Djibouti,DJI,1964,58
+Djibouti,DJI,1965,53
+Djibouti,DJI,1966,33
+Djibouti,DJI,1967,67
+Djibouti,DJI,1968,130
+Djibouti,DJI,1969,17
+Djibouti,DJI,1970,16
+Djibouti,DJI,1971,14
+Djibouti,DJI,1972,26
+Djibouti,DJI,1973,65
+Djibouti,DJI,1974,67
+Djibouti,DJI,1975,96
+Djibouti,DJI,1976,147
+Djibouti,DJI,1977,113
+Djibouti,DJI,1978,316
+Djibouti,DJI,1979,123
+Djibouti,DJI,1980,69
+Djibouti,DJI,1981,640
+Djibouti,DJI,1982,60
+Djibouti,DJI,1983,54
+Djibouti,DJI,1984,68
+Djibouti,DJI,1985,287
+Djibouti,DJI,1986,na
+Djibouti,DJI,1987,823
+Djibouti,DJI,1988,2872
+Djibouti,DJI,1989,1834
+Djibouti,DJI,1990,3237
+Djibouti,DJI,1991,7300
+Djibouti,DJI,1992,7468
+Djibouti,DJI,1993,1007
+Djibouti,DJI,1994,6140
+Djibouti,DJI,1995,3359
+Djibouti,DJI,1996,6105
+Djibouti,DJI,1997,4314
+Djibouti,DJI,2000,57.3
+Djibouti,DJI,2005,40.8
+Djibouti,DJI,2010,7.7
+Djibouti,DJI,2015,25.4
+Dominica,DMA,1962,0
+Dominica,DMA,1963,0
+Dominica,DMA,1964,0
+Dominica,DMA,1965,0
+Dominica,DMA,1966,0
+Dominica,DMA,1967,0
+Dominica,DMA,1968,0
+Dominica,DMA,1969,0
+Dominica,DMA,1970,na
+Dominica,DMA,1971,0
+Dominica,DMA,1972,0
+Dominica,DMA,1973,0
+Dominica,DMA,1974,na
+Dominica,DMA,1975,3
+Dominica,DMA,1976,0
+Dominica,DMA,1977,0
+Dominica,DMA,1978,0
+Dominica,DMA,1979,na
+Dominica,DMA,1980,na
+Dominica,DMA,1981,0
+Dominica,DMA,1982,na
+Dominica,DMA,1983,na
+Dominica,DMA,1984,na
+Dominica,DMA,1985,na
+Dominica,DMA,1986,na
+Dominica,DMA,1987,na
+Dominica,DMA,1988,na
+Dominica,DMA,1989,na
+Dominica,DMA,1990,na
+Dominica,DMA,1991,na
+Dominica,DMA,1992,na
+Dominica,DMA,1993,na
+Dominica,DMA,1994,na
+Dominica,DMA,1995,na
+Dominica,DMA,1996,na
+Dominica,DMA,1997,na
+Dominican Rep.,DOM,1962,548
+Dominican Rep.,DOM,1963,386
+Dominican Rep.,DOM,1964,321
+Dominican Rep.,DOM,1965,84
+Dominican Rep.,DOM,1966,429
+Dominican Rep.,DOM,1967,127
+Dominican Rep.,DOM,1968,21
+Dominican Rep.,DOM,1969,124
+Dominican Rep.,DOM,1970,161
+Dominican Rep.,DOM,1971,277
+Dominican Rep.,DOM,1972,261
+Dominican Rep.,DOM,1973,569
+Dominican Rep.,DOM,1974,520
+Dominican Rep.,DOM,1975,159
+Dominican Rep.,DOM,1976,586
+Dominican Rep.,DOM,1977,745
+Dominican Rep.,DOM,1978,1531
+Dominican Rep.,DOM,1979,3080
+Dominican Rep.,DOM,1980,4780
+Dominican Rep.,DOM,1981,3596
+Dominican Rep.,DOM,1982,4654
+Dominican Rep.,DOM,1983,3801
+Dominican Rep.,DOM,1984,2370
+Dominican Rep.,DOM,1985,816
+Dominican Rep.,DOM,1986,1360
+Dominican Rep.,DOM,1987,1206
+Dominican Rep.,DOM,1988,1072
+Dominican Rep.,DOM,1989,1275
+Dominican Rep.,DOM,1990,356
+Dominican Rep.,DOM,1991,377
+Dominican Rep.,DOM,1992,698
+Dominican Rep.,DOM,1993,987
+Dominican Rep.,DOM,1994,1670
+Dominican Rep.,DOM,1995,1808
+Dominican Rep.,DOM,1996,1414
+Dominican Rep.,DOM,1997,816
+Dominican Republic,DOM,2000,0.8
+Dominican Republic,DOM,2005,2.3
+Dominican Republic,DOM,2010,1.9
+Dominican Republic,DOM,2015,0.3
+Early-demographic dividend,,2000,83.67077107
+Early-demographic dividend,,2005,61.60799185
+Early-demographic dividend,,2010,47.52144478
+Early-demographic dividend,,2015,28.89502231
+East Asia & Pacific,,2000,22.73611631
+East Asia & Pacific,,2005,20.66399234
+East Asia & Pacific,,2010,20.13452512
+East Asia & Pacific,,2015,5.703206481
+East Asia & Pacific (excluding high income),,2000,22.81167814
+East Asia & Pacific (excluding high income),,2005,20.7379542
+East Asia & Pacific (excluding high income),,2010,20.20633782
+East Asia & Pacific (excluding high income),,2015,5.721147127
+East Asia & Pacific (IDA & IBRD),,2000,22.83178893
+East Asia & Pacific (IDA & IBRD),,2005,21.06527199
+East Asia & Pacific (IDA & IBRD),,2010,20.50363081
+East Asia & Pacific (IDA & IBRD),,2015,5.797660558
+East Timor,TLS,1962,na
+East Timor,TLS,1963,na
+East Timor,TLS,1964,na
+East Timor,TLS,1965,na
+East Timor,TLS,1966,50548
+East Timor,TLS,1967,56629
+East Timor,TLS,1968,63292
+East Timor,TLS,1969,na
+East Timor,TLS,1970,na
+East Timor,TLS,1971,77620
+East Timor,TLS,1972,64854
+East Timor,TLS,1973,43680
+East Timor,TLS,1974,na
+East Timor,TLS,1975,na
+East Timor,TLS,1976,na
+East Timor,TLS,1977,na
+East Timor,TLS,1978,na
+East Timor,TLS,1979,na
+East Timor,TLS,1980,na
+East Timor,TLS,1981,na
+East Timor,TLS,1982,na
+East Timor,TLS,1983,na
+East Timor,TLS,1984,na
+East Timor,TLS,1985,na
+East Timor,TLS,1986,na
+East Timor,TLS,1987,na
+East Timor,TLS,1988,na
+East Timor,TLS,1989,na
+East Timor,TLS,1990,na
+East Timor,TLS,1991,na
+East Timor,TLS,1992,na
+East Timor,TLS,1993,na
+East Timor,TLS,1994,na
+East Timor,TLS,1995,na
+East Timor,TLS,1996,na
+East Timor,TLS,1997,na
+Ecuador,ECU,1962,5531
+Ecuador,ECU,1963,3857
+Ecuador,ECU,1964,4728
+Ecuador,ECU,1965,4179
+Ecuador,ECU,1966,4736
+Ecuador,ECU,1967,10765
+Ecuador,ECU,1968,37043
+Ecuador,ECU,1969,50938
+Ecuador,ECU,1970,28373
+Ecuador,ECU,1971,9233
+Ecuador,ECU,1972,6709
+Ecuador,ECU,1973,6810
+Ecuador,ECU,1974,5841
+Ecuador,ECU,1975,6555
+Ecuador,ECU,1976,10974
+Ecuador,ECU,1977,11275
+Ecuador,ECU,1978,9815
+Ecuador,ECU,1979,8207
+Ecuador,ECU,1980,8748
+Ecuador,ECU,1981,12745
+Ecuador,ECU,1982,14633
+Ecuador,ECU,1983,51606
+Ecuador,ECU,1984,78599
+Ecuador,ECU,1985,68989
+Ecuador,ECU,1986,51430
+Ecuador,ECU,1987,63503
+Ecuador,ECU,1988,53607
+Ecuador,ECU,1989,23274
+Ecuador,ECU,1990,71670
+Ecuador,ECU,1991,59400
+Ecuador,ECU,1992,41089
+Ecuador,ECU,1993,46859
+Ecuador,ECU,1994,30006
+Ecuador,ECU,1995,18128
+Ecuador,ECU,1996,11882
+Ecuador,ECU,1997,16365
+Ecuador,ECU,2000,29.2
+Ecuador,ECU,2005,4.4
+Ecuador,ECU,2010,0.4
+Ecuador,ECU,2015,0.1
+Egypt,EGY,1962,96861
+Egypt,EGY,1963,27282
+Egypt,EGY,1964,14213
+Egypt,EGY,1965,7130
+Egypt,EGY,1966,2925
+Egypt,EGY,1967,na
+Egypt,EGY,1968,na
+Egypt,EGY,1969,na
+Egypt,EGY,1970,na
+Egypt,EGY,1971,na
+Egypt,EGY,1972,23097
+Egypt,EGY,1973,5962
+Egypt,EGY,1974,9421
+Egypt,EGY,1975,1459
+Egypt,EGY,1976,na
+Egypt,EGY,1977,1038
+Egypt,EGY,1978,832
+Egypt,EGY,1979,474
+Egypt,EGY,1980,na
+Egypt,EGY,1981,na
+Egypt,EGY,1982,423
+Egypt,EGY,1983,198
+Egypt,EGY,1984,194
+Egypt,EGY,1985,72
+Egypt,EGY,1986,63
+Egypt,EGY,1987,33
+Egypt,EGY,1988,225
+Egypt,EGY,1989,192
+Egypt,EGY,1990,75
+Egypt,EGY,1991,24
+Egypt,EGY,1992,16
+Egypt,EGY,1993,17
+Egypt,EGY,1994,527
+Egypt,EGY,1995,322
+Egypt,EGY,1996,25
+Egypt,EGY,1997,11
+El Salvador,SLV,1962,15433
+El Salvador,SLV,1963,17846
+El Salvador,SLV,1964,25857
+El Salvador,SLV,1965,34070
+El Salvador,SLV,1966,68562
+El Salvador,SLV,1967,82960
+El Salvador,SLV,1968,35831
+El Salvador,SLV,1969,25299
+El Salvador,SLV,1970,45436
+El Salvador,SLV,1971,46858
+El Salvador,SLV,1972,38335
+El Salvador,SLV,1973,35095
+El Salvador,SLV,1974,66691
+El Salvador,SLV,1975,83100
+El Salvador,SLV,1976,83290
+El Salvador,SLV,1977,32243
+El Salvador,SLV,1978,52521
+El Salvador,SLV,1979,77976
+El Salvador,SLV,1980,95835
+El Salvador,SLV,1981,93187
+El Salvador,SLV,1982,86202
+El Salvador,SLV,1983,65377
+El Salvador,SLV,1984,66874
+El Salvador,SLV,1985,44473
+El Salvador,SLV,1986,23953
+El Salvador,SLV,1987,12834
+El Salvador,SLV,1988,9095
+El Salvador,SLV,1989,9605
+El Salvador,SLV,1990,9269
+El Salvador,SLV,1991,5933
+El Salvador,SLV,1992,4539
+El Salvador,SLV,1993,3887
+El Salvador,SLV,1994,2803
+El Salvador,SLV,1995,3362
+El Salvador,SLV,1996,5888
+El Salvador,SLV,1997,2719
+El Salvador,SLV,2000,1.4
+El Salvador,SLV,2005,0.1
+El Salvador,SLV,2010,0.033867441
+El Salvador,SLV,2015,0.005271153
+Equatorial Guinea,GNQ,1962,na
+Equatorial Guinea,GNQ,1963,na
+Equatorial Guinea,GNQ,1964,na
+Equatorial Guinea,GNQ,1965,37333
+Equatorial Guinea,GNQ,1966,47338
+Equatorial Guinea,GNQ,1967,66513
+Equatorial Guinea,GNQ,1968,na
+Equatorial Guinea,GNQ,1969,51486
+Equatorial Guinea,GNQ,1970,na
+Equatorial Guinea,GNQ,1971,37454
+Equatorial Guinea,GNQ,1972,na
+Equatorial Guinea,GNQ,1973,na
+Equatorial Guinea,GNQ,1974,na
+Equatorial Guinea,GNQ,1975,1149
+Equatorial Guinea,GNQ,1976,na
+Equatorial Guinea,GNQ,1977,na
+Equatorial Guinea,GNQ,1978,na
+Equatorial Guinea,GNQ,1979,na
+Equatorial Guinea,GNQ,1980,na
+Equatorial Guinea,GNQ,1981,na
+Equatorial Guinea,GNQ,1982,na
+Equatorial Guinea,GNQ,1983,na
+Equatorial Guinea,GNQ,1984,19036
+Equatorial Guinea,GNQ,1985,na
+Equatorial Guinea,GNQ,1986,na
+Equatorial Guinea,GNQ,1987,10028
+Equatorial Guinea,GNQ,1988,15935
+Equatorial Guinea,GNQ,1989,22236
+Equatorial Guinea,GNQ,1990,25552
+Equatorial Guinea,GNQ,1991,22598
+Equatorial Guinea,GNQ,1992,25100
+Equatorial Guinea,GNQ,1993,17867
+Equatorial Guinea,GNQ,1994,14827
+Equatorial Guinea,GNQ,1995,12530
+Equatorial Guinea,GNQ,1996,na
+Equatorial Guinea,GNQ,1997,na
+Equatorial Guinea,GNQ,2000,364.6
+Equatorial Guinea,GNQ,2005,391.9
+Equatorial Guinea,GNQ,2010,199.7
+Equatorial Guinea,GNQ,2015,215.1
+Eritrea,ERI,1962,na
+Eritrea,ERI,1963,na
+Eritrea,ERI,1964,na
+Eritrea,ERI,1965,na
+Eritrea,ERI,1966,na
+Eritrea,ERI,1967,na
+Eritrea,ERI,1968,na
+Eritrea,ERI,1969,na
+Eritrea,ERI,1970,na
+Eritrea,ERI,1971,na
+Eritrea,ERI,1972,na
+Eritrea,ERI,1973,na
+Eritrea,ERI,1974,na
+Eritrea,ERI,1975,na
+Eritrea,ERI,1976,na
+Eritrea,ERI,1977,na
+Eritrea,ERI,1978,na
+Eritrea,ERI,1979,na
+Eritrea,ERI,1980,na
+Eritrea,ERI,1981,na
+Eritrea,ERI,1982,na
+Eritrea,ERI,1983,na
+Eritrea,ERI,1984,na
+Eritrea,ERI,1985,na
+Eritrea,ERI,1986,na
+Eritrea,ERI,1987,na
+Eritrea,ERI,1988,na
+Eritrea,ERI,1989,na
+Eritrea,ERI,1990,na
+Eritrea,ERI,1991,na
+Eritrea,ERI,1992,na
+Eritrea,ERI,1993,na
+Eritrea,ERI,1994,na
+Eritrea,ERI,1995,81183
+Eritrea,ERI,1996,na
+Eritrea,ERI,1997,na
+Eritrea,ERI,2000,23.2
+Eritrea,ERI,2005,7.9
+Eritrea,ERI,2010,23.2
+Eritrea,ERI,2015,14.5
+Ethiopia,ETH,1962,42332
+Ethiopia,ETH,1963,48211
+Ethiopia,ETH,1964,147407
+Ethiopia,ETH,1965,35101
+Ethiopia,ETH,1966,28312
+Ethiopia,ETH,1967,21825
+Ethiopia,ETH,1968,15978
+Ethiopia,ETH,1969,16718
+Ethiopia,ETH,1970,41259
+Ethiopia,ETH,1971,36155
+Ethiopia,ETH,1972,50190
+Ethiopia,ETH,1973,58070
+Ethiopia,ETH,1974,46330
+Ethiopia,ETH,1975,na
+Ethiopia,ETH,1976,46211
+Ethiopia,ETH,1977,20977
+Ethiopia,ETH,1978,35902
+Ethiopia,ETH,1979,31658
+Ethiopia,ETH,1980,na
+Ethiopia,ETH,1981,na
+Ethiopia,ETH,1982,110507
+Ethiopia,ETH,1983,29437
+Ethiopia,ETH,1984,59583
+Ethiopia,ETH,1985,101578
+Ethiopia,ETH,1986,na
+Ethiopia,ETH,1987,na
+Ethiopia,ETH,1988,na
+Ethiopia,ETH,1989,na
+Ethiopia,ETH,1990,na
+Ethiopia,ETH,1991,na
+Ethiopia,ETH,1992,206262
+Ethiopia,ETH,1993,305616
+Ethiopia,ETH,1994,358469
+Ethiopia,ETH,1995,na
+Ethiopia,ETH,1996,na
+Ethiopia,ETH,1997,na
+Ethiopia,ETH,2000,662.3
+Ethiopia,ETH,2005,130.5
+Ethiopia,ETH,2010,106.2
+Ethiopia,ETH,2015,58.6
+Fiji,FJI,1962,1
+Fiji,FJI,1963,0
+Fiji,FJI,1964,0
+Fiji,FJI,1965,0
+Fiji,FJI,1966,3
+Fiji,FJI,1967,1
+Fiji,FJI,1968,0
+Fiji,FJI,1969,3
+Fiji,FJI,1970,3
+Fiji,FJI,1971,na
+Fiji,FJI,1972,0
+Fiji,FJI,1973,0
+Fiji,FJI,1974,2
+Fiji,FJI,1975,1
+Fiji,FJI,1976,na
+Fiji,FJI,1977,na
+Fiji,FJI,1978,na
+Fiji,FJI,1979,na
+Fiji,FJI,1980,na
+Fiji,FJI,1981,na
+Fiji,FJI,1982,na
+Fiji,FJI,1983,na
+Fiji,FJI,1984,na
+Fiji,FJI,1985,na
+Fiji,FJI,1986,na
+Fiji,FJI,1987,na
+Fiji,FJI,1988,na
+Fiji,FJI,1989,na
+Fiji,FJI,1990,na
+Fiji,FJI,1991,na
+Fiji,FJI,1992,na
+Fiji,FJI,1993,na
+Fiji,FJI,1994,na
+Fiji,FJI,1995,na
+Fiji,FJI,1996,na
+Fiji,FJI,1997,na
+Fragile and conflict affected situations,,2000,319.032295
+Fragile and conflict affected situations,,2005,304.8013933
+Fragile and conflict affected situations,,2010,247.4982978
+Fragile and conflict affected situations,,2015,180.3698423
+French Guiana,GUF,1962,70
+French Guiana,GUF,1963,70
+French Guiana,GUF,1964,48
+French Guiana,GUF,1965,22
+French Guiana,GUF,1966,12
+French Guiana,GUF,1967,25
+French Guiana,GUF,1968,43
+French Guiana,GUF,1969,52
+French Guiana,GUF,1970,117
+French Guiana,GUF,1971,116
+French Guiana,GUF,1972,192
+French Guiana,GUF,1973,484
+French Guiana,GUF,1974,351
+French Guiana,GUF,1975,319
+French Guiana,GUF,1976,394
+French Guiana,GUF,1977,488
+French Guiana,GUF,1978,266
+French Guiana,GUF,1979,604
+French Guiana,GUF,1980,831
+French Guiana,GUF,1981,769
+French Guiana,GUF,1982,1143
+French Guiana,GUF,1983,1051
+French Guiana,GUF,1984,1021
+French Guiana,GUF,1985,691
+French Guiana,GUF,1986,979
+French Guiana,GUF,1987,2221
+French Guiana,GUF,1988,3188
+French Guiana,GUF,1989,6284
+French Guiana,GUF,1990,5909
+French Guiana,GUF,1991,3573
+French Guiana,GUF,1992,4072
+French Guiana,GUF,1993,3974
+French Guiana,GUF,1994,4241
+French Guiana,GUF,1995,4711
+French Guiana,GUF,1996,4724
+French Guiana,GUF,1997,3195
+Gabon,GAB,1962,44835
+Gabon,GAB,1963,59285
+Gabon,GAB,1964,63889
+Gabon,GAB,1965,63994
+Gabon,GAB,1966,73285
+Gabon,GAB,1967,33793
+Gabon,GAB,1968,72778
+Gabon,GAB,1969,63909
+Gabon,GAB,1970,57123
+Gabon,GAB,1971,63593
+Gabon,GAB,1972,78674
+Gabon,GAB,1973,62679
+Gabon,GAB,1974,48878
+Gabon,GAB,1975,39356
+Gabon,GAB,1976,45644
+Gabon,GAB,1977,34329
+Gabon,GAB,1978,21419
+Gabon,GAB,1979,16776
+Gabon,GAB,1980,na
+Gabon,GAB,1981,na
+Gabon,GAB,1982,61714
+Gabon,GAB,1983,30767
+Gabon,GAB,1984,47873
+Gabon,GAB,1985,50629
+Gabon,GAB,1986,63385
+Gabon,GAB,1987,103945
+Gabon,GAB,1988,106645
+Gabon,GAB,1989,71406
+Gabon,GAB,1990,57450
+Gabon,GAB,1991,80247
+Gabon,GAB,1992,100629
+Gabon,GAB,1993,70928
+Gabon,GAB,1994,82245
+Gabon,GAB,1995,54849
+Gabon,GAB,1996,74310
+Gabon,GAB,1997,35842
+Gabon,GAB,2000,358.7
+Gabon,GAB,2005,165.5
+Gabon,GAB,2010,152.4
+Gabon,GAB,2015,232.4
+Gambia,GMB,1962,na
+Gambia,GMB,1963,na
+Gambia,GMB,1964,na
+Gambia,GMB,1965,na
+Gambia,GMB,1966,na
+Gambia,GMB,1967,na
+Gambia,GMB,1968,na
+Gambia,GMB,1969,na
+Gambia,GMB,1970,na
+Gambia,GMB,1971,na
+Gambia,GMB,1972,na
+Gambia,GMB,1973,na
+Gambia,GMB,1974,na
+Gambia,GMB,1975,na
+Gambia,GMB,1976,50674
+Gambia,GMB,1977,60004
+Gambia,GMB,1978,34698
+Gambia,GMB,1979,51993
+Gambia,GMB,1980,70119
+Gambia,GMB,1981,na
+Gambia,GMB,1982,na
+Gambia,GMB,1983,na
+Gambia,GMB,1984,102914
+Gambia,GMB,1985,158376
+Gambia,GMB,1986,379015
+Gambia,GMB,1987,614989
+Gambia,GMB,1988,733077
+Gambia,GMB,1989,185534
+Gambia,GMB,1990,222538
+Gambia,GMB,1991,215414
+Gambia,GMB,1992,188035
+Gambia,GMB,1993,na
+Gambia,GMB,1994,299824
+Gambia,GMB,1995,135909
+Gambia,GMB,1996,266189
+Gambia,GMB,1997,325555
+Gambia,GMB,2000,336.6
+Gambia,GMB,2005,285.1
+Gambia,GMB,2010,243.9
+Gambia,GMB,2015,208.8
+Georgia,GEO,2000,11.3
+Georgia,GEO,2005,7.6
+Georgia,GEO,2010,0
+Georgia,GEO,2015,0
+Ghana,GHA,1962,230323
+Ghana,GHA,1963,812916
+Ghana,GHA,1964,na
+Ghana,GHA,1965,116916
+Ghana,GHA,1966,na
+Ghana,GHA,1967,na
+Ghana,GHA,1968,na
+Ghana,GHA,1969,na
+Ghana,GHA,1970,na
+Ghana,GHA,1971,151517
+Ghana,GHA,1972,na
+Ghana,GHA,1973,212045
+Ghana,GHA,1974,na
+Ghana,GHA,1975,na
+Ghana,GHA,1976,443310
+Ghana,GHA,1977,413319
+Ghana,GHA,1978,371558
+Ghana,GHA,1979,na
+Ghana,GHA,1980,na
+Ghana,GHA,1981,na
+Ghana,GHA,1982,224572
+Ghana,GHA,1983,na
+Ghana,GHA,1984,na
+Ghana,GHA,1985,593368
+Ghana,GHA,1986,807019
+Ghana,GHA,1987,1141886
+Ghana,GHA,1988,1232882
+Ghana,GHA,1989,1556169
+Ghana,GHA,1990,1438713
+Ghana,GHA,1991,1372771
+Ghana,GHA,1992,1446947
+Ghana,GHA,1993,1697109
+Ghana,GHA,1994,1672709
+Ghana,GHA,1995,1928316
+Ghana,GHA,1996,2189860
+Ghana,GHA,1997,2227762
+Ghana,GHA,2000,488.1
+Ghana,GHA,2005,389.2
+Ghana,GHA,2010,395.6
+Ghana,GHA,2015,266.4
+Greece,GRC,1962,132
+Greece,GRC,1963,76
+Greece,GRC,1964,100
+Greece,GRC,1965,75
+Greece,GRC,1966,28
+Greece,GRC,1967,27
+Greece,GRC,1968,48
+Greece,GRC,1969,38
+Greece,GRC,1970,26
+Greece,GRC,1971,60
+Greece,GRC,1972,65
+Greece,GRC,1973,35
+Greece,GRC,1974,29
+Greece,GRC,1975,34
+Greece,GRC,1976,41
+Greece,GRC,1977,48
+Greece,GRC,1978,79
+Greece,GRC,1979,44
+Greece,GRC,1980,53
+Greece,GRC,1981,64
+Greece,GRC,1982,na
+Greece,GRC,1983,na
+Greece,GRC,1984,na
+Greece,GRC,1985,na
+Greece,GRC,1986,na
+Greece,GRC,1987,na
+Greece,GRC,1988,na
+Greece,GRC,1989,na
+Greece,GRC,1990,na
+Greece,GRC,1991,na
+Greece,GRC,1992,na
+Greece,GRC,1993,na
+Greece,GRC,1994,na
+Greece,GRC,1995,na
+Greece,GRC,1996,na
+Greece,GRC,1997,na
+Grenada,GRD,1962,0
+Grenada,GRD,1963,0
+Grenada,GRD,1964,0
+Grenada,GRD,1965,0
+Grenada,GRD,1966,0
+Grenada,GRD,1967,0
+Grenada,GRD,1968,0
+Grenada,GRD,1969,0
+Grenada,GRD,1970,0
+Grenada,GRD,1971,na
+Grenada,GRD,1972,1
+Grenada,GRD,1973,na
+Grenada,GRD,1974,na
+Grenada,GRD,1975,1
+Grenada,GRD,1976,0
+Grenada,GRD,1977,0
+Grenada,GRD,1978,58
+Grenada,GRD,1979,1
+Grenada,GRD,1980,na
+Grenada,GRD,1981,na
+Grenada,GRD,1982,na
+Grenada,GRD,1983,na
+Grenada,GRD,1984,na
+Grenada,GRD,1985,na
+Grenada,GRD,1986,na
+Grenada,GRD,1987,na
+Grenada,GRD,1988,na
+Grenada,GRD,1989,na
+Grenada,GRD,1990,na
+Grenada,GRD,1991,na
+Grenada,GRD,1992,na
+Grenada,GRD,1993,na
+Grenada,GRD,1994,na
+Grenada,GRD,1995,na
+Grenada,GRD,1996,na
+Grenada,GRD,1997,na
+Guatemala,GTM,1962,5996
+Guatemala,GTM,1963,15116
+Guatemala,GTM,1964,20401
+Guatemala,GTM,1965,14472
+Guatemala,GTM,1966,22045
+Guatemala,GTM,1967,19684
+Guatemala,GTM,1968,10407
+Guatemala,GTM,1969,10494
+Guatemala,GTM,1970,11044
+Guatemala,GTM,1971,8280
+Guatemala,GTM,1972,7750
+Guatemala,GTM,1973,6182
+Guatemala,GTM,1974,4030
+Guatemala,GTM,1975,4979
+Guatemala,GTM,1976,9616
+Guatemala,GTM,1977,34907
+Guatemala,GTM,1978,59755
+Guatemala,GTM,1979,69039
+Guatemala,GTM,1980,62657
+Guatemala,GTM,1981,67994
+Guatemala,GTM,1982,77375
+Guatemala,GTM,1983,64024
+Guatemala,GTM,1984,74132
+Guatemala,GTM,1985,54958
+Guatemala,GTM,1986,42609
+Guatemala,GTM,1987,57662
+Guatemala,GTM,1988,52561
+Guatemala,GTM,1989,42453
+Guatemala,GTM,1990,41711
+Guatemala,GTM,1991,57829
+Guatemala,GTM,1992,57560
+Guatemala,GTM,1993,41868
+Guatemala,GTM,1994,22057
+Guatemala,GTM,1995,24178
+Guatemala,GTM,1996,20268
+Guatemala,GTM,1997,32099
+Guatemala,GTM,2000,16.5
+Guatemala,GTM,2005,10.2
+Guatemala,GTM,2010,1.6
+Guatemala,GTM,2015,1.4
+Guinea,GIN,1962,na
+Guinea,GIN,1963,na
+Guinea,GIN,1964,62570
+Guinea,GIN,1965,na
+Guinea,GIN,1966,100761
+Guinea,GIN,1967,na
+Guinea,GIN,1968,199507
+Guinea,GIN,1969,45089
+Guinea,GIN,1970,60921
+Guinea,GIN,1971,166599
+Guinea,GIN,1972,92865
+Guinea,GIN,1973,99157
+Guinea,GIN,1974,88860
+Guinea,GIN,1975,64338
+Guinea,GIN,1976,64246
+Guinea,GIN,1977,53368
+Guinea,GIN,1978,52210
+Guinea,GIN,1979,23086
+Guinea,GIN,1980,na
+Guinea,GIN,1981,na
+Guinea,GIN,1982,46189
+Guinea,GIN,1983,103628
+Guinea,GIN,1984,na
+Guinea,GIN,1985,na
+Guinea,GIN,1986,80280
+Guinea,GIN,1987,21033
+Guinea,GIN,1988,88256
+Guinea,GIN,1989,187813
+Guinea,GIN,1990,21762
+Guinea,GIN,1991,17718
+Guinea,GIN,1992,na
+Guinea,GIN,1993,na
+Guinea,GIN,1994,607560
+Guinea,GIN,1995,600317
+Guinea,GIN,1996,772731
+Guinea,GIN,1997,802210
+Guinea,GIN,2000,471.7
+Guinea,GIN,2005,428.8
+Guinea,GIN,2010,410.3
+Guinea,GIN,2015,367.8
+Guinea-Bissau,GNB,1962,na
+Guinea-Bissau,GNB,1963,69655
+Guinea-Bissau,GNB,1964,na
+Guinea-Bissau,GNB,1965,58077
+Guinea-Bissau,GNB,1966,74183
+Guinea-Bissau,GNB,1967,33071
+Guinea-Bissau,GNB,1968,na
+Guinea-Bissau,GNB,1969,na
+Guinea-Bissau,GNB,1970,26895
+Guinea-Bissau,GNB,1971,na
+Guinea-Bissau,GNB,1972,na
+Guinea-Bissau,GNB,1973,na
+Guinea-Bissau,GNB,1974,na
+Guinea-Bissau,GNB,1975,na
+Guinea-Bissau,GNB,1976,58000
+Guinea-Bissau,GNB,1977,116924
+Guinea-Bissau,GNB,1978,153016
+Guinea-Bissau,GNB,1979,160931
+Guinea-Bissau,GNB,1980,148142
+Guinea-Bissau,GNB,1981,161496
+Guinea-Bissau,GNB,1982,143003
+Guinea-Bissau,GNB,1983,147903
+Guinea-Bissau,GNB,1984,160538
+Guinea-Bissau,GNB,1985,121614
+Guinea-Bissau,GNB,1986,121201
+Guinea-Bissau,GNB,1987,136405
+Guinea-Bissau,GNB,1988,104151
+Guinea-Bissau,GNB,1989,96235
+Guinea-Bissau,GNB,1990,81835
+Guinea-Bissau,GNB,1991,64123
+Guinea-Bissau,GNB,1992,56073
+Guinea-Bissau,GNB,1993,158748
+Guinea-Bissau,GNB,1994,na
+Guinea-Bissau,GNB,1995,na
+Guinea-Bissau,GNB,1996,na
+Guinea-Bissau,GNB,1997,na
+Guinea-Bissau,GNB,2000,433.6
+Guinea-Bissau,GNB,2005,127.6
+Guinea-Bissau,GNB,2010,101.8
+Guinea-Bissau,GNB,2015,89.3
+Guyana,GUY,1962,425
+Guyana,GUY,1963,473
+Guyana,GUY,1964,223
+Guyana,GUY,1965,28
+Guyana,GUY,1966,910
+Guyana,GUY,1967,na
+Guyana,GUY,1968,61
+Guyana,GUY,1969,25
+Guyana,GUY,1970,18
+Guyana,GUY,1971,27
+Guyana,GUY,1972,266
+Guyana,GUY,1973,42
+Guyana,GUY,1974,72
+Guyana,GUY,1975,1116
+Guyana,GUY,1976,4642
+Guyana,GUY,1977,1563
+Guyana,GUY,1978,927
+Guyana,GUY,1979,2294
+Guyana,GUY,1980,3202
+Guyana,GUY,1981,2065
+Guyana,GUY,1982,1700
+Guyana,GUY,1983,2102
+Guyana,GUY,1984,3017
+Guyana,GUY,1985,7900
+Guyana,GUY,1986,16388
+Guyana,GUY,1987,34142
+Guyana,GUY,1988,35470
+Guyana,GUY,1989,20822
+Guyana,GUY,1990,22681
+Guyana,GUY,1991,42204
+Guyana,GUY,1992,39702
+Guyana,GUY,1993,33172
+Guyana,GUY,1994,39566
+Guyana,GUY,1995,59311
+Guyana,GUY,1996,na
+Guyana,GUY,1997,32103
+Guyana,GUY,2000,109.4
+Guyana,GUY,2005,187
+Guyana,GUY,2010,108.4
+Guyana,GUY,2015,40.7
+Haiti,HTI,1962,4033
+Haiti,HTI,1963,6662
+Haiti,HTI,1964,19170
+Haiti,HTI,1965,10304
+Haiti,HTI,1966,8378
+Haiti,HTI,1967,4871
+Haiti,HTI,1968,2562
+Haiti,HTI,1969,5005
+Haiti,HTI,1970,10658
+Haiti,HTI,1971,11347
+Haiti,HTI,1972,25961
+Haiti,HTI,1973,22858
+Haiti,HTI,1974,25441
+Haiti,HTI,1975,24733
+Haiti,HTI,1976,15087
+Haiti,HTI,1977,27679
+Haiti,HTI,1978,60472
+Haiti,HTI,1979,41252
+Haiti,HTI,1980,53478
+Haiti,HTI,1981,46703
+Haiti,HTI,1982,65354
+Haiti,HTI,1983,53954
+Haiti,HTI,1984,69863
+Haiti,HTI,1985,16662
+Haiti,HTI,1986,14363
+Haiti,HTI,1987,12134
+Haiti,HTI,1988,12306
+Haiti,HTI,1989,23231
+Haiti,HTI,1990,4806
+Haiti,HTI,1991,25511
+Haiti,HTI,1992,13457
+Haiti,HTI,1993,853
+Haiti,HTI,1994,23140
+Haiti,HTI,1995,na
+Haiti,HTI,1996,18877
+Haiti,HTI,1997,na
+Haiti,HTI,2000,20.1
+Haiti,HTI,2005,20.1
+Haiti,HTI,2010,20.2
+Haiti,HTI,2015,8.4
+Heavily indebted poor countries (HIPC),,2000,407.7097228
+Heavily indebted poor countries (HIPC),,2005,325.8641676
+Heavily indebted poor countries (HIPC),,2010,273.7370993
+Heavily indebted poor countries (HIPC),,2015,198.3383748
+Honduras,HND,1962,5750
+Honduras,HND,1963,7077
+Honduras,HND,1964,6673
+Honduras,HND,1965,6952
+Honduras,HND,1966,17127
+Honduras,HND,1967,16152
+Honduras,HND,1968,15666
+Honduras,HND,1969,29584
+Honduras,HND,1970,34537
+Honduras,HND,1971,48586
+Honduras,HND,1972,18651
+Honduras,HND,1973,8862
+Honduras,HND,1974,7503
+Honduras,HND,1975,28876
+Honduras,HND,1976,48804
+Honduras,HND,1977,39414
+Honduras,HND,1978,34606
+Honduras,HND,1979,25297
+Honduras,HND,1980,43009
+Honduras,HND,1981,49377
+Honduras,HND,1982,57482
+Honduras,HND,1983,37536
+Honduras,HND,1984,27332
+Honduras,HND,1985,33828
+Honduras,HND,1986,29130
+Honduras,HND,1987,19095
+Honduras,HND,1988,29737
+Honduras,HND,1989,45922
+Honduras,HND,1990,53095
+Honduras,HND,1991,73352
+Honduras,HND,1992,70838
+Honduras,HND,1993,44513
+Honduras,HND,1994,52110
+Honduras,HND,1995,59446
+Honduras,HND,1996,74487
+Honduras,HND,1997,65863
+Honduras,HND,2000,37.9
+Honduras,HND,2005,15.6
+Honduras,HND,2010,8.1
+Honduras,HND,2015,2.6
+Hong Kong,,1962,794
+Hong Kong,,1963,377
+Hong Kong,,1964,180
+Hong Kong,,1965,111
+Hong Kong,,1966,113
+Hong Kong,,1967,55
+Hong Kong,,1968,19
+Hong Kong,,1969,11
+Hong Kong,,1970,3
+Hong Kong,,1971,9
+Hong Kong,,1972,10
+Hong Kong,,1973,16
+Hong Kong,,1974,21
+Hong Kong,,1975,21
+Hong Kong,,1976,39
+Hong Kong,,1977,40
+Hong Kong,,1978,47
+Hong Kong,,1979,40
+Hong Kong,,1980,49
+Hong Kong,,1981,62
+Hong Kong,,1982,na
+Hong Kong,,1983,na
+Hong Kong,,1984,na
+Hong Kong,,1985,na
+Hong Kong,,1986,na
+Hong Kong,,1987,na
+Hong Kong,,1988,na
+Hong Kong,,1989,na
+Hong Kong,,1990,na
+Hong Kong,,1991,na
+Hong Kong,,1992,na
+Hong Kong,,1993,na
+Hong Kong,,1994,na
+Hong Kong,,1995,na
+Hong Kong,,1996,na
+Hong Kong,,1997,na
+Hungary,HUN,1962,4
+Hungary,HUN,1963,1
+Hungary,HUN,1964,5
+Hungary,HUN,1965,13
+Hungary,HUN,1966,1
+Hungary,HUN,1967,5
+Hungary,HUN,1968,2
+Hungary,HUN,1969,3
+Hungary,HUN,1970,8
+Hungary,HUN,1971,5
+Hungary,HUN,1972,4
+Hungary,HUN,1973,6
+Hungary,HUN,1974,5
+Hungary,HUN,1975,8
+Hungary,HUN,1976,2
+Hungary,HUN,1977,4
+Hungary,HUN,1978,8
+Hungary,HUN,1979,13
+Hungary,HUN,1980,6
+Hungary,HUN,1981,34
+Hungary,HUN,1982,na
+Hungary,HUN,1983,na
+Hungary,HUN,1984,na
+Hungary,HUN,1985,na
+Hungary,HUN,1986,na
+Hungary,HUN,1987,na
+Hungary,HUN,1988,na
+Hungary,HUN,1989,na
+Hungary,HUN,1990,na
+Hungary,HUN,1991,na
+Hungary,HUN,1992,na
+Hungary,HUN,1993,na
+Hungary,HUN,1994,na
+Hungary,HUN,1995,na
+Hungary,HUN,1996,na
+Hungary,HUN,1997,na
+IBRD only,,2000,35.45052675
+IBRD only,,2005,38.32276349
+IBRD only,,2010,26.94028046
+IBRD only,,2015,15.16154856
+IDA & IBRD total,,2000,158.9055901
+IDA & IBRD total,,2005,142.0004191
+IDA & IBRD total,,2010,119.3295508
+IDA & IBRD total,,2015,94.40059951
+IDA blend,,2000,298.2198937
+IDA blend,,2005,283.6369628
+IDA blend,,2010,225.6600579
+IDA blend,,2015,212.2218866
+IDA only,,2000,365.6097408
+IDA only,,2005,287.0174487
+IDA only,,2010,246.2246689
+IDA only,,2015,177.1073081
+IDA total,,2000,340.9713845
+IDA total,,2005,285.7962697
+IDA total,,2010,238.8695618
+IDA total,,2015,189.5645893
+India,IND,1962,59575
+India,IND,1963,87306
+India,IND,1964,112942
+India,IND,1965,100185
+India,IND,1966,148156
+India,IND,1967,201369
+India,IND,1968,220266
+India,IND,1969,286962
+India,IND,1970,694647
+India,IND,1971,1323118
+India,IND,1972,1430025
+India,IND,1973,1934485
+India,IND,1974,3172866
+India,IND,1975,5166142
+India,IND,1976,6467215
+India,IND,1977,4740900
+India,IND,1978,4144385
+India,IND,1979,3064697
+India,IND,1980,2844815
+India,IND,1981,2622639
+India,IND,1982,2182302
+India,IND,1983,2018605
+India,IND,1984,2184446
+India,IND,1985,1864380
+India,IND,1986,1792167
+India,IND,1987,1663284
+India,IND,1988,1854830
+India,IND,1989,2050000
+India,IND,1990,2018783
+India,IND,1991,2111401
+India,IND,1992,2125826
+India,IND,1993,2207431
+India,IND,1994,2222869
+India,IND,1995,2988231
+India,IND,1996,2851222
+India,IND,1997,2660057
+India,IND,2000,42.7
+India,IND,2005,48.1
+India,IND,2010,33.1
+India,IND,2015,18.6
+Indonesia,IDN,1962,na
+Indonesia,IDN,1963,5901
+Indonesia,IDN,1964,13224
+Indonesia,IDN,1965,4674
+Indonesia,IDN,1966,9738
+Indonesia,IDN,1967,10749
+Indonesia,IDN,1968,20311
+Indonesia,IDN,1969,na
+Indonesia,IDN,1970,130351
+Indonesia,IDN,1971,135752
+Indonesia,IDN,1972,244376
+Indonesia,IDN,1973,494277
+Indonesia,IDN,1974,394175
+Indonesia,IDN,1975,214346
+Indonesia,IDN,1976,177293
+Indonesia,IDN,1977,166943
+Indonesia,IDN,1978,181410
+Indonesia,IDN,1979,165911
+Indonesia,IDN,1980,175239
+Indonesia,IDN,1981,149576
+Indonesia,IDN,1982,204010
+Indonesia,IDN,1983,264335
+Indonesia,IDN,1984,202083
+Indonesia,IDN,1985,122771
+Indonesia,IDN,1986,100060
+Indonesia,IDN,1987,129485
+Indonesia,IDN,1988,131043
+Indonesia,IDN,1989,135323
+Indonesia,IDN,1990,171908
+Indonesia,IDN,1991,132412
+Indonesia,IDN,1992,103277
+Indonesia,IDN,1993,136367
+Indonesia,IDN,1994,145920
+Indonesia,IDN,1995,123226
+Indonesia,IDN,1996,179878
+Indonesia,IDN,1997,161285
+Indonesia,IDN,2000,99
+Indonesia,IDN,2005,119.1
+Indonesia,IDN,2010,129.2
+Indonesia,IDN,2015,26.1
+Iran,IRN,1962,8259
+Iran,IRN,1963,na
+Iran,IRN,1964,71015
+Iran,IRN,1965,10582
+Iran,IRN,1966,29056
+Iran,IRN,1967,46721
+Iran,IRN,1968,54417
+Iran,IRN,1969,38109
+Iran,IRN,1970,24325
+Iran,IRN,1971,13146
+Iran,IRN,1972,20696
+Iran,IRN,1973,16996
+Iran,IRN,1974,33928
+Iran,IRN,1975,37560
+Iran,IRN,1976,47653
+Iran,IRN,1977,54059
+Iran,IRN,1978,35323
+Iran,IRN,1979,22175
+Iran,IRN,1980,32635
+Iran,IRN,1981,29655
+Iran,IRN,1982,42808
+Iran,IRN,1983,45916
+Iran,IRN,1984,30835
+Iran,IRN,1985,26363
+Iran,IRN,1986,32284
+Iran,IRN,1987,38483
+Iran,IRN,1988,53319
+Iran,IRN,1989,59175
+Iran,IRN,1990,77470
+Iran,IRN,1991,96340
+Iran,IRN,1992,76971
+Iran,IRN,1993,64581
+Iran,IRN,1994,51089
+Iran,IRN,1995,67532
+Iran,IRN,1996,56362
+Iran,IRN,1997,38684
+Iran,IRN,2000,39.9
+Iran,IRN,2005,43.9
+Iran,IRN,2010,5.3
+Iran,IRN,2015,0.5
+Iraq,IRQ,1962,2234
+Iraq,IRQ,1963,7404
+Iraq,IRQ,1964,10534
+Iraq,IRQ,1965,6075
+Iraq,IRQ,1966,12878
+Iraq,IRQ,1967,8072
+Iraq,IRQ,1968,na
+Iraq,IRQ,1969,13010
+Iraq,IRQ,1970,14237
+Iraq,IRQ,1971,6971
+Iraq,IRQ,1972,6336
+Iraq,IRQ,1973,3783
+Iraq,IRQ,1974,2018
+Iraq,IRQ,1975,14030
+Iraq,IRQ,1976,8212
+Iraq,IRQ,1977,5069
+Iraq,IRQ,1978,3570
+Iraq,IRQ,1979,4012
+Iraq,IRQ,1980,2815
+Iraq,IRQ,1981,na
+Iraq,IRQ,1982,3326
+Iraq,IRQ,1983,2422
+Iraq,IRQ,1984,3340
+Iraq,IRQ,1985,4779
+Iraq,IRQ,1986,2953
+Iraq,IRQ,1987,3724
+Iraq,IRQ,1988,6833
+Iraq,IRQ,1989,3428
+Iraq,IRQ,1990,3924
+Iraq,IRQ,1991,7105
+Iraq,IRQ,1992,5535
+Iraq,IRQ,1993,41071
+Iraq,IRQ,1994,96368
+Iraq,IRQ,1995,96735
+Iraq,IRQ,1996,58349
+Iraq,IRQ,1997,14006
+Iraq,IRQ,2000,1.3
+Iraq,IRQ,2005,0.027373792
+Iraq,IRQ,2010,0
+Iraq,IRQ,2015,0
+Israel,ISR,1962,5
+Israel,ISR,1963,28
+Israel,ISR,1964,20
+Israel,ISR,1965,31
+Israel,ISR,1966,20
+Israel,ISR,1967,13
+Israel,ISR,1968,17
+Israel,ISR,1969,23
+Israel,ISR,1970,28
+Israel,ISR,1971,78
+Israel,ISR,1972,32
+Israel,ISR,1973,37
+Israel,ISR,1974,15
+Israel,ISR,1975,9
+Israel,ISR,1976,13
+Israel,ISR,1977,28
+Israel,ISR,1978,17
+Israel,ISR,1979,16
+Israel,ISR,1980,43
+Israel,ISR,1981,44
+Israel,ISR,1982,na
+Israel,ISR,1983,na
+Israel,ISR,1984,na
+Israel,ISR,1985,na
+Israel,ISR,1986,na
+Israel,ISR,1987,na
+Israel,ISR,1988,na
+Israel,ISR,1989,na
+Israel,ISR,1990,na
+Israel,ISR,1991,na
+Israel,ISR,1992,na
+Israel,ISR,1993,na
+Israel,ISR,1994,na
+Israel,ISR,1995,na
+Israel,ISR,1996,na
+Israel,ISR,1997,na
+Jordania,JOR,1962,na
+Jordania,JOR,1963,61
+Jordania,JOR,1964,425
+Jordania,JOR,1965,226
+Jordania,JOR,1966,56
+Jordania,JOR,1967,28
+Jordania,JOR,1968,63
+Jordania,JOR,1969,70
+Jordania,JOR,1970,86
+Jordania,JOR,1971,80
+Jordania,JOR,1972,196
+Jordania,JOR,1973,240
+Jordania,JOR,1974,218
+Jordania,JOR,1975,261
+Jordania,JOR,1976,255
+Jordania,JOR,1977,360
+Jordania,JOR,1978,400
+Jordania,JOR,1979,320
+Jordania,JOR,1980,202
+Jordania,JOR,1981,274
+Jordania,JOR,1982,na
+Jordania,JOR,1983,na
+Jordania,JOR,1984,na
+Jordania,JOR,1985,na
+Jordania,JOR,1986,na
+Jordania,JOR,1987,na
+Jordania,JOR,1988,na
+Jordania,JOR,1989,na
+Jordania,JOR,1990,na
+Jordania,JOR,1991,na
+Jordania,JOR,1992,na
+Jordania,JOR,1993,na
+Jordania,JOR,1994,na
+Jordania,JOR,1995,na
+Jordania,JOR,1996,na
+Jordania,JOR,1997,na
+Kenya,KEN,1962,8842
+Kenya,KEN,1963,263
+Kenya,KEN,1964,11063
+Kenya,KEN,1965,na
+Kenya,KEN,1966,na
+Kenya,KEN,1967,256920
+Kenya,KEN,1968,256720
+Kenya,KEN,1969,574687
+Kenya,KEN,1970,na
+Kenya,KEN,1971,na
+Kenya,KEN,1972,333467
+Kenya,KEN,1973,481524
+Kenya,KEN,1974,na
+Kenya,KEN,1975,663126
+Kenya,KEN,1976,487184
+Kenya,KEN,1977,na
+Kenya,KEN,1978,764863
+Kenya,KEN,1979,437660
+Kenya,KEN,1980,na
+Kenya,KEN,1981,na
+Kenya,KEN,1982,685037
+Kenya,KEN,1983,na
+Kenya,KEN,1984,na
+Kenya,KEN,1985,3689636
+Kenya,KEN,1986,4574015
+Kenya,KEN,1987,4067572
+Kenya,KEN,1988,4099138
+Kenya,KEN,1989,5430205
+Kenya,KEN,1990,na
+Kenya,KEN,1991,na
+Kenya,KEN,1992,na
+Kenya,KEN,1993,na
+Kenya,KEN,1994,6103447
+Kenya,KEN,1995,4343190
+Kenya,KEN,1996,na
+Kenya,KEN,1997,na
+Kenya,KEN,2000,273.7
+Kenya,KEN,2005,171.8
+Kenya,KEN,2010,95.2
+Kenya,KEN,2015,166
+Korea Republic of,KOR,1962,4600
+Korea Republic of,KOR,1963,1425
+Korea Republic of,KOR,1964,1028
+Korea Republic of,KOR,1965,na
+Korea Republic of,KOR,1966,11613
+Korea Republic of,KOR,1967,16653
+Korea Republic of,KOR,1968,19558
+Korea Republic of,KOR,1969,na
+Korea Republic of,KOR,1970,15926
+Korea Republic of,KOR,1971,9867
+Korea Republic of,KOR,1972,5700
+Korea Republic of,KOR,1973,747
+Korea Republic of,KOR,1974,611
+Korea Republic of,KOR,1975,314
+Korea Republic of,KOR,1976,294
+Korea Republic of,KOR,1977,11
+Korea Republic of,KOR,1978,na
+Korea Republic of,KOR,1979,na
+Korea Republic of,KOR,1980,na
+Korea Republic of,KOR,1981,na
+Korea Republic of,KOR,1982,0
+Korea Republic of,KOR,1983,0
+Korea Republic of,KOR,1984,0
+Korea Republic of,KOR,1985,0
+Korea Republic of,KOR,1986,0
+Korea Republic of,KOR,1987,0
+Korea Republic of,KOR,1988,0
+Korea Republic of,KOR,1989,0
+Korea Republic of,KOR,1990,0
+Korea Republic of,KOR,1991,0
+Korea Republic of,KOR,1992,0
+Korea Republic of,KOR,1993,1
+Korea Republic of,KOR,1994,21
+Korea Republic of,KOR,1995,107
+Korea Republic of,KOR,1996,356
+Korea Republic of,KOR,1997,1724
+Kuwait,KWT,1962,24
+Kuwait,KWT,1963,37
+Kuwait,KWT,1964,33
+Kuwait,KWT,1965,47
+Kuwait,KWT,1966,40
+Kuwait,KWT,1967,73
+Kuwait,KWT,1968,130
+Kuwait,KWT,1969,92
+Kuwait,KWT,1970,94
+Kuwait,KWT,1971,na
+Kuwait,KWT,1972,na
+Kuwait,KWT,1973,194
+Kuwait,KWT,1974,50
+Kuwait,KWT,1975,153
+Kuwait,KWT,1976,172
+Kuwait,KWT,1977,159
+Kuwait,KWT,1978,na
+Kuwait,KWT,1979,98
+Kuwait,KWT,1980,98
+Kuwait,KWT,1981,142
+Kuwait,KWT,1982,na
+Kuwait,KWT,1983,na
+Kuwait,KWT,1984,na
+Kuwait,KWT,1985,na
+Kuwait,KWT,1986,na
+Kuwait,KWT,1987,na
+Kuwait,KWT,1988,na
+Kuwait,KWT,1989,na
+Kuwait,KWT,1990,na
+Kuwait,KWT,1991,na
+Kuwait,KWT,1992,na
+Kuwait,KWT,1993,na
+Kuwait,KWT,1994,na
+Kuwait,KWT,1995,na
+Kuwait,KWT,1996,na
+Kuwait,KWT,1997,na
+Kyrgyzstan,KGZ,2000,6.7
+Kyrgyzstan,KGZ,2005,121.3
+Kyrgyzstan,KGZ,2010,1.5
+Kyrgyzstan,KGZ,2015,0
+Lao,LAO,1962,132788
+Lao,LAO,1963,151191
+Lao,LAO,1964,291857
+Lao,LAO,1965,175528
+Lao,LAO,1966,189876
+Lao,LAO,1967,226738
+Lao,LAO,1968,166546
+Lao,LAO,1969,52338
+Lao,LAO,1970,29187
+Lao,LAO,1971,21243
+Lao,LAO,1972,4646
+Lao,LAO,1973,6920
+Lao,LAO,1974,13253
+Lao,LAO,1975,2859
+Lao,LAO,1976,2258
+Lao,LAO,1977,3047
+Lao,LAO,1978,na
+Lao,LAO,1979,na
+Lao,LAO,1980,12603
+Lao,LAO,1981,na
+Lao,LAO,1982,na
+Lao,LAO,1983,5564
+Lao,LAO,1984,7210
+Lao,LAO,1985,21201
+Lao,LAO,1986,21744
+Lao,LAO,1987,34960
+Lao,LAO,1988,37724
+Lao,LAO,1989,34673
+Lao,LAO,1990,21499
+Lao,LAO,1991,41026
+Lao,LAO,1992,38487
+Lao,LAO,1993,41787
+Lao,LAO,1994,52601
+Lao,LAO,1995,53614
+Lao,LAO,1996,51550
+Lao,LAO,1997,54133
+Laos,LAO,2000,77.5
+Laos,LAO,2005,14
+Laos,LAO,2010,17.8
+Laos,LAO,2015,20.9
+Late-demographic dividend,,2000,6.945241587
+Late-demographic dividend,,2005,3.57197254
+Late-demographic dividend,,2010,2.239878527
+Late-demographic dividend,,2015,0.922237688
+Latin America & Caribbean,,2000,38.6704584
+Latin America & Caribbean,,2005,25.14459352
+Latin America & Caribbean,,2010,14.40906866
+Latin America & Caribbean,,2015,10.0267639
+Latin America & Caribbean (excluding high income),,2000,38.6704584
+Latin America & Caribbean (excluding high income),,2005,25.14459352
+Latin America & Caribbean (excluding high income),,2010,14.40906866
+Latin America & Caribbean (excluding high income),,2015,10.0267639
+Latin America & Caribbean (IDA & IBRD),,2000,38.6704584
+Latin America & Caribbean (IDA & IBRD),,2005,25.14459352
+Latin America & Caribbean (IDA & IBRD),,2010,14.40906866
+Latin America & Caribbean (IDA & IBRD),,2015,10.0267639
+Least developed countries: UN classification,,2000,355.9142758
+Least developed countries: UN classification,,2005,276.7580755
+Least developed countries: UN classification,,2010,229.497157
+Least developed countries: UN classification,,2015,166.397338
+Lebanon,LBN,1962,183
+Lebanon,LBN,1963,91
+Lebanon,LBN,1964,14
+Lebanon,LBN,1965,7
+Lebanon,LBN,1966,6
+Lebanon,LBN,1967,11
+Lebanon,LBN,1968,32
+Lebanon,LBN,1969,14
+Lebanon,LBN,1970,25
+Lebanon,LBN,1971,10
+Lebanon,LBN,1972,12
+Lebanon,LBN,1973,22
+Lebanon,LBN,1974,17
+Lebanon,LBN,1975,na
+Lebanon,LBN,1976,na
+Lebanon,LBN,1977,17
+Lebanon,LBN,1978,8
+Lebanon,LBN,1979,9
+Lebanon,LBN,1980,4
+Lebanon,LBN,1981,9
+Lebanon,LBN,1982,na
+Lebanon,LBN,1983,na
+Lebanon,LBN,1984,na
+Lebanon,LBN,1985,na
+Lebanon,LBN,1986,na
+Lebanon,LBN,1987,na
+Lebanon,LBN,1988,na
+Lebanon,LBN,1989,na
+Lebanon,LBN,1990,na
+Lebanon,LBN,1991,na
+Lebanon,LBN,1992,na
+Lebanon,LBN,1993,na
+Lebanon,LBN,1994,na
+Lebanon,LBN,1995,na
+Lebanon,LBN,1996,na
+Lebanon,LBN,1997,na
+Liberia,LBR,1962,9780
+Liberia,LBR,1963,6754
+Liberia,LBR,1964,8410
+Liberia,LBR,1965,5102
+Liberia,LBR,1966,6560
+Liberia,LBR,1967,21547
+Liberia,LBR,1968,12668
+Liberia,LBR,1969,19940
+Liberia,LBR,1970,na
+Liberia,LBR,1971,na
+Liberia,LBR,1972,7350
+Liberia,LBR,1973,13140
+Liberia,LBR,1974,11864
+Liberia,LBR,1975,18136
+Liberia,LBR,1976,64086
+Liberia,LBR,1977,145114
+Liberia,LBR,1978,232112
+Liberia,LBR,1979,na
+Liberia,LBR,1980,201946
+Liberia,LBR,1981,na
+Liberia,LBR,1982,282896
+Liberia,LBR,1983,na
+Liberia,LBR,1984,na
+Liberia,LBR,1985,130005
+Liberia,LBR,1986,na
+Liberia,LBR,1987,na
+Liberia,LBR,1988,na
+Liberia,LBR,1989,na
+Liberia,LBR,1990,na
+Liberia,LBR,1991,na
+Liberia,LBR,1992,na
+Liberia,LBR,1993,na
+Liberia,LBR,1994,na
+Liberia,LBR,1995,na
+Liberia,LBR,1996,na
+Liberia,LBR,1997,na
+Liberia,LBR,2000,496.8
+Liberia,LBR,2005,446.8
+Liberia,LBR,2010,335.1
+Liberia,LBR,2015,246.2
+Low & middle income,,2000,158.3471179
+Low & middle income,,2005,141.455517
+Low & middle income,,2010,118.9037898
+Low & middle income,,2015,94.08193287
+Low income,,2000,406.9999954
+Low income,,2005,316.4308019
+Low income,,2010,271.7534288
+Low income,,2015,193.7531109
+Lower middle income,,2000,129.8408178
+Lower middle income,,2005,125.9987092
+Lower middle income,,2010,99.67192711
+Lower middle income,,2015,82.57362695
+Macao,MAC,1962,35
+Macao,MAC,1963,9
+Macao,MAC,1964,3
+Macao,MAC,1965,3
+Macao,MAC,1966,3
+Macao,MAC,1967,0
+Macao,MAC,1968,2
+Macao,MAC,1969,0
+Macao,MAC,1970,0
+Macao,MAC,1971,0
+Macao,MAC,1972,1
+Macao,MAC,1973,1
+Macao,MAC,1974,2
+Macao,MAC,1975,0
+Macao,MAC,1976,na
+Macao,MAC,1977,1
+Macao,MAC,1978,0
+Macao,MAC,1979,0
+Macao,MAC,1980,0
+Macao,MAC,1981,2
+Macao,MAC,1982,na
+Macao,MAC,1983,na
+Macao,MAC,1984,na
+Macao,MAC,1985,na
+Macao,MAC,1986,na
+Macao,MAC,1987,na
+Macao,MAC,1988,na
+Macao,MAC,1989,na
+Macao,MAC,1990,na
+Macao,MAC,1991,na
+Macao,MAC,1992,na
+Macao,MAC,1993,na
+Macao,MAC,1994,na
+Macao,MAC,1995,na
+Macao,MAC,1996,na
+Macao,MAC,1997,na
+Madagascar,MDG,1962,85317
+Madagascar,MDG,1963,80494
+Madagascar,MDG,1964,56508
+Madagascar,MDG,1965,13349
+Madagascar,MDG,1966,11291
+Madagascar,MDG,1967,15174
+Madagascar,MDG,1968,62696
+Madagascar,MDG,1969,28917
+Madagascar,MDG,1970,88850
+Madagascar,MDG,1971,74924
+Madagascar,MDG,1972,90041
+Madagascar,MDG,1973,282890
+Madagascar,MDG,1974,na
+Madagascar,MDG,1975,na
+Madagascar,MDG,1976,287622
+Madagascar,MDG,1977,320029
+Madagascar,MDG,1978,383863
+Madagascar,MDG,1979,302336
+Madagascar,MDG,1980,na
+Madagascar,MDG,1981,na
+Madagascar,MDG,1982,403489
+Madagascar,MDG,1983,447992
+Madagascar,MDG,1984,422610
+Madagascar,MDG,1985,493000
+Madagascar,MDG,1986,623000
+Madagascar,MDG,1987,762000
+Madagascar,MDG,1988,385581
+Madagascar,MDG,1989,354431
+Madagascar,MDG,1990,na
+Madagascar,MDG,1991,na
+Madagascar,MDG,1992,na
+Madagascar,MDG,1993,na
+Madagascar,MDG,1994,na
+Madagascar,MDG,1995,na
+Madagascar,MDG,1996,na
+Madagascar,MDG,1997,na
+Madagascar,MDG,2000,115.3
+Madagascar,MDG,2005,76.5
+Madagascar,MDG,2010,32.9
+Madagascar,MDG,2015,104.2
+Malawi,MWI,1962,6178
+Malawi,MWI,1963,na
+Malawi,MWI,1964,29235
+Malawi,MWI,1965,11468
+Malawi,MWI,1966,na
+Malawi,MWI,1967,4799
+Malawi,MWI,1968,na
+Malawi,MWI,1969,na
+Malawi,MWI,1970,na
+Malawi,MWI,1971,13081
+Malawi,MWI,1972,31522
+Malawi,MWI,1973,na
+Malawi,MWI,1974,na
+Malawi,MWI,1975,na
+Malawi,MWI,1976,27865
+Malawi,MWI,1977,27571
+Malawi,MWI,1978,29891
+Malawi,MWI,1979,23237
+Malawi,MWI,1980,na
+Malawi,MWI,1981,30234
+Malawi,MWI,1982,na
+Malawi,MWI,1983,na
+Malawi,MWI,1984,na
+Malawi,MWI,1985,na
+Malawi,MWI,1986,na
+Malawi,MWI,1987,na
+Malawi,MWI,1988,1700734
+Malawi,MWI,1989,na
+Malawi,MWI,1990,na
+Malawi,MWI,1991,na
+Malawi,MWI,1992,na
+Malawi,MWI,1993,4686201
+Malawi,MWI,1994,4736974
+Malawi,MWI,1995,na
+Malawi,MWI,1996,na
+Malawi,MWI,1997,na
+Malawi,MWI,2000,432
+Malawi,MWI,2005,321.2
+Malawi,MWI,2010,419.5
+Malawi,MWI,2015,188.8
+Malaysia,MYS,1962,na
+Malaysia,MYS,1963,na
+Malaysia,MYS,1964,na
+Malaysia,MYS,1965,na
+Malaysia,MYS,1966,na
+Malaysia,MYS,1967,na
+Malaysia,MYS,1968,30113
+Malaysia,MYS,1969,26072
+Malaysia,MYS,1970,40826
+Malaysia,MYS,1971,61571
+Malaysia,MYS,1972,54048
+Malaysia,MYS,1973,34789
+Malaysia,MYS,1974,45096
+Malaysia,MYS,1975,60852
+Malaysia,MYS,1976,62509
+Malaysia,MYS,1977,59113
+Malaysia,MYS,1978,55312
+Malaysia,MYS,1979,44912
+Malaysia,MYS,1980,44552
+Malaysia,MYS,1981,59422
+Malaysia,MYS,1982,43915
+Malaysia,MYS,1983,22218
+Malaysia,MYS,1984,32094
+Malaysia,MYS,1985,49526
+Malaysia,MYS,1986,44145
+Malaysia,MYS,1987,36657
+Malaysia,MYS,1988,50743
+Malaysia,MYS,1989,65283
+Malaysia,MYS,1990,50500
+Malaysia,MYS,1991,39189
+Malaysia,MYS,1992,36853
+Malaysia,MYS,1993,39890
+Malaysia,MYS,1994,58958
+Malaysia,MYS,1995,59208
+Malaysia,MYS,1996,51921
+Malaysia,MYS,1997,26649
+Malaysia,MYS,2000,16.3
+Malaysia,MYS,2005,6.2
+Malaysia,MYS,2010,6.5
+Malaysia,MYS,2015,1.9
+Maldives,MDV,1962,na
+Maldives,MDV,1963,na
+Maldives,MDV,1964,na
+Maldives,MDV,1965,na
+Maldives,MDV,1966,na
+Maldives,MDV,1967,na
+Maldives,MDV,1968,na
+Maldives,MDV,1969,na
+Maldives,MDV,1970,349
+Maldives,MDV,1971,363
+Maldives,MDV,1972,348
+Maldives,MDV,1973,834
+Maldives,MDV,1974,220
+Maldives,MDV,1975,1105
+Maldives,MDV,1976,580
+Maldives,MDV,1977,266
+Maldives,MDV,1978,391
+Maldives,MDV,1979,329
+Maldives,MDV,1980,52
+Maldives,MDV,1981,58
+Maldives,MDV,1982,101
+Maldives,MDV,1983,22
+Maldives,MDV,1984,10
+Maldives,MDV,1985,16
+Maldives,MDV,1986,8
+Maldives,MDV,1987,11
+Maldives,MDV,1988,16
+Maldives,MDV,1989,11
+Maldives,MDV,1990,16
+Maldives,MDV,1991,27
+Maldives,MDV,1992,25
+Maldives,MDV,1993,29
+Maldives,MDV,1994,16
+Maldives,MDV,1995,17
+Maldives,MDV,1996,9
+Maldives,MDV,1997,10
+Mali,MLI,1962,317322
+Mali,MLI,1963,62734
+Mali,MLI,1964,138723
+Mali,MLI,1965,346029
+Mali,MLI,1966,397775
+Mali,MLI,1967,421177
+Mali,MLI,1968,469539
+Mali,MLI,1969,664335
+Mali,MLI,1970,517744
+Mali,MLI,1971,473941
+Mali,MLI,1972,345307
+Mali,MLI,1973,371564
+Mali,MLI,1974,408161
+Mali,MLI,1975,408934
+Mali,MLI,1976,392663
+Mali,MLI,1977,324619
+Mali,MLI,1978,261214
+Mali,MLI,1979,180176
+Mali,MLI,1980,149308
+Mali,MLI,1981,na
+Mali,MLI,1982,42555
+Mali,MLI,1983,na
+Mali,MLI,1984,17656
+Mali,MLI,1985,178996
+Mali,MLI,1986,na
+Mali,MLI,1987,na
+Mali,MLI,1988,na
+Mali,MLI,1989,272505
+Mali,MLI,1990,248904
+Mali,MLI,1991,282256
+Mali,MLI,1992,280562
+Mali,MLI,1993,295737
+Mali,MLI,1994,263100
+Mali,MLI,1995,95357
+Mali,MLI,1996,29818
+Mali,MLI,1997,384907
+Mali,MLI,2000,476.8
+Mali,MLI,2005,498.2
+Mali,MLI,2010,364.7
+Mali,MLI,2015,448.6
+Malta,MLT,1962,na
+Malta,MLT,1963,na
+Malta,MLT,1964,na
+Malta,MLT,1965,0
+Malta,MLT,1966,0
+Malta,MLT,1967,0
+Malta,MLT,1968,0
+Malta,MLT,1969,0
+Malta,MLT,1970,0
+Malta,MLT,1971,0
+Malta,MLT,1972,0
+Malta,MLT,1973,0
+Malta,MLT,1974,0
+Malta,MLT,1975,2
+Malta,MLT,1976,0
+Malta,MLT,1977,0
+Malta,MLT,1978,0
+Malta,MLT,1979,0
+Malta,MLT,1980,0
+Malta,MLT,1981,1
+Malta,MLT,1982,na
+Malta,MLT,1983,na
+Malta,MLT,1984,na
+Malta,MLT,1985,na
+Malta,MLT,1986,na
+Malta,MLT,1987,na
+Malta,MLT,1988,na
+Malta,MLT,1989,na
+Malta,MLT,1990,na
+Malta,MLT,1991,na
+Malta,MLT,1992,na
+Malta,MLT,1993,na
+Malta,MLT,1994,na
+Malta,MLT,1995,na
+Malta,MLT,1996,na
+Malta,MLT,1997,na
+Mauritania,MRT,1962,30048
+Mauritania,MRT,1963,35068
+Mauritania,MRT,1964,37848
+Mauritania,MRT,1965,48455
+Mauritania,MRT,1966,39036
+Mauritania,MRT,1967,na
+Mauritania,MRT,1968,na
+Mauritania,MRT,1969,28370
+Mauritania,MRT,1970,29500
+Mauritania,MRT,1971,na
+Mauritania,MRT,1972,na
+Mauritania,MRT,1973,34066
+Mauritania,MRT,1974,41405
+Mauritania,MRT,1975,48359
+Mauritania,MRT,1976,57070
+Mauritania,MRT,1977,42608
+Mauritania,MRT,1978,24899
+Mauritania,MRT,1979,na
+Mauritania,MRT,1980,na
+Mauritania,MRT,1981,na
+Mauritania,MRT,1982,47000
+Mauritania,MRT,1983,64000
+Mauritania,MRT,1984,na
+Mauritania,MRT,1985,na
+Mauritania,MRT,1986,na
+Mauritania,MRT,1987,na
+Mauritania,MRT,1988,na
+Mauritania,MRT,1989,na
+Mauritania,MRT,1990,na
+Mauritania,MRT,1991,42112
+Mauritania,MRT,1992,45687
+Mauritania,MRT,1993,43892
+Mauritania,MRT,1994,156080
+Mauritania,MRT,1995,214478
+Mauritania,MRT,1996,na
+Mauritania,MRT,1997,na
+Mauritania,MRT,2000,110.2
+Mauritania,MRT,2005,116.3
+Mauritania,MRT,2010,79.7
+Mauritania,MRT,2015,74.2
+Mauritius,MUS,1962,226
+Mauritius,MUS,1963,9
+Mauritius,MUS,1964,10
+Mauritius,MUS,1965,14
+Mauritius,MUS,1966,12
+Mauritius,MUS,1967,15
+Mauritius,MUS,1968,14
+Mauritius,MUS,1969,17
+Mauritius,MUS,1970,11
+Mauritius,MUS,1971,18
+Mauritius,MUS,1972,14
+Mauritius,MUS,1973,13
+Mauritius,MUS,1974,18
+Mauritius,MUS,1975,55
+Mauritius,MUS,1976,50
+Mauritius,MUS,1977,86
+Mauritius,MUS,1978,77
+Mauritius,MUS,1979,128
+Mauritius,MUS,1980,470
+Mauritius,MUS,1981,607
+Mauritius,MUS,1982,668
+Mauritius,MUS,1983,296
+Mauritius,MUS,1984,143
+Mauritius,MUS,1985,54
+Mauritius,MUS,1986,33
+Mauritius,MUS,1987,120
+Mauritius,MUS,1988,168
+Mauritius,MUS,1989,78
+Mauritius,MUS,1990,54
+Mauritius,MUS,1991,48
+Mauritius,MUS,1992,66
+Mauritius,MUS,1993,54
+Mauritius,MUS,1994,65
+Mauritius,MUS,1995,46
+Mauritius,MUS,1996,82
+Mauritius,MUS,1997,65
+Mexico,MEX,1962,13781
+Mexico,MEX,1963,11267
+Mexico,MEX,1964,13342
+Mexico,MEX,1965,10113
+Mexico,MEX,1966,11307
+Mexico,MEX,1967,15163
+Mexico,MEX,1968,26039
+Mexico,MEX,1969,48843
+Mexico,MEX,1970,57331
+Mexico,MEX,1971,42978
+Mexico,MEX,1972,26216
+Mexico,MEX,1973,23176
+Mexico,MEX,1974,26800
+Mexico,MEX,1975,27920
+Mexico,MEX,1976,18153
+Mexico,MEX,1977,18851
+Mexico,MEX,1978,19071
+Mexico,MEX,1979,20983
+Mexico,MEX,1980,25734
+Mexico,MEX,1981,42104
+Mexico,MEX,1982,49993
+Mexico,MEX,1983,75029
+Mexico,MEX,1984,85501
+Mexico,MEX,1985,133698
+Mexico,MEX,1986,131014
+Mexico,MEX,1987,102984
+Mexico,MEX,1988,116238
+Mexico,MEX,1989,101241
+Mexico,MEX,1990,44513
+Mexico,MEX,1991,26565
+Mexico,MEX,1992,16170
+Mexico,MEX,1993,15793
+Mexico,MEX,1994,12864
+Mexico,MEX,1995,7316
+Mexico,MEX,1996,6293
+Mexico,MEX,1997,5046
+Mexico,MEX,2000,4
+Mexico,MEX,2005,1.5
+Mexico,MEX,2010,0.6
+Mexico,MEX,2015,0.2
+Middle income,,2000,100.3191552
+Middle income,,2005,97.95906351
+Middle income,,2010,78.20903474
+Middle income,,2015,65.60893587
+Morocco,MAR,1962,17982
+Morocco,MAR,1963,19897
+Morocco,MAR,1964,42661
+Morocco,MAR,1965,na
+Morocco,MAR,1966,na
+Morocco,MAR,1967,3919
+Morocco,MAR,1968,na
+Morocco,MAR,1969,8122
+Morocco,MAR,1970,5237
+Morocco,MAR,1971,10314
+Morocco,MAR,1972,6555
+Morocco,MAR,1973,1686
+Morocco,MAR,1974,918
+Morocco,MAR,1975,283
+Morocco,MAR,1976,142
+Morocco,MAR,1977,159
+Morocco,MAR,1978,64
+Morocco,MAR,1979,397
+Morocco,MAR,1980,360
+Morocco,MAR,1981,98
+Morocco,MAR,1982,62
+Morocco,MAR,1983,75
+Morocco,MAR,1984,318
+Morocco,MAR,1985,713
+Morocco,MAR,1986,597
+Morocco,MAR,1987,1287
+Morocco,MAR,1988,550
+Morocco,MAR,1989,830
+Morocco,MAR,1990,839
+Morocco,MAR,1991,499
+Morocco,MAR,1992,405
+Morocco,MAR,1993,198
+Morocco,MAR,1994,206
+Morocco,MAR,1995,197
+Morocco,MAR,1996,102
+Morocco,MAR,1997,125
+Mozambique,MOZ,1962,89991
+Mozambique,MOZ,1963,74893
+Mozambique,MOZ,1964,na
+Mozambique,MOZ,1965,na
+Mozambique,MOZ,1966,93395
+Mozambique,MOZ,1967,2459
+Mozambique,MOZ,1968,na
+Mozambique,MOZ,1969,na
+Mozambique,MOZ,1970,na
+Mozambique,MOZ,1971,na
+Mozambique,MOZ,1972,na
+Mozambique,MOZ,1973,na
+Mozambique,MOZ,1974,na
+Mozambique,MOZ,1975,na
+Mozambique,MOZ,1976,na
+Mozambique,MOZ,1977,na
+Mozambique,MOZ,1978,na
+Mozambique,MOZ,1979,na
+Mozambique,MOZ,1980,na
+Mozambique,MOZ,1981,na
+Mozambique,MOZ,1982,na
+Mozambique,MOZ,1983,na
+Mozambique,MOZ,1984,na
+Mozambique,MOZ,1985,na
+Mozambique,MOZ,1986,na
+Mozambique,MOZ,1987,na
+Mozambique,MOZ,1988,na
+Mozambique,MOZ,1989,na
+Mozambique,MOZ,1990,na
+Mozambique,MOZ,1991,na
+Mozambique,MOZ,1992,na
+Mozambique,MOZ,1993,na
+Mozambique,MOZ,1994,na
+Mozambique,MOZ,1995,na
+Mozambique,MOZ,1996,na
+Mozambique,MOZ,1997,na
+Mozambique,MOZ,2000,515.6
+Mozambique,MOZ,2005,442.3
+Mozambique,MOZ,2010,383.3
+Mozambique,MOZ,2015,297.7
+Myanmar,MMR,1962,376
+Myanmar,MMR,1963,1800
+Myanmar,MMR,1964,3269
+Myanmar,MMR,1965,5832
+Myanmar,MMR,1966,7139
+Myanmar,MMR,1967,5884
+Myanmar,MMR,1968,8142
+Myanmar,MMR,1969,6852
+Myanmar,MMR,1970,8123
+Myanmar,MMR,1971,7058
+Myanmar,MMR,1972,9050
+Myanmar,MMR,1973,8279
+Myanmar,MMR,1974,9246
+Myanmar,MMR,1975,11871
+Myanmar,MMR,1976,10003
+Myanmar,MMR,1977,13195
+Myanmar,MMR,1978,12485
+Myanmar,MMR,1979,14515
+Myanmar,MMR,1980,16469
+Myanmar,MMR,1981,42019
+Myanmar,MMR,1982,42021
+Myanmar,MMR,1983,47700
+Myanmar,MMR,1984,60488
+Myanmar,MMR,1985,65279
+Myanmar,MMR,1986,62917
+Myanmar,MMR,1987,66643
+Myanmar,MMR,1988,94736
+Myanmar,MMR,1989,135194
+Myanmar,MMR,1990,133049
+Myanmar,MMR,1991,126967
+Myanmar,MMR,1992,125710
+Myanmar,MMR,1993,117068
+Myanmar,MMR,1994,111373
+Myanmar,MMR,1995,100448
+Myanmar,MMR,1996,68700
+Myanmar,MMR,1997,112500
+Myanmar,MMR,2000,78.3
+Myanmar,MMR,2005,78.1
+Myanmar,MMR,2010,79.6
+Myanmar,MMR,2015,11.8
+Namibia,NAM,1962,na
+Namibia,NAM,1963,na
+Namibia,NAM,1964,na
+Namibia,NAM,1965,na
+Namibia,NAM,1966,na
+Namibia,NAM,1967,na
+Namibia,NAM,1968,na
+Namibia,NAM,1969,na
+Namibia,NAM,1970,na
+Namibia,NAM,1971,na
+Namibia,NAM,1972,na
+Namibia,NAM,1973,na
+Namibia,NAM,1974,na
+Namibia,NAM,1975,na
+Namibia,NAM,1976,na
+Namibia,NAM,1977,na
+Namibia,NAM,1978,na
+Namibia,NAM,1979,na
+Namibia,NAM,1980,na
+Namibia,NAM,1981,na
+Namibia,NAM,1982,na
+Namibia,NAM,1983,na
+Namibia,NAM,1984,na
+Namibia,NAM,1985,na
+Namibia,NAM,1986,na
+Namibia,NAM,1987,na
+Namibia,NAM,1988,na
+Namibia,NAM,1989,na
+Namibia,NAM,1990,na
+Namibia,NAM,1991,na
+Namibia,NAM,1992,na
+Namibia,NAM,1993,380530
+Namibia,NAM,1994,401519
+Namibia,NAM,1995,295147
+Namibia,NAM,1996,373009
+Namibia,NAM,1997,425185
+Namibia,NAM,2000,70.5
+Namibia,NAM,2005,54.8
+Namibia,NAM,2010,2.1
+Namibia,NAM,2015,14
+Nepal,NPL,1962,na
+Nepal,NPL,1963,na
+Nepal,NPL,1964,2400
+Nepal,NPL,1965,na
+Nepal,NPL,1966,na
+Nepal,NPL,1967,na
+Nepal,NPL,1968,na
+Nepal,NPL,1969,3860
+Nepal,NPL,1970,2926
+Nepal,NPL,1971,2778
+Nepal,NPL,1972,4066
+Nepal,NPL,1973,9375
+Nepal,NPL,1974,14647
+Nepal,NPL,1975,12372
+Nepal,NPL,1976,10123
+Nepal,NPL,1977,11615
+Nepal,NPL,1978,12887
+Nepal,NPL,1979,12131
+Nepal,NPL,1980,12265
+Nepal,NPL,1981,15978
+Nepal,NPL,1982,16902
+Nepal,NPL,1983,16719
+Nepal,NPL,1984,29388
+Nepal,NPL,1985,42321
+Nepal,NPL,1986,36791
+Nepal,NPL,1987,26690
+Nepal,NPL,1988,23751
+Nepal,NPL,1989,22333
+Nepal,NPL,1990,22856
+Nepal,NPL,1991,29135
+Nepal,NPL,1992,23234
+Nepal,NPL,1993,16380
+Nepal,NPL,1994,9442
+Nepal,NPL,1995,9718
+Nepal,NPL,1996,6628
+Nepal,NPL,1997,6559
+Nepal,NPL,2000,18.3
+Nepal,NPL,2005,12.5
+Nepal,NPL,2010,5.4
+Nepal,NPL,2015,3.3
+Nicaragua,NIC,1962,11200
+Nicaragua,NIC,1963,10593
+Nicaragua,NIC,1964,11197
+Nicaragua,NIC,1965,10275
+Nicaragua,NIC,1966,13895
+Nicaragua,NIC,1967,16321
+Nicaragua,NIC,1968,8250
+Nicaragua,NIC,1969,16043
+Nicaragua,NIC,1970,27260
+Nicaragua,NIC,1971,25303
+Nicaragua,NIC,1972,9595
+Nicaragua,NIC,1973,4246
+Nicaragua,NIC,1974,12167
+Nicaragua,NIC,1975,24692
+Nicaragua,NIC,1976,26228
+Nicaragua,NIC,1977,11584
+Nicaragua,NIC,1978,10633
+Nicaragua,NIC,1979,18418
+Nicaragua,NIC,1980,25465
+Nicaragua,NIC,1981,17434
+Nicaragua,NIC,1982,15601
+Nicaragua,NIC,1983,12907
+Nicaragua,NIC,1984,15702
+Nicaragua,NIC,1985,15130
+Nicaragua,NIC,1986,20308
+Nicaragua,NIC,1987,17011
+Nicaragua,NIC,1988,33047
+Nicaragua,NIC,1989,45982
+Nicaragua,NIC,1990,35785
+Nicaragua,NIC,1991,27653
+Nicaragua,NIC,1992,26866
+Nicaragua,NIC,1993,44037
+Nicaragua,NIC,1994,41490
+Nicaragua,NIC,1995,69444
+Nicaragua,NIC,1996,75606
+Nicaragua,NIC,1997,42819
+Nicaragua,NIC,2000,37.7
+Nicaragua,NIC,2005,9.5
+Nicaragua,NIC,2010,0.9
+Nicaragua,NIC,2015,2.9
+Niger,NER,1962,138998
+Niger,NER,1963,76238
+Niger,NER,1964,93398
+Niger,NER,1965,101564
+Niger,NER,1966,166043
+Niger,NER,1967,121826
+Niger,NER,1968,119572
+Niger,NER,1969,148552
+Niger,NER,1970,158602
+Niger,NER,1971,192601
+Niger,NER,1972,na
+Niger,NER,1973,155800
+Niger,NER,1974,283059
+Niger,NER,1975,114341
+Niger,NER,1976,323799
+Niger,NER,1977,296266
+Niger,NER,1978,307837
+Niger,NER,1979,384029
+Niger,NER,1980,na
+Niger,NER,1981,na
+Niger,NER,1982,407105
+Niger,NER,1983,na
+Niger,NER,1984,547845
+Niger,NER,1985,517168
+Niger,NER,1986,617619
+Niger,NER,1987,418540
+Niger,NER,1988,685489
+Niger,NER,1989,521122
+Niger,NER,1990,195526
+Niger,NER,1991,808968
+Niger,NER,1992,865976
+Niger,NER,1993,726666
+Niger,NER,1994,806204
+Niger,NER,1995,778175
+Niger,NER,1996,1162824
+Niger,NER,1997,978855
+Niger,NER,2000,443.6
+Niger,NER,2005,463.1
+Niger,NER,2010,499.9
+Niger,NER,2015,356.5
+Nigeria,NGA,1962,na
+Nigeria,NGA,1963,na
+Nigeria,NGA,1964,184588
+Nigeria,NGA,1965,na
+Nigeria,NGA,1966,438233
+Nigeria,NGA,1967,277570
+Nigeria,NGA,1968,265908
+Nigeria,NGA,1969,369397
+Nigeria,NGA,1970,628534
+Nigeria,NGA,1971,644994
+Nigeria,NGA,1972,839922
+Nigeria,NGA,1973,723516
+Nigeria,NGA,1974,885057
+Nigeria,NGA,1975,1083263
+Nigeria,NGA,1976,1095918
+Nigeria,NGA,1977,1222569
+Nigeria,NGA,1978,1334228
+Nigeria,NGA,1979,1021331
+Nigeria,NGA,1980,1171071
+Nigeria,NGA,1981,na
+Nigeria,NGA,1982,832911
+Nigeria,NGA,1983,na
+Nigeria,NGA,1984,na
+Nigeria,NGA,1985,1280000
+Nigeria,NGA,1986,1020000
+Nigeria,NGA,1987,1110000
+Nigeria,NGA,1988,1174633
+Nigeria,NGA,1989,na
+Nigeria,NGA,1990,1047292
+Nigeria,NGA,1991,929698
+Nigeria,NGA,1992,1218747
+Nigeria,NGA,1993,981934
+Nigeria,NGA,1994,987333
+Nigeria,NGA,1995,1131692
+Nigeria,NGA,1996,889924
+Nigeria,NGA,1997,616466
+Nigeria,NGA,2000,497.8
+Nigeria,NGA,2005,482.6
+Nigeria,NGA,2010,416.3
+Nigeria,NGA,2015,380.8
+North Korea,PRK,2000,21.6
+North Korea,PRK,2005,1
+North Korea,PRK,2010,2.1
+North Korea,PRK,2015,1
+Oman,OMN,1962,na
+Oman,OMN,1963,22787
+Oman,OMN,1964,31143
+Oman,OMN,1965,na
+Oman,OMN,1966,na
+Oman,OMN,1967,na
+Oman,OMN,1968,na
+Oman,OMN,1969,na
+Oman,OMN,1970,na
+Oman,OMN,1971,na
+Oman,OMN,1972,na
+Oman,OMN,1973,na
+Oman,OMN,1974,na
+Oman,OMN,1975,447
+Oman,OMN,1976,3286
+Oman,OMN,1977,2632
+Oman,OMN,1978,6840
+Oman,OMN,1979,2247
+Oman,OMN,1980,1340
+Oman,OMN,1981,2218
+Oman,OMN,1982,30566
+Oman,OMN,1983,34885
+Oman,OMN,1984,16590
+Oman,OMN,1985,16445
+Oman,OMN,1986,16710
+Oman,OMN,1987,15514
+Oman,OMN,1988,24619
+Oman,OMN,1989,17867
+Oman,OMN,1990,32720
+Oman,OMN,1991,19274
+Oman,OMN,1992,14827
+Oman,OMN,1993,16873
+Oman,OMN,1994,7215
+Oman,OMN,1995,1801
+Oman,OMN,1996,1265
+Oman,OMN,1997,1026
+Pakistan,PAK,1962,na
+Pakistan,PAK,1963,na
+Pakistan,PAK,1964,na
+Pakistan,PAK,1965,na
+Pakistan,PAK,1966,6416
+Pakistan,PAK,1967,9116
+Pakistan,PAK,1968,15847
+Pakistan,PAK,1969,57721
+Pakistan,PAK,1970,108773
+Pakistan,PAK,1971,206349
+Pakistan,PAK,1972,643013
+Pakistan,PAK,1973,606828
+Pakistan,PAK,1974,303937
+Pakistan,PAK,1975,238315
+Pakistan,PAK,1976,122219
+Pakistan,PAK,1977,47571
+Pakistan,PAK,1978,16160
+Pakistan,PAK,1979,12304
+Pakistan,PAK,1980,17707
+Pakistan,PAK,1981,37923
+Pakistan,PAK,1982,56708
+Pakistan,PAK,1983,49160
+Pakistan,PAK,1984,73996
+Pakistan,PAK,1985,60669
+Pakistan,PAK,1986,90312
+Pakistan,PAK,1987,64342
+Pakistan,PAK,1988,49763
+Pakistan,PAK,1989,107739
+Pakistan,PAK,1990,79689
+Pakistan,PAK,1991,66586
+Pakistan,PAK,1992,103084
+Pakistan,PAK,1993,92634
+Pakistan,PAK,1994,108586
+Pakistan,PAK,1995,111836
+Pakistan,PAK,1996,98035
+Pakistan,PAK,1997,77480
+Pakistan,PAK,2000,44.8
+Pakistan,PAK,2005,40.3
+Pakistan,PAK,2010,13.8
+Pakistan,PAK,2015,8.6
+Panama,PAN,1962,3249
+Panama,PAN,1963,3670
+Panama,PAN,1964,1804
+Panama,PAN,1965,1967
+Panama,PAN,1966,3735
+Panama,PAN,1967,2808
+Panama,PAN,1968,1714
+Panama,PAN,1969,6096
+Panama,PAN,1970,4641
+Panama,PAN,1971,1080
+Panama,PAN,1972,860
+Panama,PAN,1973,1606
+Panama,PAN,1974,1186
+Panama,PAN,1975,677
+Panama,PAN,1976,734
+Panama,PAN,1977,678
+Panama,PAN,1978,268
+Panama,PAN,1979,316
+Panama,PAN,1980,310
+Panama,PAN,1981,340
+Panama,PAN,1982,334
+Panama,PAN,1983,341
+Panama,PAN,1984,125
+Panama,PAN,1985,126
+Panama,PAN,1986,1060
+Panama,PAN,1987,1195
+Panama,PAN,1988,1000
+Panama,PAN,1989,427
+Panama,PAN,1990,381
+Panama,PAN,1991,1115
+Panama,PAN,1992,727
+Panama,PAN,1993,481
+Panama,PAN,1994,684
+Panama,PAN,1995,730
+Panama,PAN,1996,476
+Panama,PAN,1997,505
+Panama,PAN,2000,8.9
+Panama,PAN,2005,28.6
+Panama,PAN,2010,3
+Panama,PAN,2015,3.7
+Papua New Guinea,PNG,1962,na
+Papua New Guinea,PNG,1963,2149
+Papua New Guinea,PNG,1964,108
+Papua New Guinea,PNG,1965,na
+Papua New Guinea,PNG,1966,1740
+Papua New Guinea,PNG,1967,2628
+Papua New Guinea,PNG,1968,na
+Papua New Guinea,PNG,1969,2743
+Papua New Guinea,PNG,1970,30300
+Papua New Guinea,PNG,1971,24525
+Papua New Guinea,PNG,1972,39870
+Papua New Guinea,PNG,1973,43265
+Papua New Guinea,PNG,1974,46658
+Papua New Guinea,PNG,1975,56233
+Papua New Guinea,PNG,1976,65442
+Papua New Guinea,PNG,1977,68609
+Papua New Guinea,PNG,1978,106138
+Papua New Guinea,PNG,1979,117670
+Papua New Guinea,PNG,1980,118390
+Papua New Guinea,PNG,1981,122743
+Papua New Guinea,PNG,1982,109306
+Papua New Guinea,PNG,1983,126930
+Papua New Guinea,PNG,1984,150328
+Papua New Guinea,PNG,1985,182545
+Papua New Guinea,PNG,1986,143316
+Papua New Guinea,PNG,1987,164228
+Papua New Guinea,PNG,1988,83944
+Papua New Guinea,PNG,1989,121796
+Papua New Guinea,PNG,1990,104939
+Papua New Guinea,PNG,1991,86514
+Papua New Guinea,PNG,1992,26414
+Papua New Guinea,PNG,1993,66797
+Papua New Guinea,PNG,1994,629525
+Papua New Guinea,PNG,1995,50208
+Papua New Guinea,PNG,1996,71013
+Papua New Guinea,PNG,1997,38105
+Papua New Guinea,PNG,2000,270.3
+Papua New Guinea,PNG,2005,231.2
+Papua New Guinea,PNG,2010,181.8
+Papua New Guinea,PNG,2015,122.2
+Paraguay,PRY,1962,5756
+Paraguay,PRY,1963,3443
+Paraguay,PRY,1964,8851
+Paraguay,PRY,1965,6732
+Paraguay,PRY,1966,33026
+Paraguay,PRY,1967,50304
+Paraguay,PRY,1968,20743
+Paraguay,PRY,1969,10307
+Paraguay,PRY,1970,1429
+Paraguay,PRY,1971,423
+Paraguay,PRY,1972,94
+Paraguay,PRY,1973,41
+Paraguay,PRY,1974,101
+Paraguay,PRY,1975,217
+Paraguay,PRY,1976,140
+Paraguay,PRY,1977,156
+Paraguay,PRY,1978,156
+Paraguay,PRY,1979,116
+Paraguay,PRY,1980,140
+Paraguay,PRY,1981,73
+Paraguay,PRY,1982,66
+Paraguay,PRY,1983,49
+Paraguay,PRY,1984,554
+Paraguay,PRY,1985,4568
+Paraguay,PRY,1986,4329
+Paraguay,PRY,1987,3741
+Paraguay,PRY,1988,2884
+Paraguay,PRY,1989,5247
+Paraguay,PRY,1990,2912
+Paraguay,PRY,1991,2983
+Paraguay,PRY,1992,1289
+Paraguay,PRY,1993,436
+Paraguay,PRY,1994,583
+Paraguay,PRY,1995,898
+Paraguay,PRY,1996,637
+Paraguay,PRY,1997,567
+Paraguay,PRY,2000,78.4
+Paraguay,PRY,2005,3.9
+Paraguay,PRY,2010,0.2
+Paraguay,PRY,2015,0
+Peru,PER,1962,2195
+Peru,PER,1963,1743
+Peru,PER,1964,1934
+Peru,PER,1965,1877
+Peru,PER,1966,2051
+Peru,PER,1967,2772
+Peru,PER,1968,2010
+Peru,PER,1969,3168
+Peru,PER,1970,4546
+Peru,PER,1971,4128
+Peru,PER,1972,9270
+Peru,PER,1973,12033
+Peru,PER,1974,12485
+Peru,PER,1975,14338
+Peru,PER,1976,18462
+Peru,PER,1977,32410
+Peru,PER,1978,20376
+Peru,PER,1979,17127
+Peru,PER,1980,14982
+Peru,PER,1981,14812
+Peru,PER,1982,20483
+Peru,PER,1983,28563
+Peru,PER,1984,33724
+Peru,PER,1985,35026
+Peru,PER,1986,36866
+Peru,PER,1987,39136
+Peru,PER,1988,32359
+Peru,PER,1989,32114
+Peru,PER,1990,28882
+Peru,PER,1991,33705
+Peru,PER,1992,54922
+Peru,PER,1993,95222
+Peru,PER,1994,122039
+Peru,PER,1995,192629
+Peru,PER,1996,213132
+Peru,PER,1997,183740
+Peru,PER,2000,23.6
+Peru,PER,2005,26.3
+Peru,PER,2010,9.7
+Peru,PER,2015,21.2
+Philippines,PHL,1962,40342
+Philippines,PHL,1963,33517
+Philippines,PHL,1964,40854
+Philippines,PHL,1965,28988
+Philippines,PHL,1966,33737
+Philippines,PHL,1967,31441
+Philippines,PHL,1968,28354
+Philippines,PHL,1969,31243
+Philippines,PHL,1970,35482
+Philippines,PHL,1971,37113
+Philippines,PHL,1972,42682
+Philippines,PHL,1973,87895
+Philippines,PHL,1974,47523
+Philippines,PHL,1975,72675
+Philippines,PHL,1976,72711
+Philippines,PHL,1977,86553
+Philippines,PHL,1978,104826
+Philippines,PHL,1979,87668
+Philippines,PHL,1980,105750
+Philippines,PHL,1981,97557
+Philippines,PHL,1982,97531
+Philippines,PHL,1983,90319
+Philippines,PHL,1984,107311
+Philippines,PHL,1985,103056
+Philippines,PHL,1986,102573
+Philippines,PHL,1987,154091
+Philippines,PHL,1988,154943
+Philippines,PHL,1989,115542
+Philippines,PHL,1990,86172
+Philippines,PHL,1991,86392
+Philippines,PHL,1992,110457
+Philippines,PHL,1993,64974
+Philippines,PHL,1994,57493
+Philippines,PHL,1995,56852
+Philippines,PHL,1996,40545
+Philippines,PHL,1997,42005
+Philippines,PHL,2000,4.3
+Philippines,PHL,2005,4.9
+Philippines,PHL,2010,1.7
+Philippines,PHL,2015,0.4
+Pre-demographic dividend,,2000,404.5881092
+Pre-demographic dividend,,2005,369.2478352
+Pre-demographic dividend,,2010,302.4101816
+Pre-demographic dividend,,2015,240.9349034
+Puerto Rico,PRI,1962,0
+Puerto Rico,PRI,1963,0
+Puerto Rico,PRI,1964,0
+Puerto Rico,PRI,1965,2
+Puerto Rico,PRI,1966,6
+Puerto Rico,PRI,1967,15
+Puerto Rico,PRI,1968,9
+Puerto Rico,PRI,1969,4
+Puerto Rico,PRI,1970,39
+Puerto Rico,PRI,1971,30
+Puerto Rico,PRI,1972,5
+Puerto Rico,PRI,1973,1
+Puerto Rico,PRI,1974,1
+Puerto Rico,PRI,1975,1
+Puerto Rico,PRI,1976,1
+Puerto Rico,PRI,1977,3
+Puerto Rico,PRI,1978,3
+Puerto Rico,PRI,1979,2
+Puerto Rico,PRI,1980,5
+Puerto Rico,PRI,1981,11
+Puerto Rico,PRI,1982,na
+Puerto Rico,PRI,1983,na
+Puerto Rico,PRI,1984,na
+Puerto Rico,PRI,1985,na
+Puerto Rico,PRI,1986,na
+Puerto Rico,PRI,1987,na
+Puerto Rico,PRI,1988,na
+Puerto Rico,PRI,1989,na
+Puerto Rico,PRI,1990,na
+Puerto Rico,PRI,1991,na
+Puerto Rico,PRI,1992,na
+Puerto Rico,PRI,1993,na
+Puerto Rico,PRI,1994,na
+Puerto Rico,PRI,1995,na
+Puerto Rico,PRI,1996,na
+Puerto Rico,PRI,1997,na
+Romania,ROU,1962,23
+Romania,ROU,1963,16
+Romania,ROU,1964,18
+Romania,ROU,1965,13
+Romania,ROU,1966,10
+Romania,ROU,1967,16
+Romania,ROU,1968,9
+Romania,ROU,1969,4
+Romania,ROU,1970,13
+Romania,ROU,1971,6
+Romania,ROU,1972,17
+Romania,ROU,1973,17
+Romania,ROU,1974,18
+Romania,ROU,1975,13
+Romania,ROU,1976,14
+Romania,ROU,1977,19
+Romania,ROU,1978,21
+Romania,ROU,1979,19
+Romania,ROU,1980,14
+Romania,ROU,1981,22
+Romania,ROU,1982,na
+Romania,ROU,1983,na
+Romania,ROU,1984,na
+Romania,ROU,1985,na
+Romania,ROU,1986,na
+Romania,ROU,1987,na
+Romania,ROU,1988,na
+Romania,ROU,1989,na
+Romania,ROU,1990,na
+Romania,ROU,1991,na
+Romania,ROU,1992,na
+Romania,ROU,1993,na
+Romania,ROU,1994,na
+Romania,ROU,1995,na
+Romania,ROU,1996,na
+Romania,ROU,1997,na
+Rwanda,RWA,1962,na
+Rwanda,RWA,1963,57187
+Rwanda,RWA,1964,51523
+Rwanda,RWA,1965,na
+Rwanda,RWA,1966,22325
+Rwanda,RWA,1967,na
+Rwanda,RWA,1968,37686
+Rwanda,RWA,1969,28323
+Rwanda,RWA,1970,34274
+Rwanda,RWA,1971,55803
+Rwanda,RWA,1972,67667
+Rwanda,RWA,1973,53453
+Rwanda,RWA,1974,54666
+Rwanda,RWA,1975,66441
+Rwanda,RWA,1976,85129
+Rwanda,RWA,1977,128048
+Rwanda,RWA,1978,134489
+Rwanda,RWA,1979,137047
+Rwanda,RWA,1980,123882
+Rwanda,RWA,1981,na
+Rwanda,RWA,1982,137325
+Rwanda,RWA,1983,na
+Rwanda,RWA,1984,270000
+Rwanda,RWA,1985,343416
+Rwanda,RWA,1986,428506
+Rwanda,RWA,1987,689775
+Rwanda,RWA,1988,1101280
+Rwanda,RWA,1989,1350643
+Rwanda,RWA,1990,1282012
+Rwanda,RWA,1991,1331494
+Rwanda,RWA,1992,1373247
+Rwanda,RWA,1993,733203
+Rwanda,RWA,1994,371550
+Rwanda,RWA,1995,1391931
+Rwanda,RWA,1996,1145759
+Rwanda,RWA,1997,1210775
+Rwanda,RWA,2000,425.8
+Rwanda,RWA,2005,174.5
+Rwanda,RWA,2010,105.9
+Rwanda,RWA,2015,301.3
+Sao Tome and Princepe,STP,1962,na
+Sao Tome and Princepe,STP,1963,na
+Sao Tome and Princepe,STP,1964,na
+Sao Tome and Princepe,STP,1965,na
+Sao Tome and Princepe,STP,1966,6902
+Sao Tome and Princepe,STP,1967,7773
+Sao Tome and Princepe,STP,1968,7024
+Sao Tome and Princepe,STP,1969,na
+Sao Tome and Princepe,STP,1970,na
+Sao Tome and Princepe,STP,1971,6563
+Sao Tome and Princepe,STP,1972,4806
+Sao Tome and Princepe,STP,1973,4038
+Sao Tome and Princepe,STP,1974,na
+Sao Tome and Princepe,STP,1975,na
+Sao Tome and Princepe,STP,1976,903
+Sao Tome and Princepe,STP,1977,2010
+Sao Tome and Princepe,STP,1978,2095
+Sao Tome and Princepe,STP,1979,7478
+Sao Tome and Princepe,STP,1980,na
+Sao Tome and Princepe,STP,1981,na
+Sao Tome and Princepe,STP,1982,263
+Sao Tome and Princepe,STP,1983,na
+Sao Tome and Princepe,STP,1984,na
+Sao Tome and Princepe,STP,1985,na
+Sao Tome and Princepe,STP,1986,23324
+Sao Tome and Princepe,STP,1987,35008
+Sao Tome and Princepe,STP,1988,na
+Sao Tome and Princepe,STP,1989,73183
+Sao Tome and Princepe,STP,1990,na
+Sao Tome and Princepe,STP,1991,na
+Sao Tome and Princepe,STP,1992,na
+Sao Tome and Princepe,STP,1993,na
+Sao Tome and Princepe,STP,1994,na
+Sao Tome and Princepe,STP,1995,na
+Sao Tome and Princepe,STP,1996,na
+Sao Tome and Princepe,STP,1997,na
+Sao Tome and Principe,STP,2000,343.8
+Sao Tome and Principe,STP,2005,198
+Sao Tome and Principe,STP,2010,28.6
+Sao Tome and Principe,STP,2015,17.8
+Saudi Arabia,SAU,1962,na
+Saudi Arabia,SAU,1963,na
+Saudi Arabia,SAU,1964,na
+Saudi Arabia,SAU,1965,na
+Saudi Arabia,SAU,1966,na
+Saudi Arabia,SAU,1967,na
+Saudi Arabia,SAU,1968,na
+Saudi Arabia,SAU,1969,na
+Saudi Arabia,SAU,1970,6104
+Saudi Arabia,SAU,1971,864
+Saudi Arabia,SAU,1972,2545
+Saudi Arabia,SAU,1973,1996
+Saudi Arabia,SAU,1974,3008
+Saudi Arabia,SAU,1975,1753
+Saudi Arabia,SAU,1976,2199
+Saudi Arabia,SAU,1977,2987
+Saudi Arabia,SAU,1978,3344
+Saudi Arabia,SAU,1979,3192
+Saudi Arabia,SAU,1980,6496
+Saudi Arabia,SAU,1981,5543
+Saudi Arabia,SAU,1982,15167
+Saudi Arabia,SAU,1983,17956
+Saudi Arabia,SAU,1984,11091
+Saudi Arabia,SAU,1985,16242
+Saudi Arabia,SAU,1986,12975
+Saudi Arabia,SAU,1987,17650
+Saudi Arabia,SAU,1988,9797
+Saudi Arabia,SAU,1989,6475
+Saudi Arabia,SAU,1990,15666
+Saudi Arabia,SAU,1991,9962
+Saudi Arabia,SAU,1992,19623
+Saudi Arabia,SAU,1993,18380
+Saudi Arabia,SAU,1994,10032
+Saudi Arabia,SAU,1995,18751
+Saudi Arabia,SAU,1996,21007
+Saudi Arabia,SAU,1997,20631
+Saudi Arabia,SAU,2000,6
+Saudi Arabia,SAU,2005,0.2
+Saudi Arabia,SAU,2010,0.028133847
+Saudi Arabia,SAU,2015,0.1
+Senegal,SEN,1962,227596
+Senegal,SEN,1963,226681
+Senegal,SEN,1964,69982
+Senegal,SEN,1965,280243
+Senegal,SEN,1966,373969
+Senegal,SEN,1967,440176
+Senegal,SEN,1968,386911
+Senegal,SEN,1969,539158
+Senegal,SEN,1970,472461
+Senegal,SEN,1971,499130
+Senegal,SEN,1972,472048
+Senegal,SEN,1973,521181
+Senegal,SEN,1974,555925
+Senegal,SEN,1975,483773
+Senegal,SEN,1976,443741
+Senegal,SEN,1977,366967
+Senegal,SEN,1978,414031
+Senegal,SEN,1979,508010
+Senegal,SEN,1980,na
+Senegal,SEN,1981,498895
+Senegal,SEN,1982,394297
+Senegal,SEN,1983,374086
+Senegal,SEN,1984,na
+Senegal,SEN,1985,286855
+Senegal,SEN,1986,388476
+Senegal,SEN,1987,379734
+Senegal,SEN,1988,254118
+Senegal,SEN,1989,52011
+Senegal,SEN,1990,na
+Senegal,SEN,1991,na
+Senegal,SEN,1992,na
+Senegal,SEN,1993,na
+Senegal,SEN,1994,450071
+Senegal,SEN,1995,628773
+Senegal,SEN,1996,na
+Senegal,SEN,1997,na
+Senegal,SEN,2000,233.9
+Senegal,SEN,2005,117.8
+Senegal,SEN,2010,140.5
+Senegal,SEN,2015,97.6
+Seychelles,SYC,1962,na
+Seychelles,SYC,1963,na
+Seychelles,SYC,1964,na
+Seychelles,SYC,1965,na
+Seychelles,SYC,1966,na
+Seychelles,SYC,1967,na
+Seychelles,SYC,1968,na
+Seychelles,SYC,1969,na
+Seychelles,SYC,1970,na
+Seychelles,SYC,1971,na
+Seychelles,SYC,1972,na
+Seychelles,SYC,1973,na
+Seychelles,SYC,1974,na
+Seychelles,SYC,1975,na
+Seychelles,SYC,1976,4
+Seychelles,SYC,1977,6
+Seychelles,SYC,1978,na
+Seychelles,SYC,1979,0
+Seychelles,SYC,1980,6
+Seychelles,SYC,1981,na
+Seychelles,SYC,1982,na
+Seychelles,SYC,1983,na
+Seychelles,SYC,1984,na
+Seychelles,SYC,1985,na
+Seychelles,SYC,1986,na
+Seychelles,SYC,1987,na
+Seychelles,SYC,1988,na
+Seychelles,SYC,1989,na
+Seychelles,SYC,1990,na
+Seychelles,SYC,1991,na
+Seychelles,SYC,1992,na
+Seychelles,SYC,1993,na
+Seychelles,SYC,1994,na
+Seychelles,SYC,1995,na
+Seychelles,SYC,1996,na
+Seychelles,SYC,1997,na
+Sierra Leone,SLE,1962,na
+Sierra Leone,SLE,1963,na
+Sierra Leone,SLE,1964,na
+Sierra Leone,SLE,1965,na
+Sierra Leone,SLE,1966,na
+Sierra Leone,SLE,1967,na
+Sierra Leone,SLE,1968,na
+Sierra Leone,SLE,1969,na
+Sierra Leone,SLE,1970,na
+Sierra Leone,SLE,1971,33156
+Sierra Leone,SLE,1972,na
+Sierra Leone,SLE,1973,na
+Sierra Leone,SLE,1974,na
+Sierra Leone,SLE,1975,na
+Sierra Leone,SLE,1976,na
+Sierra Leone,SLE,1977,na
+Sierra Leone,SLE,1978,na
+Sierra Leone,SLE,1979,79991
+Sierra Leone,SLE,1980,na
+Sierra Leone,SLE,1981,na
+Sierra Leone,SLE,1982,na
+Sierra Leone,SLE,1983,na
+Sierra Leone,SLE,1984,na
+Sierra Leone,SLE,1985,na
+Sierra Leone,SLE,1986,na
+Sierra Leone,SLE,1987,na
+Sierra Leone,SLE,1988,na
+Sierra Leone,SLE,1989,na
+Sierra Leone,SLE,1990,na
+Sierra Leone,SLE,1991,na
+Sierra Leone,SLE,1992,na
+Sierra Leone,SLE,1993,na
+Sierra Leone,SLE,1994,na
+Sierra Leone,SLE,1995,na
+Sierra Leone,SLE,1996,na
+Sierra Leone,SLE,1997,na
+Sierra Leone,SLE,2000,486
+Sierra Leone,SLE,2005,468.5
+Sierra Leone,SLE,2010,482
+Sierra Leone,SLE,2015,302.8
+Singapore,SGP,1962,36
+Singapore,SGP,1963,273
+Singapore,SGP,1964,177
+Singapore,SGP,1965,201
+Singapore,SGP,1966,216
+Singapore,SGP,1967,228
+Singapore,SGP,1968,396
+Singapore,SGP,1969,302
+Singapore,SGP,1970,473
+Singapore,SGP,1971,357
+Singapore,SGP,1972,302
+Singapore,SGP,1973,347
+Singapore,SGP,1974,416
+Singapore,SGP,1975,443
+Singapore,SGP,1976,251
+Singapore,SGP,1977,184
+Singapore,SGP,1978,166
+Singapore,SGP,1979,208
+Singapore,SGP,1980,200
+Singapore,SGP,1981,261
+Singapore,SGP,1982,na
+Singapore,SGP,1983,na
+Singapore,SGP,1984,na
+Singapore,SGP,1985,na
+Singapore,SGP,1986,na
+Singapore,SGP,1987,na
+Singapore,SGP,1988,na
+Singapore,SGP,1989,na
+Singapore,SGP,1990,na
+Singapore,SGP,1991,na
+Singapore,SGP,1992,na
+Singapore,SGP,1993,na
+Singapore,SGP,1994,na
+Singapore,SGP,1995,na
+Singapore,SGP,1996,na
+Singapore,SGP,1997,na
+Solomon Islands,SLB,1962,16319
+Solomon Islands,SLB,1963,18919
+Solomon Islands,SLB,1964,19292
+Solomon Islands,SLB,1965,15696
+Solomon Islands,SLB,1966,1481
+Solomon Islands,SLB,1967,13409
+Solomon Islands,SLB,1968,3134
+Solomon Islands,SLB,1969,5486
+Solomon Islands,SLB,1970,9821
+Solomon Islands,SLB,1971,7161
+Solomon Islands,SLB,1972,5216
+Solomon Islands,SLB,1973,7748
+Solomon Islands,SLB,1974,8681
+Solomon Islands,SLB,1975,3554
+Solomon Islands,SLB,1976,3798
+Solomon Islands,SLB,1977,10591
+Solomon Islands,SLB,1978,19987
+Solomon Islands,SLB,1979,26357
+Solomon Islands,SLB,1980,35028
+Solomon Islands,SLB,1981,61108
+Solomon Islands,SLB,1982,69829
+Solomon Islands,SLB,1983,84526
+Solomon Islands,SLB,1984,72108
+Solomon Islands,SLB,1985,40778
+Solomon Islands,SLB,1986,58776
+Solomon Islands,SLB,1987,72800
+Solomon Islands,SLB,1988,63893
+Solomon Islands,SLB,1989,65241
+Solomon Islands,SLB,1990,116449
+Solomon Islands,SLB,1991,141438
+Solomon Islands,SLB,1992,153359
+Solomon Islands,SLB,1993,126123
+Solomon Islands,SLB,1994,131687
+Solomon Islands,SLB,1995,118521
+Solomon Islands,SLB,1996,84795
+Solomon Islands,SLB,1997,68125
+Solomon Islands,SLB,2000,475.7
+Solomon Islands,SLB,2005,470.5
+Solomon Islands,SLB,2010,134.1
+Solomon Islands,SLB,2015,67
+Somalia,SOM,1962,na
+Somalia,SOM,1963,na
+Somalia,SOM,1964,na
+Somalia,SOM,1965,na
+Somalia,SOM,1966,na
+Somalia,SOM,1967,na
+Somalia,SOM,1968,na
+Somalia,SOM,1969,na
+Somalia,SOM,1970,5041
+Somalia,SOM,1971,2617
+Somalia,SOM,1972,27034
+Somalia,SOM,1973,20006
+Somalia,SOM,1974,14314
+Somalia,SOM,1975,9670
+Somalia,SOM,1976,10618
+Somalia,SOM,1977,13684
+Somalia,SOM,1978,14785
+Somalia,SOM,1979,11343
+Somalia,SOM,1980,na
+Somalia,SOM,1981,na
+Somalia,SOM,1982,7921
+Somalia,SOM,1983,4911
+Somalia,SOM,1984,3054
+Somalia,SOM,1985,3382
+Somalia,SOM,1986,4355
+Somalia,SOM,1987,7255
+Somalia,SOM,1988,16830
+Somalia,SOM,1989,16215
+Somalia,SOM,1990,na
+Somalia,SOM,1991,na
+Somalia,SOM,1992,na
+Somalia,SOM,1993,3049
+Somalia,SOM,1994,na
+Somalia,SOM,1995,na
+Somalia,SOM,1996,na
+Somalia,SOM,1997,na
+Somalia,SOM,2000,110
+Somalia,SOM,2005,164.8
+Somalia,SOM,2010,38.3
+Somalia,SOM,2015,85.5
+South Africa,ZAF,1962,252
+South Africa,ZAF,1963,265
+South Africa,ZAF,1964,460
+South Africa,ZAF,1965,55
+South Africa,ZAF,1966,304
+South Africa,ZAF,1967,1207
+South Africa,ZAF,1968,138
+South Africa,ZAF,1969,498
+South Africa,ZAF,1970,227
+South Africa,ZAF,1971,670
+South Africa,ZAF,1972,3523
+South Africa,ZAF,1973,483
+South Africa,ZAF,1974,1707
+South Africa,ZAF,1975,3031
+South Africa,ZAF,1976,2616
+South Africa,ZAF,1977,3954
+South Africa,ZAF,1978,3137
+South Africa,ZAF,1979,2007
+South Africa,ZAF,1980,1059
+South Africa,ZAF,1981,na
+South Africa,ZAF,1982,2184
+South Africa,ZAF,1983,2130
+South Africa,ZAF,1984,4642
+South Africa,ZAF,1985,11358
+South Africa,ZAF,1986,7491
+South Africa,ZAF,1987,10374
+South Africa,ZAF,1988,9365
+South Africa,ZAF,1989,7085
+South Africa,ZAF,1990,6857
+South Africa,ZAF,1991,4712
+South Africa,ZAF,1992,2886
+South Africa,ZAF,1993,13330
+South Africa,ZAF,1994,10298
+South Africa,ZAF,1995,9287
+South Africa,ZAF,1996,29160
+South Africa,ZAF,1997,na
+South Africa,ZAF,2000,12.3
+South Africa,ZAF,2005,4.9
+South Africa,ZAF,2010,4.8
+South Africa,ZAF,2015,3.1
+South Asia,,2000,43.5414868
+South Asia,,2005,46.0933963
+South Asia,,2010,29.62443959
+South Asia,,2015,16.86405297
+South Asia (IDA & IBRD),,2000,43.5414868
+South Asia (IDA & IBRD),,2005,46.0933963
+South Asia (IDA & IBRD),,2010,29.62443959
+South Asia (IDA & IBRD),,2015,16.86405297
+South Korea,KOR,2000,2.8
+South Korea,KOR,2005,0.9
+South Korea,KOR,2010,0.8
+South Korea,KOR,2015,0.8
+South Sudan,SSD,2000,297.4
+South Sudan,SSD,2005,226
+South Sudan,SSD,2010,180.1
+South Sudan,SSD,2015,156
+Sri Lanka,LKA,1962,31
+Sri Lanka,LKA,1963,117
+Sri Lanka,LKA,1964,150
+Sri Lanka,LKA,1965,308
+Sri Lanka,LKA,1966,499
+Sri Lanka,LKA,1967,3466
+Sri Lanka,LKA,1968,440644
+Sri Lanka,LKA,1969,537705
+Sri Lanka,LKA,1970,468199
+Sri Lanka,LKA,1971,145368
+Sri Lanka,LKA,1972,132605
+Sri Lanka,LKA,1973,277713
+Sri Lanka,LKA,1974,315448
+Sri Lanka,LKA,1975,400777
+Sri Lanka,LKA,1976,304487
+Sri Lanka,LKA,1977,262460
+Sri Lanka,LKA,1978,69685
+Sri Lanka,LKA,1979,48004
+Sri Lanka,LKA,1980,47949
+Sri Lanka,LKA,1981,47383
+Sri Lanka,LKA,1982,38566
+Sri Lanka,LKA,1983,127264
+Sri Lanka,LKA,1984,149470
+Sri Lanka,LKA,1985,117816
+Sri Lanka,LKA,1986,412521
+Sri Lanka,LKA,1987,676567
+Sri Lanka,LKA,1988,383294
+Sri Lanka,LKA,1989,258727
+Sri Lanka,LKA,1990,287384
+Sri Lanka,LKA,1991,400263
+Sri Lanka,LKA,1992,399349
+Sri Lanka,LKA,1993,327020
+Sri Lanka,LKA,1994,273434
+Sri Lanka,LKA,1995,142294
+Sri Lanka,LKA,1996,184319
+Sri Lanka,LKA,1997,218550
+Sri Lanka,LKA,2000,107
+Sri Lanka,LKA,2005,0.8
+Sri Lanka,LKA,2010,0.3
+Sri Lanka,LKA,2015,0
+St.Lucia,LCA,1962,na
+St.Lucia,LCA,1963,na
+St.Lucia,LCA,1964,na
+St.Lucia,LCA,1965,0
+St.Lucia,LCA,1966,0
+St.Lucia,LCA,1967,na
+St.Lucia,LCA,1968,0
+St.Lucia,LCA,1969,0
+St.Lucia,LCA,1970,na
+St.Lucia,LCA,1971,0
+St.Lucia,LCA,1972,1
+St.Lucia,LCA,1973,0
+St.Lucia,LCA,1974,0
+St.Lucia,LCA,1975,0
+St.Lucia,LCA,1976,1
+St.Lucia,LCA,1977,0
+St.Lucia,LCA,1978,0
+St.Lucia,LCA,1979,1
+St.Lucia,LCA,1980,0
+St.Lucia,LCA,1981,0
+St.Lucia,LCA,1982,na
+St.Lucia,LCA,1983,na
+St.Lucia,LCA,1984,na
+St.Lucia,LCA,1985,na
+St.Lucia,LCA,1986,na
+St.Lucia,LCA,1987,na
+St.Lucia,LCA,1988,na
+St.Lucia,LCA,1989,na
+St.Lucia,LCA,1990,na
+St.Lucia,LCA,1991,na
+St.Lucia,LCA,1992,na
+St.Lucia,LCA,1993,na
+St.Lucia,LCA,1994,na
+St.Lucia,LCA,1995,na
+St.Lucia,LCA,1996,na
+St.Lucia,LCA,1997,na
+Sub-Saharan Africa,,2000,422.5108466
+Sub-Saharan Africa,,2005,354.4241459
+Sub-Saharan Africa,,2010,293.2116831
+Sub-Saharan Africa,,2015,234.2921049
+Sub-Saharan Africa (excluding high income),,2000,422.5108466
+Sub-Saharan Africa (excluding high income),,2005,354.4241459
+Sub-Saharan Africa (excluding high income),,2010,293.2116831
+Sub-Saharan Africa (excluding high income),,2015,234.2921049
+Sub-Saharan Africa (IDA & IBRD),,2000,422.5108466
+Sub-Saharan Africa (IDA & IBRD),,2005,354.4241459
+Sub-Saharan Africa (IDA & IBRD),,2010,293.2116831
+Sub-Saharan Africa (IDA & IBRD),,2015,234.2921049
+Sudan,SDN,1962,na
+Sudan,SDN,1963,na
+Sudan,SDN,1964,na
+Sudan,SDN,1965,638598
+Sudan,SDN,1966,741045
+Sudan,SDN,1967,na
+Sudan,SDN,1968,781838
+Sudan,SDN,1969,808644
+Sudan,SDN,1970,110128
+Sudan,SDN,1971,na
+Sudan,SDN,1972,128661
+Sudan,SDN,1973,818225
+Sudan,SDN,1974,937776
+Sudan,SDN,1975,927399
+Sudan,SDN,1976,1039243
+Sudan,SDN,1977,na
+Sudan,SDN,1978,2660753
+Sudan,SDN,1979,na
+Sudan,SDN,1980,2925407
+Sudan,SDN,1981,na
+Sudan,SDN,1982,3446
+Sudan,SDN,1983,na
+Sudan,SDN,1984,7723
+Sudan,SDN,1985,8526
+Sudan,SDN,1986,18105
+Sudan,SDN,1987,17402
+Sudan,SDN,1988,42686
+Sudan,SDN,1989,42528
+Sudan,SDN,1990,21032
+Sudan,SDN,1991,17920
+Sudan,SDN,1992,31974
+Sudan,SDN,1993,na
+Sudan,SDN,1994,na
+Sudan,SDN,1995,232177
+Sudan,SDN,1996,na
+Sudan,SDN,1997,1464250
+Sudan,SDN,2000,92.6
+Sudan,SDN,2005,71.9
+Sudan,SDN,2010,35.5
+Sudan,SDN,2015,36.6
+Suriname,SUR,1962,716
+Suriname,SUR,1963,1882
+Suriname,SUR,1964,1681
+Suriname,SUR,1965,4311
+Suriname,SUR,1966,2933
+Suriname,SUR,1967,1792
+Suriname,SUR,1968,1555
+Suriname,SUR,1969,741
+Suriname,SUR,1970,1019
+Suriname,SUR,1971,1546
+Suriname,SUR,1972,800
+Suriname,SUR,1973,1948
+Suriname,SUR,1974,3984
+Suriname,SUR,1975,2741
+Suriname,SUR,1976,537
+Suriname,SUR,1977,993
+Suriname,SUR,1978,876
+Suriname,SUR,1979,903
+Suriname,SUR,1980,4445
+Suriname,SUR,1981,2479
+Suriname,SUR,1982,2805
+Suriname,SUR,1983,1943
+Suriname,SUR,1984,3849
+Suriname,SUR,1985,1635
+Suriname,SUR,1986,1316
+Suriname,SUR,1987,2044
+Suriname,SUR,1988,2691
+Suriname,SUR,1989,1704
+Suriname,SUR,1990,1608
+Suriname,SUR,1991,1490
+Suriname,SUR,1992,1404
+Suriname,SUR,1993,na
+Suriname,SUR,1994,4704
+Suriname,SUR,1995,6606
+Suriname,SUR,1996,16649
+Suriname,SUR,1997,11323
+Suriname,SUR,2000,231.9
+Suriname,SUR,2005,173.5
+Suriname,SUR,2010,30.6
+Suriname,SUR,2015,1.7
+Swaziland,CHE,1962,209
+Swaziland,CHE,1963,127
+Swaziland,CHE,1964,187
+Swaziland,CHE,1965,184
+Swaziland,CHE,1966,217
+Swaziland,CHE,1967,147
+Swaziland,CHE,1968,73
+Swaziland,CHE,1969,32
+Swaziland,CHE,1970,126
+Swaziland,CHE,1971,491
+Swaziland,CHE,1972,61
+Swaziland,CHE,1973,120
+Swaziland,CHE,1974,136
+Swaziland,CHE,1975,489
+Swaziland,CHE,1976,na
+Swaziland,CHE,1977,812
+Swaziland,CHE,1978,na
+Swaziland,CHE,1979,na
+Swaziland,CHE,1980,na
+Swaziland,CHE,1981,na
+Swaziland,CHE,1982,878
+Swaziland,CHE,1983,743
+Swaziland,CHE,1984,3373
+Swaziland,CHE,1985,1778
+Swaziland,CHE,1986,1732
+Swaziland,CHE,1987,na
+Swaziland,CHE,1988,na
+Swaziland,CHE,1989,na
+Swaziland,CHE,1990,na
+Swaziland,CHE,1991,na
+Swaziland,CHE,1992,na
+Swaziland,CHE,1993,na
+Swaziland,CHE,1994,na
+Swaziland,CHE,1995,na
+Swaziland,CHE,1996,na
+Swaziland,CHE,1997,na
+Swaziland,SWZ,2000,12.6
+Swaziland,SWZ,2005,6.3
+Swaziland,SWZ,2010,3.2
+Swaziland,SWZ,2015,1.4
+Syrian Arab Republic,SYR,1962,245
+Syrian Arab Republic,SYR,1963,618
+Syrian Arab Republic,SYR,1964,394
+Syrian Arab Republic,SYR,1965,988
+Syrian Arab Republic,SYR,1966,794
+Syrian Arab Republic,SYR,1967,1776
+Syrian Arab Republic,SYR,1968,3229
+Syrian Arab Republic,SYR,1969,2442
+Syrian Arab Republic,SYR,1970,1787
+Syrian Arab Republic,SYR,1971,511
+Syrian Arab Republic,SYR,1972,309
+Syrian Arab Republic,SYR,1973,315
+Syrian Arab Republic,SYR,1974,143
+Syrian Arab Republic,SYR,1975,232
+Syrian Arab Republic,SYR,1976,1077
+Syrian Arab Republic,SYR,1977,2149
+Syrian Arab Republic,SYR,1978,3378
+Syrian Arab Republic,SYR,1979,2550
+Syrian Arab Republic,SYR,1980,1481
+Syrian Arab Republic,SYR,1981,1828
+Syrian Arab Republic,SYR,1982,2183
+Syrian Arab Republic,SYR,1983,1260
+Syrian Arab Republic,SYR,1984,840
+Syrian Arab Republic,SYR,1985,435
+Syrian Arab Republic,SYR,1986,273
+Syrian Arab Republic,SYR,1987,150
+Syrian Arab Republic,SYR,1988,105
+Syrian Arab Republic,SYR,1989,83
+Syrian Arab Republic,SYR,1990,107
+Syrian Arab Republic,SYR,1991,54
+Syrian Arab Republic,SYR,1992,456
+Syrian Arab Republic,SYR,1993,966
+Syrian Arab Republic,SYR,1994,607
+Syrian Arab Republic,SYR,1995,626
+Syrian Arab Republic,SYR,1996,345
+Syrian Arab Republic,SYR,1997,130
+Tajikistan,TJK,2000,18.3
+Tajikistan,TJK,2005,2
+Tajikistan,TJK,2010,0.1
+Tajikistan,TJK,2015,0
+Tanzania,TZA,1962,234671
+Tanzania,TZA,1963,383778
+Tanzania,TZA,1964,378531
+Tanzania,TZA,1965,463381
+Tanzania,TZA,1966,546190
+Tanzania,TZA,1967,610453
+Tanzania,TZA,1968,44256
+Tanzania,TZA,1969,na
+Tanzania,TZA,1970,46723
+Tanzania,TZA,1971,na
+Tanzania,TZA,1972,na
+Tanzania,TZA,1973,725245
+Tanzania,TZA,1974,na
+Tanzania,TZA,1975,na
+Tanzania,TZA,1976,na
+Tanzania,TZA,1977,na
+Tanzania,TZA,1978,485956
+Tanzania,TZA,1979,na
+Tanzania,TZA,1980,na
+Tanzania,TZA,1981,na
+Tanzania,TZA,1982,414237
+Tanzania,TZA,1983,322504
+Tanzania,TZA,1984,322741
+Tanzania,TZA,1985,613823
+Tanzania,TZA,1986,4100000
+Tanzania,TZA,1987,5698000
+Tanzania,TZA,1988,7202389
+Tanzania,TZA,1989,15252531
+Tanzania,TZA,1990,10715736
+Tanzania,TZA,1991,8715736
+Tanzania,TZA,1992,7681524
+Tanzania,TZA,1993,8777340
+Tanzania,TZA,1994,7976590
+Tanzania,TZA,1995,2438040
+Tanzania,TZA,1996,4969273
+Tanzania,TZA,1997,1131655
+Tanzania,TZA,2000,406.8
+Tanzania,TZA,2005,287.2
+Tanzania,TZA,2010,175.6
+Tanzania,TZA,2015,113.9
+Thailand,THA,1962,18746
+Thailand,THA,1963,24038
+Thailand,THA,1964,101282
+Thailand,THA,1965,166606
+Thailand,THA,1966,81152
+Thailand,THA,1967,74092
+Thailand,THA,1968,89057
+Thailand,THA,1969,86986
+Thailand,THA,1970,148926
+Thailand,THA,1971,133999
+Thailand,THA,1972,92409
+Thailand,THA,1973,144855
+Thailand,THA,1974,238950
+Thailand,THA,1975,267534
+Thailand,THA,1976,282968
+Thailand,THA,1977,318237
+Thailand,THA,1978,329532
+Thailand,THA,1979,302568
+Thailand,THA,1980,396705
+Thailand,THA,1981,427792
+Thailand,THA,1982,420799
+Thailand,THA,1983,243906
+Thailand,THA,1984,306569
+Thailand,THA,1985,275443
+Thailand,THA,1986,255682
+Thailand,THA,1987,321510
+Thailand,THA,1988,349291
+Thailand,THA,1989,299137
+Thailand,THA,1990,272634
+Thailand,THA,1991,198383
+Thailand,THA,1992,168370
+Thailand,THA,1993,115220
+Thailand,THA,1994,102119
+Thailand,THA,1995,82743
+Thailand,THA,1996,87622
+Thailand,THA,1997,97540
+Thailand,THA,2000,11.9
+Thailand,THA,2005,6.4
+Thailand,THA,2010,6.3
+Thailand,THA,2015,2.7
+Timor,TLS,2000,482.6
+Timor,TLS,2005,436.7
+Timor,TLS,2010,174.2
+Timor,TLS,2015,0.2
+Togo,TGO,1962,93691
+Togo,TGO,1963,328504
+Togo,TGO,1964,283312
+Togo,TGO,1965,241450
+Togo,TGO,1966,na
+Togo,TGO,1967,221955
+Togo,TGO,1968,249995
+Togo,TGO,1969,241434
+Togo,TGO,1970,258227
+Togo,TGO,1971,240015
+Togo,TGO,1972,244274
+Togo,TGO,1973,235140
+Togo,TGO,1974,244554
+Togo,TGO,1975,264614
+Togo,TGO,1976,274459
+Togo,TGO,1977,292191
+Togo,TGO,1978,293888
+Togo,TGO,1979,294562
+Togo,TGO,1980,na
+Togo,TGO,1981,na
+Togo,TGO,1982,274667
+Togo,TGO,1983,553856
+Togo,TGO,1984,745292
+Togo,TGO,1985,1066704
+Togo,TGO,1986,1317087
+Togo,TGO,1987,1609378
+Togo,TGO,1988,1288621
+Togo,TGO,1989,1248878
+Togo,TGO,1990,810509
+Togo,TGO,1991,780825
+Togo,TGO,1992,634166
+Togo,TGO,1993,561328
+Togo,TGO,1994,328488
+Togo,TGO,1995,na
+Togo,TGO,1996,na
+Togo,TGO,1997,na
+Togo,TGO,2000,517.5
+Togo,TGO,2005,494.7
+Togo,TGO,2010,458
+Togo,TGO,2015,345.1
+Tonga,TON,1962,na
+Tonga,TON,1963,na
+Tonga,TON,1964,na
+Tonga,TON,1965,0
+Tonga,TON,1966,0
+Tonga,TON,1967,na
+Tonga,TON,1968,0
+Tonga,TON,1969,0
+Tonga,TON,1970,0
+Tonga,TON,1971,na
+Tonga,TON,1972,0
+Tonga,TON,1973,na
+Tonga,TON,1974,na
+Tonga,TON,1975,0
+Tonga,TON,1976,0
+Tonga,TON,1977,na
+Tonga,TON,1978,na
+Tonga,TON,1979,3
+Tonga,TON,1980,na
+Tonga,TON,1981,na
+Tonga,TON,1982,na
+Tonga,TON,1983,na
+Tonga,TON,1984,na
+Tonga,TON,1985,na
+Tonga,TON,1986,na
+Tonga,TON,1987,na
+Tonga,TON,1988,na
+Tonga,TON,1989,na
+Tonga,TON,1990,na
+Tonga,TON,1991,na
+Tonga,TON,1992,na
+Tonga,TON,1993,na
+Tonga,TON,1994,na
+Tonga,TON,1995,na
+Tonga,TON,1996,na
+Tonga,TON,1997,na
+Trinidad,TTO,1962,na
+Trinidad,TTO,1963,na
+Trinidad,TTO,1964,na
+Trinidad,TTO,1965,2
+Trinidad,TTO,1966,40
+Trinidad,TTO,1967,0
+Trinidad,TTO,1968,5
+Trinidad,TTO,1969,5
+Trinidad,TTO,1970,1
+Trinidad,TTO,1971,3
+Trinidad,TTO,1972,2
+Trinidad,TTO,1973,2
+Trinidad,TTO,1974,1
+Trinidad,TTO,1975,4
+Trinidad,TTO,1976,3
+Trinidad,TTO,1977,2
+Trinidad,TTO,1978,1
+Trinidad,TTO,1979,8
+Trinidad,TTO,1980,3
+Trinidad,TTO,1981,3
+Trinidad,TTO,1982,na
+Trinidad,TTO,1983,na
+Trinidad,TTO,1984,na
+Trinidad,TTO,1985,na
+Trinidad,TTO,1986,na
+Trinidad,TTO,1987,na
+Trinidad,TTO,1988,na
+Trinidad,TTO,1989,na
+Trinidad,TTO,1990,na
+Trinidad,TTO,1991,na
+Trinidad,TTO,1992,na
+Trinidad,TTO,1993,na
+Trinidad,TTO,1994,na
+Trinidad,TTO,1995,na
+Trinidad,TTO,1996,na
+Trinidad,TTO,1997,na
+Tunisia,TUN,1962,252
+Tunisia,TUN,1963,253
+Tunisia,TUN,1964,776
+Tunisia,TUN,1965,3032
+Tunisia,TUN,1966,4769
+Tunisia,TUN,1967,2360
+Tunisia,TUN,1968,2200
+Tunisia,TUN,1969,475
+Tunisia,TUN,1970,94
+Tunisia,TUN,1971,100
+Tunisia,TUN,1972,19
+Tunisia,TUN,1973,6
+Tunisia,TUN,1974,4
+Tunisia,TUN,1975,28
+Tunisia,TUN,1976,9
+Tunisia,TUN,1977,6
+Tunisia,TUN,1978,16
+Tunisia,TUN,1979,6
+Tunisia,TUN,1980,7
+Tunisia,TUN,1981,1
+Tunisia,TUN,1982,na
+Tunisia,TUN,1983,na
+Tunisia,TUN,1984,na
+Tunisia,TUN,1985,na
+Tunisia,TUN,1986,na
+Tunisia,TUN,1987,na
+Tunisia,TUN,1988,na
+Tunisia,TUN,1989,na
+Tunisia,TUN,1990,na
+Tunisia,TUN,1991,na
+Tunisia,TUN,1992,na
+Tunisia,TUN,1993,na
+Tunisia,TUN,1994,na
+Tunisia,TUN,1995,na
+Tunisia,TUN,1996,na
+Tunisia,TUN,1997,na
+Turkey,TUR,1962,3594
+Turkey,TUR,1963,4365
+Turkey,TUR,1964,4305
+Turkey,TUR,1965,4589
+Turkey,TUR,1966,3793
+Turkey,TUR,1967,3974
+Turkey,TUR,1968,3318
+Turkey,TUR,1969,2171
+Turkey,TUR,1970,1263
+Turkey,TUR,1971,2046
+Turkey,TUR,1972,2892
+Turkey,TUR,1973,2438
+Turkey,TUR,1974,2877
+Turkey,TUR,1975,9828
+Turkey,TUR,1976,37320
+Turkey,TUR,1977,115385
+Turkey,TUR,1978,87867
+Turkey,TUR,1979,29323
+Turkey,TUR,1980,34154
+Turkey,TUR,1981,55551
+Turkey,TUR,1982,62038
+Turkey,TUR,1983,66681
+Turkey,TUR,1984,55020
+Turkey,TUR,1985,47311
+Turkey,TUR,1986,37899
+Turkey,TUR,1987,20134
+Turkey,TUR,1988,16245
+Turkey,TUR,1989,12112
+Turkey,TUR,1990,8680
+Turkey,TUR,1991,12218
+Turkey,TUR,1992,18676
+Turkey,TUR,1993,47210
+Turkey,TUR,1994,84345
+Turkey,TUR,1995,82096
+Turkey,TUR,1996,60884
+Turkey,TUR,1997,35456
+Turkey,TUR,2000,1741
+Turkey,TUR,2005,295.8
+Turkey,TUR,2010,0
+Turkey,TUR,2015,0
+Uganda,UGA,1962,na
+Uganda,UGA,1963,na
+Uganda,UGA,1964,15978
+Uganda,UGA,1965,na
+Uganda,UGA,1966,na
+Uganda,UGA,1967,na
+Uganda,UGA,1968,21770
+Uganda,UGA,1969,707288
+Uganda,UGA,1970,na
+Uganda,UGA,1971,679359
+Uganda,UGA,1972,na
+Uganda,UGA,1973,630588
+Uganda,UGA,1974,255183
+Uganda,UGA,1975,31783
+Uganda,UGA,1976,na
+Uganda,UGA,1977,na
+Uganda,UGA,1978,na
+Uganda,UGA,1979,20305
+Uganda,UGA,1980,na
+Uganda,UGA,1981,70520
+Uganda,UGA,1982,42860
+Uganda,UGA,1983,na
+Uganda,UGA,1984,na
+Uganda,UGA,1985,na
+Uganda,UGA,1986,213999
+Uganda,UGA,1987,na
+Uganda,UGA,1988,427819
+Uganda,UGA,1989,585075
+Uganda,UGA,1990,na
+Uganda,UGA,1991,na
+Uganda,UGA,1992,na
+Uganda,UGA,1993,na
+Uganda,UGA,1994,na
+Uganda,UGA,1995,na
+Uganda,UGA,1996,na
+Uganda,UGA,1997,na
+Uganda,UGA,2000,516.8
+Uganda,UGA,2005,477.6
+Uganda,UGA,2010,429.1
+Uganda,UGA,2015,218.3
+United Arabs Emirates,ARE,1962,na
+United Arabs Emirates,ARE,1963,na
+United Arabs Emirates,ARE,1964,na
+United Arabs Emirates,ARE,1965,na
+United Arabs Emirates,ARE,1966,na
+United Arabs Emirates,ARE,1967,na
+United Arabs Emirates,ARE,1968,na
+United Arabs Emirates,ARE,1969,na
+United Arabs Emirates,ARE,1970,na
+United Arabs Emirates,ARE,1971,na
+United Arabs Emirates,ARE,1972,3554
+United Arabs Emirates,ARE,1973,3191
+United Arabs Emirates,ARE,1974,1189
+United Arabs Emirates,ARE,1975,2144
+United Arabs Emirates,ARE,1976,na
+United Arabs Emirates,ARE,1977,14737
+United Arabs Emirates,ARE,1978,22662
+United Arabs Emirates,ARE,1979,11599
+United Arabs Emirates,ARE,1980,8560
+United Arabs Emirates,ARE,1981,7653
+United Arabs Emirates,ARE,1982,6224
+United Arabs Emirates,ARE,1983,4815
+United Arabs Emirates,ARE,1984,3516
+United Arabs Emirates,ARE,1985,2599
+United Arabs Emirates,ARE,1986,3070
+United Arabs Emirates,ARE,1987,2717
+United Arabs Emirates,ARE,1988,3056
+United Arabs Emirates,ARE,1989,2823
+United Arabs Emirates,ARE,1990,3514
+United Arabs Emirates,ARE,1991,3457
+United Arabs Emirates,ARE,1992,3605
+United Arabs Emirates,ARE,1993,3735
+United Arabs Emirates,ARE,1994,3335
+United Arabs Emirates,ARE,1995,2914
+United Arabs Emirates,ARE,1996,139
+United Arabs Emirates,ARE,1997,99
+Upper middle income,,2000,8.998181916
+Upper middle income,,2005,6.039380966
+Upper middle income,,2010,3.749804449
+Upper middle income,,2015,3.554437728
+Upper Volta,,1962,83043
+Upper Volta,,1963,110958
+Upper Volta,,1964,132734
+Upper Volta,,1965,228748
+Upper Volta,,1966,533571
+Upper Volta,,1967,na
+Upper Volta,,1968,105349
+Upper Volta,,1969,582937
+Upper Volta,,1970,532755
+Upper Volta,,1971,700844
+Upper Volta,,1972,na
+Upper Volta,,1973,592951
+Upper Volta,,1974,1695
+Upper Volta,,1975,na
+Upper Volta,,1976,473495
+Upper Volta,,1977,252689
+Upper Volta,,1978,371730
+Upper Volta,,1979,317533
+Upper Volta,,1980,211661
+Upper Volta,,1981,326183
+Upper Volta,,1982,na
+Upper Volta,,1983,na
+Upper Volta,,1984,na
+Upper Volta,,1985,na
+Upper Volta,,1986,na
+Upper Volta,,1987,na
+Upper Volta,,1988,na
+Upper Volta,,1989,na
+Upper Volta,,1990,na
+Upper Volta,,1991,na
+Upper Volta,,1992,na
+Upper Volta,,1993,na
+Upper Volta,,1994,na
+Upper Volta,,1995,na
+Upper Volta,,1996,na
+Upper Volta,,1997,na
+Uruguay,URY,1962,1
+Uruguay,URY,1963,1
+Uruguay,URY,1964,0
+Uruguay,URY,1965,2
+Uruguay,URY,1966,4
+Uruguay,URY,1967,0
+Uruguay,URY,1968,0
+Uruguay,URY,1969,na
+Uruguay,URY,1970,1
+Uruguay,URY,1971,na
+Uruguay,URY,1972,1
+Uruguay,URY,1973,1
+Uruguay,URY,1974,0
+Uruguay,URY,1975,0
+Uruguay,URY,1976,na
+Uruguay,URY,1977,1
+Uruguay,URY,1978,1
+Uruguay,URY,1979,0
+Uruguay,URY,1980,na
+Uruguay,URY,1981,na
+Uruguay,URY,1982,na
+Uruguay,URY,1983,na
+Uruguay,URY,1984,na
+Uruguay,URY,1985,na
+Uruguay,URY,1986,na
+Uruguay,URY,1987,na
+Uruguay,URY,1988,na
+Uruguay,URY,1989,na
+Uruguay,URY,1990,na
+Uruguay,URY,1991,na
+Uruguay,URY,1992,na
+Uruguay,URY,1993,na
+Uruguay,URY,1994,na
+Uruguay,URY,1995,na
+Uruguay,URY,1996,na
+Uruguay,URY,1997,na
+USSR,RUS,1962,178
+USSR,RUS,1963,140
+USSR,RUS,1964,164
+USSR,RUS,1965,357
+USSR,RUS,1966,300
+USSR,RUS,1967,289
+USSR,RUS,1968,262
+USSR,RUS,1969,357
+USSR,RUS,1970,469
+USSR,RUS,1971,307
+USSR,RUS,1972,211
+USSR,RUS,1973,226
+USSR,RUS,1974,272
+USSR,RUS,1975,275
+USSR,RUS,1976,310
+USSR,RUS,1977,350
+USSR,RUS,1978,408
+USSR,RUS,1979,399
+USSR,RUS,1980,386
+USSR,RUS,1981,304
+USSR,RUS,1982,na
+USSR,RUS,1983,na
+USSR,RUS,1984,na
+USSR,RUS,1985,na
+USSR,RUS,1986,na
+USSR,RUS,1987,na
+USSR,RUS,1988,na
+USSR,RUS,1989,na
+USSR,RUS,1990,na
+USSR,RUS,1991,na
+USSR,RUS,1992,na
+USSR,RUS,1993,na
+USSR,RUS,1994,na
+USSR,RUS,1995,na
+USSR,RUS,1996,na
+USSR,RUS,1997,na
+Uzbekistan,UZB,2000,5.6
+Uzbekistan,UZB,2005,4.3
+Uzbekistan,UZB,2010,0.1
+Uzbekistan,UZB,2015,0
+Vanuatu,VUT,1962,574
+Vanuatu,VUT,1963,2031
+Vanuatu,VUT,1964,1931
+Vanuatu,VUT,1965,1612
+Vanuatu,VUT,1966,12610
+Vanuatu,VUT,1967,15195
+Vanuatu,VUT,1968,11278
+Vanuatu,VUT,1969,2178
+Vanuatu,VUT,1970,2562
+Vanuatu,VUT,1971,1201
+Vanuatu,VUT,1972,na
+Vanuatu,VUT,1973,2512
+Vanuatu,VUT,1974,4657
+Vanuatu,VUT,1975,869
+Vanuatu,VUT,1976,3251
+Vanuatu,VUT,1977,5285
+Vanuatu,VUT,1978,4782
+Vanuatu,VUT,1979,2935
+Vanuatu,VUT,1980,4347
+Vanuatu,VUT,1981,6313
+Vanuatu,VUT,1982,11197
+Vanuatu,VUT,1983,25256
+Vanuatu,VUT,1984,28033
+Vanuatu,VUT,1985,24882
+Vanuatu,VUT,1986,22449
+Vanuatu,VUT,1987,26625
+Vanuatu,VUT,1988,26894
+Vanuatu,VUT,1989,37800
+Vanuatu,VUT,1990,28558
+Vanuatu,VUT,1991,17150
+Vanuatu,VUT,1992,13330
+Vanuatu,VUT,1993,10377
+Vanuatu,VUT,1994,3771
+Vanuatu,VUT,1995,8318
+Vanuatu,VUT,1996,5654
+Vanuatu,VUT,1997,6099
+Vanuatu,VUT,2000,135
+Vanuatu,VUT,2005,131.3
+Vanuatu,VUT,2010,82
+Vanuatu,VUT,2015,3.3
+Venezuela,VEN,1962,1210
+Venezuela,VEN,1963,2853
+Venezuela,VEN,1964,5884
+Venezuela,VEN,1965,4794
+Venezuela,VEN,1966,4634
+Venezuela,VEN,1967,5257
+Venezuela,VEN,1968,5735
+Venezuela,VEN,1969,8740
+Venezuela,VEN,1970,15288
+Venezuela,VEN,1971,23626
+Venezuela,VEN,1972,18062
+Venezuela,VEN,1973,11687
+Venezuela,VEN,1974,7687
+Venezuela,VEN,1975,5952
+Venezuela,VEN,1976,4768
+Venezuela,VEN,1977,5304
+Venezuela,VEN,1978,5065
+Venezuela,VEN,1979,4705
+Venezuela,VEN,1980,3884
+Venezuela,VEN,1981,3354
+Venezuela,VEN,1982,4269
+Venezuela,VEN,1983,8400
+Venezuela,VEN,1984,12242
+Venezuela,VEN,1985,14305
+Venezuela,VEN,1986,14361
+Venezuela,VEN,1987,17988
+Venezuela,VEN,1988,45827
+Venezuela,VEN,1989,43374
+Venezuela,VEN,1990,46910
+Venezuela,VEN,1991,43454
+Venezuela,VEN,1992,21416
+Venezuela,VEN,1993,12539
+Venezuela,VEN,1994,13727
+Venezuela,VEN,1995,16371
+Venezuela,VEN,1996,18858
+Venezuela,VEN,1997,22400
+Venezuela,VEN,2000,29.7
+Venezuela,VEN,2005,27.2
+Venezuela,VEN,2010,25.2
+Venezuela,VEN,2015,68.4
+Vietnam,VNM,1962,116743
+Vietnam,VNM,1963,na
+Vietnam,VNM,1964,13728
+Vietnam,VNM,1965,16982
+Vietnam,VNM,1966,10822
+Vietnam,VNM,1967,11261
+Vietnam,VNM,1968,1645
+Vietnam,VNM,1969,24070
+Vietnam,VNM,1970,8634
+Vietnam,VNM,1971,5797
+Vietnam,VNM,1972,7486
+Vietnam,VNM,1973,9327
+Vietnam,VNM,1974,11039
+Vietnam,VNM,1975,na
+Vietnam,VNM,1976,na
+Vietnam,VNM,1977,na
+Vietnam,VNM,1978,na
+Vietnam,VNM,1979,40782
+Vietnam,VNM,1980,31763
+Vietnam,VNM,1981,42714
+Vietnam,VNM,1982,50920
+Vietnam,VNM,1983,63649
+Vietnam,VNM,1984,58806
+Vietnam,VNM,1985,78374
+Vietnam,VNM,1986,87351
+Vietnam,VNM,1987,130690
+Vietnam,VNM,1988,151520
+Vietnam,VNM,1989,142818
+Vietnam,VNM,1990,139588
+Vietnam,VNM,1991,187994
+Vietnam,VNM,1992,225928
+Vietnam,VNM,1993,156069
+Vietnam,VNM,1994,140120
+Vietnam,VNM,1995,100116
+Vietnam,VNM,1996,84625
+Vietnam,VNM,1997,65859
+Vietnam,VNM,2000,6.3
+Vietnam,VNM,2005,1.2
+Vietnam,VNM,2010,0.7
+Vietnam,VNM,2015,0.3
+World,OWID_WRL,2000,158.1243513
+World,OWID_WRL,2005,141.2566957
+World,OWID_WRL,2010,118.740388
+World,OWID_WRL,2015,93.95628692
+Yemen,YEM,2000,80
+Yemen,YEM,2005,56.8
+Yemen,YEM,2010,41.9
+Yemen,YEM,2015,22.2
+Yemen. Republic,,1962,na
+Yemen. Republic,,1963,na
+Yemen. Republic,,1964,na
+Yemen. Republic,,1965,na
+Yemen. Republic,,1966,na
+Yemen. Republic,,1967,na
+Yemen. Republic,,1968,na
+Yemen. Republic,,1969,na
+Yemen. Republic,,1970,na
+Yemen. Republic,,1971,na
+Yemen. Republic,,1972,na
+Yemen. Republic,,1973,400
+Yemen. Republic,,1974,na
+Yemen. Republic,,1975,2820
+Yemen. Republic,,1976,na
+Yemen. Republic,,1977,1337
+Yemen. Republic,,1978,na
+Yemen. Republic,,1979,3838
+Yemen. Republic,,1980,5824
+Yemen. Republic,,1981,10029
+Yemen. Republic,,1982,20641
+Yemen. Republic,,1983,2168
+Yemen. Republic,,1984,1262
+Yemen. Republic,,1985,1178
+Yemen. Republic,,1986,1862
+Yemen. Republic,,1987,2551
+Yemen. Republic,,1988,2618
+Yemen. Republic,,1989,3067
+Yemen. Republic,,1990,11384
+Yemen. Republic,,1991,12717
+Yemen. Republic,,1992,29320
+Yemen. Republic,,1993,39396
+Yemen. Republic,,1994,37201
+Yemen. Republic,,1995,na
+Yemen. Republic,,1996,416246
+Yemen. Republic,,1997,1394495
+Yemen.People Republic,,1962,na
+Yemen.People Republic,,1963,na
+Yemen.People Republic,,1964,na
+Yemen.People Republic,,1965,na
+Yemen.People Republic,,1966,na
+Yemen.People Republic,,1967,na
+Yemen.People Republic,,1968,525
+Yemen.People Republic,,1969,na
+Yemen.People Republic,,1970,na
+Yemen.People Republic,,1971,426
+Yemen.People Republic,,1972,2424
+Yemen.People Republic,,1973,4380
+Yemen.People Republic,,1974,10059
+Yemen.People Republic,,1975,13141
+Yemen.People Republic,,1976,7875
+Yemen.People Republic,,1977,9563
+Yemen.People Republic,,1978,8317
+Yemen.People Republic,,1979,4083
+Yemen.People Republic,,1980,2153
+Yemen.People Republic,,1981,4079
+Yemen.People Republic,,1982,7609
+Yemen.People Republic,,1983,9294
+Yemen.People Republic,,1984,3615
+Yemen.People Republic,,1985,3187
+Yemen.People Republic,,1986,3564
+Yemen.People Republic,,1987,5540
+Yemen.People Republic,,1988,7805
+Yemen.People Republic,,1989,8716
+Yemen.People Republic,,1990,0
+Yemen.People Republic,,1991,0
+Yemen.People Republic,,1992,0
+Yemen.People Republic,,1993,0
+Yemen.People Republic,,1994,0
+Yemen.People Republic,,1995,0
+Yemen.People Republic,,1996,0
+Yemen.People Republic,,1997,0
+Yugoslavia,,1962,30
+Yugoslavia,,1963,30
+Yugoslavia,,1964,60
+Yugoslavia,,1965,29
+Yugoslavia,,1966,26
+Yugoslavia,,1967,17
+Yugoslavia,,1968,17
+Yugoslavia,,1969,15
+Yugoslavia,,1970,16
+Yugoslavia,,1971,15
+Yugoslavia,,1972,14
+Yugoslavia,,1973,15
+Yugoslavia,,1974,20
+Yugoslavia,,1975,13
+Yugoslavia,,1976,41
+Yugoslavia,,1977,41
+Yugoslavia,,1978,50
+Yugoslavia,,1979,55
+Yugoslavia,,1980,83
+Yugoslavia,,1981,58
+Yugoslavia,,1982,na
+Yugoslavia,,1983,na
+Yugoslavia,,1984,na
+Yugoslavia,,1985,na
+Yugoslavia,,1986,na
+Yugoslavia,,1987,na
+Yugoslavia,,1988,na
+Yugoslavia,,1989,na
+Yugoslavia,,1990,na
+Yugoslavia,,1991,na
+Yugoslavia,,1992,na
+Yugoslavia,,1993,na
+Yugoslavia,,1994,na
+Yugoslavia,,1995,na
+Yugoslavia,,1996,na
+Yugoslavia,,1997,na
+Zaire,,1962,198647
+Zaire,,1963,117630
+Zaire,,1964,na
+Zaire,,1965,na
+Zaire,,1966,na
+Zaire,,1967,na
+Zaire,,1968,na
+Zaire,,1969,464252
+Zaire,,1970,901172
+Zaire,,1971,911019
+Zaire,,1972,881762
+Zaire,,1973,na
+Zaire,,1974,na
+Zaire,,1975,na
+Zaire,,1976,na
+Zaire,,1977,na
+Zaire,,1978,331425
+Zaire,,1979,317533
+Zaire,,1980,na
+Zaire,,1981,na
+Zaire,,1982,na
+Zaire,,1983,na
+Zaire,,1984,na
+Zaire,,1985,10791
+Zaire,,1986,8761
+Zaire,,1987,12638
+Zaire,,1988,11699
+Zaire,,1989,11089
+Zaire,,1990,na
+Zaire,,1991,na
+Zaire,,1992,na
+Zaire,,1993,na
+Zaire,,1994,na
+Zaire,,1995,na
+Zaire,,1996,na
+Zaire,,1997,na
+Zambia,ZMB,1962,5845
+Zambia,ZMB,1963,13735
+Zambia,ZMB,1964,9430
+Zambia,ZMB,1965,na
+Zambia,ZMB,1966,8082
+Zambia,ZMB,1967,na
+Zambia,ZMB,1968,na
+Zambia,ZMB,1969,1253
+Zambia,ZMB,1970,na
+Zambia,ZMB,1971,na
+Zambia,ZMB,1972,532
+Zambia,ZMB,1973,1516
+Zambia,ZMB,1974,1182
+Zambia,ZMB,1975,1144
+Zambia,ZMB,1976,na
+Zambia,ZMB,1977,na
+Zambia,ZMB,1978,4063
+Zambia,ZMB,1979,10580
+Zambia,ZMB,1980,na
+Zambia,ZMB,1981,na
+Zambia,ZMB,1982,1108094
+Zambia,ZMB,1983,196804
+Zambia,ZMB,1984,na
+Zambia,ZMB,1985,140471
+Zambia,ZMB,1986,154496
+Zambia,ZMB,1987,166701
+Zambia,ZMB,1988,197265
+Zambia,ZMB,1989,1993262
+Zambia,ZMB,1990,1933696
+Zambia,ZMB,1991,2340994
+Zambia,ZMB,1992,2953692
+Zambia,ZMB,1993,3514000
+Zambia,ZMB,1994,3514000
+Zambia,ZMB,1995,2742118
+Zambia,ZMB,1996,3215866
+Zambia,ZMB,1997,na
+Zambia,ZMB,2000,382.2
+Zambia,ZMB,2005,243.4
+Zambia,ZMB,2010,155.9
+Zambia,ZMB,2015,173.7
+Zimbabwe,ZWE,1962,3272
+Zimbabwe,ZWE,1963,na
+Zimbabwe,ZWE,1964,na
+Zimbabwe,ZWE,1965,na
+Zimbabwe,ZWE,1966,na
+Zimbabwe,ZWE,1967,na
+Zimbabwe,ZWE,1968,na
+Zimbabwe,ZWE,1969,na
+Zimbabwe,ZWE,1970,na
+Zimbabwe,ZWE,1971,na
+Zimbabwe,ZWE,1972,16233
+Zimbabwe,ZWE,1973,9527
+Zimbabwe,ZWE,1974,87647
+Zimbabwe,ZWE,1975,na
+Zimbabwe,ZWE,1976,na
+Zimbabwe,ZWE,1977,na
+Zimbabwe,ZWE,1978,na
+Zimbabwe,ZWE,1979,3807
+Zimbabwe,ZWE,1980,14587
+Zimbabwe,ZWE,1981,na
+Zimbabwe,ZWE,1982,28628
+Zimbabwe,ZWE,1983,51290
+Zimbabwe,ZWE,1984,93373
+Zimbabwe,ZWE,1985,281399
+Zimbabwe,ZWE,1986,354492
+Zimbabwe,ZWE,1987,468621
+Zimbabwe,ZWE,1988,970001
+Zimbabwe,ZWE,1989,733146
+Zimbabwe,ZWE,1990,633626
+Zimbabwe,ZWE,1991,581168
+Zimbabwe,ZWE,1992,420137
+Zimbabwe,ZWE,1993,877734
+Zimbabwe,ZWE,1994,324188
+Zimbabwe,ZWE,1995,330002
+Zimbabwe,ZWE,1996,na
+Zimbabwe,ZWE,1997,na
+Zimbabwe,ZWE,2000,143.2
+Zimbabwe,ZWE,2005,142.5
+Zimbabwe,ZWE,2010,129.6
+Zimbabwe,ZWE,2015,114.2
