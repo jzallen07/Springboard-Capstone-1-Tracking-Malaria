@@ -3,6 +3,8 @@ using machine learning to estimate the impact of Malaria
 
 ## Background
 
+<ceneter><img src="/images/Picture1.png" alt="World View"></center>
+
 Malaria, though rare in the USA (most cases present in recent travelers), is still a prevailing
 pestilence that claims hundreds of thousands of lives across the world. The WHO estimates that in
 2015 there were 214 million new cases of malaria resulting in 438,000 deaths. Geographically 40% of
